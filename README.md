@@ -1,3 +1,3 @@
 HOA
 ---
->HOA crimes committted against the inocent.
+>This document will detail the crimes agains a single HOA.
