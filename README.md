@@ -1,7 +1,7 @@
 Financial Fraud Report
 ----------------------
->Details the ongoing financial fraud being committed by an HOA, property management company
->and lawn care service against HOA home owners.
+>Details financial fraud committed against home owners by the
+>following HOA, 
 
 HOA
 ---
@@ -11,7 +11,7 @@ HOA
 
 Property Management Company
 ---------------------------
->Grande Property Services
+>Grande Property Services (GPS)
 * 3754 Cape Haze Drive, Rotonda West, FL 33947
 * 941-697-9722
 
