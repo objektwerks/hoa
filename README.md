@@ -93,7 +93,7 @@ Analysis
 >But it gets much worse. The WPA board is also guilty of financially defrauding its fellow HOA homeowners!
 
 >*In Florida, financial fraud involving a vendor contract in a homeowners' association (HOA) can occur through kickbacks, billing schemes, or undisclosed conflicts of interest. These fraudulent acts are often accompanied by a breach of the vendor contract and a breach of the HOA board members' fiduciary duty to the community.*
-**Types of fraud involving vendors**
+**Types of fraud involving vendors:**
 * **Vendor kickbacks:** A corrupt board member or manager accepts a bribe from a vendor in exchange for awarding them a contract. The vendor then inflates the cost of the contract, splitting the excess profits with the board member. Recent Florida law has made kickbacks related to fines a third-degree felony.
 * **Fictitious or "ghost" vendors:** An HOA insider creates fake companies and funnels association funds to these entities through fraudulent invoices for services that were never performed.
 * **Conflicts of interest:** A board member awards a lucrative contract to a company they own or have a financial interest in, without proper disclosure to the rest of the board. Florida law strictly prohibits board members from soliciting or accepting anything of value from vendors for which no consideration has been given.
