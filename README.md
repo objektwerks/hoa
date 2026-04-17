@@ -30,6 +30,8 @@ Analysis
 --------
 >An HOA board, by law, has a fiduciary duty to its homeowners.
 
+>Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, >removal from office, and potentially criminal charges for fraud or self-dealing. While Florida law provides qualified immunity >for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or engage in criminal >acts. (Source: Google AI)
+
 Reports
 -------
 >LCS performance report results, detailing pass/fail status and LCS session date.
