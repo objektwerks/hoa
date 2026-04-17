@@ -1,6 +1,6 @@
 Financial Fraud Report
 ----------------------
->Details financial fraud committed against homeowners by the following HOA, PMC and LCSs.
+>Details financial fraud committed against homeowners by the following HOA, PMC and LCS.
 
 Homeowners Association (HOA)
 ----------------------------
