@@ -73,10 +73,8 @@ Analysis
 --------
 >An HOA board, by law, has a fiduciary duty to its homeowners.
 
->*Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, >removal from office, and potentially criminal charges for fraud or self-dealing. While Florida law provides qualified immunity >for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or engage in criminal >acts.* (Source: Google AI)
+>*Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, removal from office, and potentially criminal charges for fraud or self-dealing. While Florida law provides qualified immunity for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or engage in criminal acts.* (Source: Google AI)
 
->During the past year(s) the WPA board and GPS have knowingly been in breach of fiduciary duty as it relates to the contracts >detailed in the Contracts section. The WPA board and GPS were notified in writing of this breach at an WPA budget meeting during >2025/Q1.
+>During the past year(s) the WPA board has knowingly been in breach of its fiduciary duty as it relates to the contracts listed in the **Contracts** section. The WPA board and GPS were notified in writing of this breach at an WPA budget meeting during 2025/Q1.
 
->Pleas, via a hand-delivered letter and email, to both groups to correct the unsatisfactory lawn care service, principally by >implementing a system of accountability, were ignored. Hence, the results of the Reports section.
-
->Moreover, proof that the WPA board has been in breach of its fiduciary duty, over the past 1.5+ years, is overwhelming.
+>Pleas, via said hand-delivered letter and follow-up email, to both groups to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were ignored. Hence, the results of the **Reports** section, which detail the WPA board's unending breach of its fiduciary duty, over the past 1.5+ years.
