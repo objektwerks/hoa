@@ -103,7 +103,7 @@ Analysis
 
 >The **Overbilling or non-performance** section is key. Because it's been well established the LCS has been in material breach of contract 91% of the time over the past year - or non-performing - with the knowledge and consent of the WPA board and GPS.
 
->WPA homeowners, by law, are required to pay all scheduled HOA fees, to include LCS fees. Think of it as a legalized form of extortion by the state of Florida, with no guarantees. Sound familiar?
+>WPA homeowners, by law, are required to pay all scheduled HOA fees, to include embedded LCS fees. Think of it as a legalized form of extortion by the state of Florida, with no guarantees. Sound familiar?
 
 >So should the LCS choose to only partially render its contractually obligated services, with zero LCS contract enforcement by the WPA board and/or GPS, WPA homeowners have a few options:
 1. Suck it up; and pay for a LCS service that is only partially delivered (the status quo).
