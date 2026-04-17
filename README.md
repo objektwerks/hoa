@@ -1,9 +1,9 @@
 Financial Fraud Report
 ----------------------
->Details financial fraud committed against home owners by the following HOA, PMC and LCSs.
+>Details financial fraud committed against homeowners by the following HOA, PMC and LCSs.
 
-HOA
----
+Homeowners Association (HOA)
+----------------------------
 >Patio at Winward Association, Inc. (PWA)
 * 3754 Cape Haze Drive, Rotonda West, FL 33947
 * 941-697-9722
