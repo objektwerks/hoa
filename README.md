@@ -75,6 +75,8 @@ Property Damages
 
 >Reported incidents:
 1. 2024.3.24 - Removed by LMP on 2024.3.26
+2. 2024.5.19 - Personally removed.
+3. 2025.4.14 - Personally removed.
 
 Analysis
 --------
