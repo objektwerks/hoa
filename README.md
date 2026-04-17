@@ -1,7 +1,6 @@
 Financial Fraud Report
 ----------------------
->Details financial fraud committed against home owners by the
->following HOA, 
+>Details financial fraud committed against home owners by the following HOA, PMC and LCSs.
 
 HOA
 ---
@@ -9,14 +8,14 @@ HOA
 * 3754 Cape Haze Drive, Rotonda West, FL 33947
 * 941-697-9722
 
-Property Management Company
----------------------------
+Property Management Company (PMC)
+---------------------------------
 >Grande Property Services (GPS)
 * 3754 Cape Haze Drive, Rotonda West, FL 33947
 * 941-697-9722
 
-Lawn Care Service
------------------
+Lawn Care Service (LCS)
+-----------------------
 >Juniper acquired LMP in 2024.
 
 >Landscape Maintenance Professionals, Inc. (LMP)
