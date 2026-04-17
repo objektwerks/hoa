@@ -25,9 +25,9 @@ Lawn Care Service
 * Seffner, FL 31583
 * 813-757-6500
 
-Juniper Landscaping
-4415 Metro Parkway
-Suite 300
-Fort Myers, FL 33916
-239-561-5980
+>Juniper Landscaping
+* 4415 Metro Parkway
+* Suite 300
+* Fort Myers, FL 33916
+* 239-561-5980
 
