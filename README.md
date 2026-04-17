@@ -32,4 +32,4 @@ Analysis
 
 Reports
 -------
->TODO
+>A list of reports, detailing the lawn care service date and pass/fail status.
