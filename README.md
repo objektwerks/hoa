@@ -106,7 +106,7 @@ Analysis
 >WPA homeowners, by law, are required to pay all scheduled HOA fees, to include LCS fees. Think of it as a legalized form of extortion by the state of Florida, with no guarantees. Sound familiar?
 
 >So should the LCS choose to only partially render its contractually obligated services, with zero LCS contract enforcement by the WPA board and/or GPS, WPA homeowners have a few options:
-1. Suck it up; and pay for a service that is only partially delivered.
+1. Suck it up; and pay for a LCS service that is only partially delivered (the status quo).
 2. Remove the WPA board; fire the LCS and GPS; and hire a new LCS and PMC.
 3. Legally dissolve the WPA (which might prove easier, later this year).
 4. Take the WPA and GPS to court (an expensive option).
