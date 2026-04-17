@@ -68,5 +68,5 @@ Reports
 31. Fail : 2026.4.9
 32. Fail : 2026.4.14
 
-* Success Rate: 10%
-* Failure Rate: 90%
+* Success Rate: 9%
+* Failure Rate: 91%
