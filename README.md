@@ -94,6 +94,8 @@ While the HOA is responsible for addressing the damage, the homeowner may need t
 
 >The WPA board and GPS ignored the homeowner's legal rights by ignoring the invoices, after ignoring previous homeowner requests for relieve from LCS property damages.
 
+>Related emails available upon request.
+
 Analysis
 --------
 >An HOA board, by law, has a fiduciary duty to its homeowners.
