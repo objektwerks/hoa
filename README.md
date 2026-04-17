@@ -32,7 +32,7 @@ Analysis
 
 Reports
 -------
->A list of report results, detailing fail/pass status and the lawn care service date.
+>A list of report results, detailing pass/fail status and the lawn care service date.
 
 * Pass Rate: 9%
 * Fail Rate: 91%
