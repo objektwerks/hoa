@@ -19,3 +19,5 @@ Rotonda West, FL 33947
 Lawn Care Service
 -----------------
 Landscape Maintenance Professionals, Inc. (LMP)
+
+Juniper Landscaping
