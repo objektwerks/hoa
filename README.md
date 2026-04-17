@@ -77,7 +77,7 @@ Property Damages
 1. 2024.3.24 - Removed by LMP on 2024.3.26
 2. 2024.5.19 - Personally removed.
 3. 2025.4.14 - Personally removed.
-4. 2025.7.29 - Invoice GPS (invoice.2025.7.29-1)
+4. 2025.7.29 - Invoiced GPS (invoice.2025.7.29-1)
 5. 2025.10.17 - Invoiced GPS (invoice.2025.10.17-1)
 
 >**Florida HOA Landscape Damages**
