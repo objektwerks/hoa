@@ -88,6 +88,6 @@ Analysis
 * **Voiding Actions:** Courts can strike down, reverse, or cancel actions taken by the board that constitute a breach of duty.
 * **Legal Fees:** The association may have to pay legal costs for lawsuits, and in some cases, the individuals breaching their duty may be held liable for these costs. (Source: Google AI)
 
->Clearly, the WPA board is ***guilty*** of being in breach of its fiduciary duty to its fellow HOA homeowners. GPS is also complicit in this crime. The only crime committed by the LCS is its unending material breach of contract and gross incompetence.
+>Clearly, the WPA board is ***guilty*** of being in breach of its fiduciary duty to its fellow HOA homeowners. GPS is also complicit in this crime. The only crime committed by the LCS is its unending material breaches of contract and gross incompetence.
 
 >But it gets much worse.
