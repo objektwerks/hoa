@@ -27,6 +27,8 @@ Contracts
 
 >[2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
 
+>Right-click link to open in new tab.
+
 Analysis
 --------
 >TODO
