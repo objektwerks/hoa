@@ -89,3 +89,5 @@ Analysis
 * **Legal Fees:** The association may have to pay legal costs for lawsuits, and in some cases, the individuals breaching their duty may be held liable for these costs. (Source: Google AI)
 
 >Clearly, the WPA board is ***guilty*** of being in breach of its fiduciary duty to its fellow HOA homeowners.
+
+>But it gets much worse.
