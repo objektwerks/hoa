@@ -35,4 +35,5 @@ Reports
 >A list of reports, detailing the lawn care service date and pass/fail status.
 >Detailed reports, with photos, are provided upon request via a USB storage device.
 
-1. 2025.6.5 : Fail
+1. 2025.6.5  : Fail
+2. 2025.6.11 : Fail
