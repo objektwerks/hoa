@@ -111,5 +111,5 @@ Analysis
 3. Legally dissolve the WPA (which might prove easier, later this year).
 4. Take the WPA and GPS to court (an expensive option).
 
->The challenge to any such action, is that the WPA is slowly dying - like so many HOAs in Florida. Florida HOA homeowners are typically seniors, who are not long for this world and have no heirs. Even if they have heirs, few can afford to maintain a second residence. Moreover, they can't sell their inherited residence in a real estate market that effectively doesn't exist. In other words, the WPA could go bankrupt in the next 3 to 5 years (or less, depending on the global reset).
+>The challenge to any such action is that the WPA is slowly dying - like so many HOAs in Florida. Florida HOA homeowners are typically seniors, who are not long for this world and have no heirs. Even if they have heirs, few can afford to maintain a second residence. Moreover, they can't sell their inherited residence in a real estate market that effectively doesn't exist. In other words, the WPA could go bankrupt in the next 3 to 5 years (or less, depending on the global reset) - solving the corrupt WPA board issue altogether.
 
