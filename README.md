@@ -98,4 +98,7 @@ Analysis
 * **Vendor kickbacks:** A corrupt board member or manager accepts a bribe from a vendor in exchange for awarding them a contract. The vendor then inflates the cost of the contract, splitting the excess profits with the board member. Recent Florida law has made kickbacks related to fines a third-degree felony.
 * **Fictitious or "ghost" vendors:** An HOA insider creates fake companies and funnels association funds to these entities through fraudulent invoices for services that were never performed.
 * **Conflicts of interest:** A board member awards a lucrative contract to a company they own or have a financial interest in, without proper disclosure to the rest of the board. Florida law strictly prohibits board members from soliciting or accepting anything of value from vendors for which no consideration has been given.
-* **Overbilling or non-performance:** A vendor bills the association for more hours or a higher level of work than was actually completed. In other cases, a vendor is paid for services that were never rendered. (Source: Google AI)
+* **Overbilling or non-performance:** A vendor bills the association for more hours or a higher level of work than was actually completed. In other cases, a vendor is paid for services that were never rendered.
+(Source: Google AI)
+
+>The **Overbilling or non-performance** section is key.
