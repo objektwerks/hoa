@@ -77,6 +77,6 @@ Analysis
 
 >Since 2025/Q1 the WPA board has knowingly been in breach of its fiduciary duty as it relates to the **Contracts** section. The WPA board and GPS were notified in writing of this breach at a WPA budget meeting in 2025/Q1.
 
->Pleas, via said a hand-delivered letter and follow-up email, to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were ignored.
+>Pleas, via said a hand-delivered letter and follow-up email, to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were soundly ignored.
 
 >Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the 91% fail rate of the LCS.
