@@ -22,8 +22,8 @@ Lawn Care Service (LCS)
 
 Contracts
 ---------
-*[2024 - 2025 LCS Contract](2024-2025-lawn%20care%20service-contract.pdf)
-*[2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
+* [2024 - 2025 LCS Contract](2024-2025-lawn%20care%20service-contract.pdf)
+* [2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
 >Right-click link to ***open link in new tab***.
 
 Analysis
