@@ -79,6 +79,7 @@ Property Damages
 3. 2025.4.14 - Removed by homeowner.
 4. 2025.7.29 - Removed by homeowner. Invoiced GPS (invoice.2025.7.29-1).
 5. 2025.10.17 - Removed by homeowner. Invoiced GPS (invoice.2025.10.17-1).
+>Invoices available upon request.
 
 >**Florida HOA Landscape Damages**
 
