@@ -34,6 +34,8 @@ Analysis
 
 >During the past year(s) the WPA board and GPS have knowingly been in breach of fiduciary duty as it relates to the contracts detailed in the Contracts section. The WPA board and GPS were notified in writing of this breach at an WPA budget meeting during 2025/Q1.
 
+>Pleas, via a hand-delivered letter and email, to both groups to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were ignored. Hence, the results of the Reports section.
+
 Reports
 -------
 >LCS performance report results, detailing pass/fail status and LCS session date.
