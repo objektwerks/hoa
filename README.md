@@ -4,10 +4,10 @@ Financial Fraud Report
 
 HOA
 ---
-Patio at Winward Association, Inc. (PWA)
-3754 Cape Haze Drive
-Rotonda West, FL 33947
-941-697-9722
+* Patio at Winward Association, Inc. (PWA)
+* 3754 Cape Haze Drive
+* Rotonda West, FL 33947
+* 941-697-9722
 
 Property Management Company
 ---------------------------
