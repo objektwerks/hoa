@@ -34,8 +34,6 @@ Reports
 -------
 >A list of report results, detailing fail/pass status and the lawn care service date.
 
->Detailed reports, with photos, are provided upon request via a USB storage device.
-
 1. Fail : 2025.6.5
 2. Fail : 2025.6.11
 3. Fail : 2025.6.25
@@ -71,3 +69,5 @@ Reports
 
 * Success Rate: 9%
 * Failure Rate: 91%
+
+>Detailed reports, with photos, are provided upon request via a USB storage device.
