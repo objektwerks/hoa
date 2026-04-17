@@ -70,4 +70,4 @@ Reports
 * Pass Rate: 9%
 * Fail Rate: 91%
 
->Detailed reports, with photos, are provided upon request via a USB storage device.
+>Detailed reports, with photos, are available upon request via a USB storage device.
