@@ -87,3 +87,5 @@ Analysis
 * **Criminal Charges:** Knowingly accepting kickbacks, stealing, or misappropriating funds is a felony in Florida, according to.
 * **Voiding Actions:** Courts can strike down, reverse, or cancel actions taken by the board that constitute a breach of duty.
 * **Legal Fees:** The association may have to pay legal costs for lawsuits, and in some cases, the individuals breaching their duty may be held liable for these costs. (Source: Google AI)
+
+>The WPA board is ***guilty*** of being in breach of its fiduciary duty to its fellow HOA homeowners.
