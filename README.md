@@ -28,7 +28,7 @@ Contracts
 
 Analysis
 --------
->TODO
+>An HOA board, by law, has a fiduciary duty to its homeowners.
 
 Reports
 -------
