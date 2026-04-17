@@ -14,8 +14,6 @@ Property Management Company (PMC)
 
 Lawn Care Service (LCS)
 -----------------------
->Juniper acquired LMP in 2024.
-
 * **Landscape Maintenance Professionals, Inc. (LMP)**
 * P.O. Box 267, Seffner, FL 31583 : 813-757-6500
 
