@@ -82,8 +82,8 @@ Analysis
 >Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the LCS's 91% fail rate.
 
 >Key Penalties and Consequences:
-**Personal Liability:** In cases of willful misconduct, gross negligence, or self-dealing, members can be held personally responsible for damages caused to the association.
-**Removal from Office:** Members who violate their fiduciary duties, particularly through self-dealing or accepting kickbacks, can be removed, with severe offenses potentially requiring removal.
-**Criminal Charges:** Knowingly accepting kickbacks, stealing, or misappropriating funds is a felony in Florida, according to.
-**Voiding Actions:** Courts can strike down, reverse, or cancel actions taken by the board that constitute a breach of duty.
-**Legal Fees:** The association may have to pay legal costs for lawsuits, and in some cases, the individuals breaching their duty may be held liable for these costs. (Source: Google AI)
+* **Personal Liability:** In cases of willful misconduct, gross negligence, or self-dealing, members can be held personally responsible for damages caused to the association.
+* **Removal from Office:** Members who violate their fiduciary duties, particularly through self-dealing or accepting kickbacks, can be removed, with severe offenses potentially requiring removal.
+* **Criminal Charges:** Knowingly accepting kickbacks, stealing, or misappropriating funds is a felony in Florida, according to.
+* **Voiding Actions:** Courts can strike down, reverse, or cancel actions taken by the board that constitute a breach of duty.
+* **Legal Fees:** The association may have to pay legal costs for lawsuits, and in some cases, the individuals breaching their duty may be held liable for these costs. (Source: Google AI)
