@@ -69,6 +69,10 @@ Reports
 
 >Detailed reports, with photos, are available upon request via a USB storage device.
 
+Property Damages
+----------------
+>The LCS routinely damages the property of WPA homeowners - in particular, driveways.
+
 Analysis
 --------
 >An HOA board, by law, has a fiduciary duty to its homeowners.
