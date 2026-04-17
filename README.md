@@ -30,6 +30,8 @@ Contracts
 ---------
 >[2024 - 2025 LCS Contract](2024-2025-lawn%20care%20service-contract.pdf)
 
+><a href="./2024-2025-lawn%20care%20service-contract.pdf" target="_blank">2024 - 2025 LCS Contract</a>
+
 >[2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
 
 Analysis
