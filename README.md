@@ -20,8 +20,7 @@ Lawn Care Service
 >Juniper acquired LMP in 2024.
 
 >Landscape Maintenance Professionals, Inc. (LMP)
-* P.O. Box 267
-* Seffner, FL 31583
+* P.O. Box 267, Seffner, FL 31583
 * 813-757-6500
 
 >Juniper Landscaping
