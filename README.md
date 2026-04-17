@@ -33,4 +33,4 @@ Analysis
 Reports
 -------
 >A list of reports, detailing the lawn care service date and pass/fail status.
->Detailed reports are provided upon request via a USB storage device.
+>Detailed reports, with photos, are provided upon request via a USB storage device.
