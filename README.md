@@ -102,3 +102,5 @@ Analysis
 (Source: Google AI)
 
 >The **Overbilling or non-performance** section is key. Because it's been well established that the LCS has been in material breach of contract 91% of the time over the past year - with the knowledge and consent of the WPA board and GPS.
+
+>WPA homeowners, by law, are required to pay all scheduled HOA fees, to include LCS.
