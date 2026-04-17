@@ -22,7 +22,7 @@ Lawn Care Service (LCS)
 * P.O. Box 267, Seffner, FL 31583
 * 813-757-6500
 
-* Juniper Landscaping
+* **Juniper Landscaping**
 * 4415 Metro Parkway, Suite 300, Fort Myers, FL 33916
 * 239-561-5980
 
