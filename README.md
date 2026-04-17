@@ -22,8 +22,8 @@ Lawn Care Service (LCS)
 
 Contracts
 ---------
-* [2024 - 2025 LCS Contract](2024-2025-lawn%20care%20service-contract.pdf)
-* [2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
+1. [2024 - 2025 LCS Contract](2024-2025-lawn%20care%20service-contract.pdf)
+2. [2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
 >Right-click link to ***open link in new tab***.
 
 Reports
@@ -88,8 +88,8 @@ While the HOA is responsible for addressing the damage, the homeowner may need t
 
 >*In addition to the above info, the following legal opinions, from a top FL real estate lawyer, address this issue:*
 
-1. https://www.galleriarealtors.com/whos-responsible-for-landscaper-damage
-2. https://www.sun-sentinel.com/2021/05/27/ask-a-real-estate-pro-is-hoa-responsible-for-fixing-deck-damaged-by-landscaper/
+1. [Who is Responsible for Landscaper Damage](https://www.galleriarealtors.com/whos-responsible-for-landscaper-damage)
+2. [Real Estate Pro on Landscaper Damage](https://www.sun-sentinel.com/2021/05/27/ask-a-real-estate-pro-is-hoa-responsible-for-fixing-deck-damaged-by-landscaper/)
 >Right-click link to ***open link in new tab***.
 
 >Naturally, the WPA board and GPS ignored my legal rights.
