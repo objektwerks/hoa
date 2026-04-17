@@ -32,7 +32,7 @@ Analysis
 
 Reports
 -------
->A list of report results, detailing pass/fail status and the lawn care service date.
+>LCS performance report results, detailing pass/fail status and LCS session date.
 
 * Pass Rate: 9%
 * Fail Rate: 91%
