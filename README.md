@@ -1,3 +1,7 @@
-Patio at Windward Association (PWA): Financial Fraud Report
-----------------------------------------------------------
->This report details the ongoing financial fraud committed by the PWA board and property management company, Grande Property.
+Financial Fraud Report
+----------------------
+>Details the ongoing financial fraud being committed an HOA, property management company and lawn care service.
+
+HOA
+---
+Patio at Winward Association (PWA)
