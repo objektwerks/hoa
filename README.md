@@ -32,7 +32,8 @@ Analysis
 
 Reports
 -------
->A list of reports, detailing fail/pass status and the lawn care service date.
+>A list of report results, detailing fail/pass status and the lawn care service date.
+
 >Detailed reports, with photos, are provided upon request via a USB storage device.
 
 1. Fail : 2025.6.5
