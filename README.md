@@ -26,16 +26,6 @@ Contracts
 * [2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
 >Right-click link to ***open link in new tab***.
 
-Analysis
---------
->An HOA board, by law, has a fiduciary duty to its homeowners.
-
->Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, >removal from office, and potentially criminal charges for fraud or self-dealing. While Florida law provides qualified immunity >for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or engage in criminal >acts. (Source: Google AI)
-
->During the past year(s) the WPA board and GPS have knowingly been in breach of fiduciary duty as it relates to the contracts detailed in the Contracts section. The WPA board and GPS were notified in writing of this breach at an WPA budget meeting during 2025/Q1.
-
->Pleas, via a hand-delivered letter and email, to both groups to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were ignored. Hence, the results of the Reports section.
-
 Reports
 -------
 >LCS performance report results, detailing pass/fail status and LCS session date.
@@ -78,3 +68,13 @@ Reports
 * Fail Rate: 91%
 
 >Detailed reports, with photos, are available upon request via a USB storage device.
+
+Analysis
+--------
+>An HOA board, by law, has a fiduciary duty to its homeowners.
+
+>Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, >removal from office, and potentially criminal charges for fraud or self-dealing. While Florida law provides qualified immunity >for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or engage in criminal >acts. (Source: Google AI)
+
+>During the past year(s) the WPA board and GPS have knowingly been in breach of fiduciary duty as it relates to the contracts detailed in the Contracts section. The WPA board and GPS were notified in writing of this breach at an WPA budget meeting during 2025/Q1.
+
+>Pleas, via a hand-delivered letter and email, to both groups to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were ignored. Hence, the results of the Reports section.
