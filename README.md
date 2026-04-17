@@ -89,7 +89,7 @@ While the HOA is responsible for addressing the damage, the homeowner may need t
 >*In addition to the above info, the following legal opinions, from a top FL real estate lawyer, address this issue:*
 
 1. [Who is Responsible for Landscaper Damage](https://www.galleriarealtors.com/whos-responsible-for-landscaper-damage)
-2. [Real Estate Pro on Landscaper Damage](https://www.sun-sentinel.com/2021/05/27/ask-a-real-estate-pro-is-hoa-responsible-for-fixing-deck-damaged-by-landscaper/)
+2. [Real Estate Lawyer on Landscaper Damage](https://www.sun-sentinel.com/2021/05/27/ask-a-real-estate-pro-is-hoa-responsible-for-fixing-deck-damaged-by-landscaper/)
 >Right-click link to ***open link in new tab***.
 
 >Naturally, the WPA board and GPS ignored my legal rights.
