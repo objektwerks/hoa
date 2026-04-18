@@ -146,4 +146,4 @@ Analysis
 
 >*How did you go bankrupt? Two ways. Gradually, then suddenly.* ***Ernest Hemingway***
 
->So, what to do? Take action or not?
+>So, what to do? Take action or not, letting fate take its course?
