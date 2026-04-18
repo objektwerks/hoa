@@ -74,11 +74,11 @@ Property Damages
 >The LCS routinely damages WPA homeowner property - in particular, driveways and shrubs.
 
 >Reported incidents:
-1. 2024.3.24 - Removed by LMP on 2024.3.26
-2. 2024.5.19 - Removed by homeowner.
-3. 2025.4.14 - Removed by homeowner.
-4. 2025.7.29 - Removed by homeowner. Invoiced GPS (invoice.2025.7.29-1).
-5. 2025.10.17 - Removed by homeowner. Invoiced GPS (invoice.2025.10.17-1).
+1. 2024.3.24 - Damage to driveway removed by LMP on 2024.3.26
+2. 2024.5.19 - Damage to driveway removed by homeowner.
+3. 2025.4.14 - Damage to driveway removed by homeowner.
+4. 2025.7.29 - Damage to driveway removed by homeowner. Invoiced GPS (invoice.2025.7.29-1).
+5. 2025.10.17 - Damage to driveway removed by homeowner. Invoiced GPS (invoice.2025.10.17-1).
 >Invoices available upon request.
 
 >**Florida HOA Landscape Damages**
