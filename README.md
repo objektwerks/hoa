@@ -138,7 +138,7 @@ Analysis
 3. Legally dissolve the WPA (which might prove easier, later this year).
 4. Take the WPA and GPS to court (an expensive option).
 
->Florida legislation to more readily dissolve HOAs is in the works - but not yet law.
+>Florida legislation, allowing for the streamlined dissolution of HOAs, is in the works - but not yet law.
 
 >*Florida's House Bill 657 (HB 657) seeks to allow homeowners to dissolve their HOA by petition, requiring 20% support for a vote and two-thirds approval, as discussed on Realtor.com. Although passed by the House, the bill’s future is uncertain, notes this Facebook post, and it must pass the Senate to become law. The legislation aims to address excessive fees and board mismanagement, with a potential July 1, 2026, effective date.*
 
