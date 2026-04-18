@@ -71,7 +71,7 @@ Reports
 
 Property Damages
 ----------------
->The LCS routinely damages the property of WPA homeowners - in particular, driveways.
+>The LCS routinely damages WPA homeowner property - in particular, driveways.
 
 >Reported incidents:
 1. 2024.3.24 - Removed by LMP on 2024.3.26
