@@ -153,5 +153,3 @@ Solutions
 >The challenge to taking any one action is the WPA is already slowly dying - like so many HOAs in Florida. Florida HOA homeowners are typically seniors, with serious health issues and few to no heirs. And few heirs can afford to maintain a second remote Florida HOA residence. Moreover, they can't sell their inherited residence in a real estate market that effectively doesn't exist. The WPA will likely go bankrupt in the next 3 to 5 years, solving the corrupt WPA board/GPS issue altogether.
 
 >So, what to do? Take action or not, letting fate take its course?
-
->*How did you go bankrupt? Two ways. Gradually, then suddenly.* ***Ernest Hemingway***
