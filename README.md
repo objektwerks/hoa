@@ -138,7 +138,7 @@ Solutions
 1. Suck it up; and pay for a LCS service that is only partially delivered (the status quo).
 2. Fire the WPA board, LCS and GPS; and hire a new board, LCS and PMC.
 3. Legally dissolve the WPA (which might prove easier, later this year).
-4. Take the WPA and GPS to court (an expensive, and likely wasteful, option).
+4. Take the WPA and GPS to court (an expensive option).
 
 >Florida legislation, allowing for the streamlined dissolution of HOAs, is in the works - but not yet law.
 
