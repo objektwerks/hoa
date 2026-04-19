@@ -139,7 +139,7 @@ Analysis
 
 Solutions
 ---------
->WPA homeowners have a few options:
+>WPA homeowners have the following options:
 1. Suck it up; and pay for a LCS service that is only partially delivered (the status quo).
 2. Remove the WPA board and fire LCS and GPS; then elect a new board and hire a new LCS and PMC.
 3. Legally dissolve the WPA (which might prove easier, later this year).
