@@ -139,9 +139,9 @@ Analysis
 
 Solutions
 ---------
->WPA homeowners, should the LCS continue to partially render its contractually obligated services, have a few options:
+>WPA homeowners have a few options:
 1. Suck it up; and pay for a LCS service that is only partially delivered (the status quo).
-2. Fire the WPA board, LCS and GPS; and hire a new board, LCS and PMC.
+2. Remove the WPA board and fire LCS and GPS; then elect a new board and hire a new LCS and PMC.
 3. Legally dissolve the WPA (which might prove easier, later this year).
 4. Take the WPA and GPS to court (an expensive option).
 
