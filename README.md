@@ -122,7 +122,7 @@ Analysis
 
 >Clearly, the WPA board is ***guilty*** of being in breach of its fiduciary duty to its fellow HOA homeowners. GPS is also ***complicit*** in this crime. The only crime committed by the LCS is its unending ***material breaches*** of contract and gross incompetence.
 
->But it gets worse. The WPA board is also guilty of financially defrauding its fellow HOA homeowners.
+>But it gets worse. The WPA board is also guilty of financially defrauding its fellow WPA homeowners.
 
 >*In Florida, financial fraud involving a vendor contract in a homeowners' association (HOA) can occur through kickbacks, billing schemes, or undisclosed conflicts of interest. These fraudulent acts are often accompanied by a breach of the vendor contract and a breach of the HOA board members' fiduciary duty to the community.*
 
