@@ -26,7 +26,9 @@ Contracts
 2. [2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
 >Right-click link to ***open link in new tab***.
 
->Contract **2** was signed on 2025.12.22. However, it was not posted to the WPA website until 2026.4.15. On 2026.3.23, GPS was asked, via email, if a new contract existed. GPS gave ***no*** reply to said question. Not until 2026.4.15 was this homeowner made aware of Contract **2**. Questions about Contract **2** were submitted to GPS on 2026.4.16, with no reply to date. Legal analysis:
+>Contract **2** was signed on 2025.12.22. However, it was not posted to the WPA website until 2026.4.15. On 2026.3.23, GPS was asked, via email, if a new contract existed. GPS gave ***no*** reply to said question. Not until 2026.4.15 was this homeowner made aware of Contract **2**. Questions about Contract **2** were submitted to GPS on 2026.4.16, with no reply to date.
+
+**Legal analysis**:
 
 >*As of 2026, Florida HOAs with 100 or more parcels must maintain a website containing specific records, including contracts for services (like landscaping). Failure to post this, as outlined in Florida Statute § 720.303, is a violation. Residents can demand records in writing, and if not provided, pursue remedies through pre-suit mediation.* (Source: Google AI)
 
@@ -85,6 +87,8 @@ Property Damages
 5. 2025.10.17 - Damage to driveway removed by homeowner. Invoiced GPS (invoice.2025.10.17-1).
 >Invoices available upon request.
 
+**Legal analysis**:
+
 >**Florida HOA Landscape Damages**
 
 >*In Florida, if an HOA's landscaping crew causes damage to a homeowner's property, the responsibility for reimbursement generally falls on the HOA, not the individual homeowner, even if the damage was caused by a contractor hired by the HOA. The HOA shares responsibility because it is in "privity" with the landscaper through their contract. The homeowner should document the damage with clear photos and notify the HOA in writing. The HOA is then obligated to arrange for the landscaper to fix the issue. If the landscaper refuses to take responsibility, the HOA must proceed with the repairs at its own expense and can later seek reimbursement from the contractor.*
@@ -103,7 +107,9 @@ Relavent emails available upon request.
 
 Analysis
 --------
->An HOA board, by law, has a fiduciary duty to its homeowners. Legal analysis:
+>An HOA board, by law, has a fiduciary duty to its homeowners.
+
+**Legal analysis**:
 
 >*Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, removal from office, and potentially criminal charges for fraud or self-dealing. While Florida law provides qualified immunity for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or engage in criminal acts.* (Source: Google AI)
 
