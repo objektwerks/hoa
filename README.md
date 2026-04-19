@@ -28,6 +28,8 @@ Contracts
 
 >Contract 2 was signed on 2025.12.22. However, it was not posted to the HOA web site until 2026.4.15.
 
+>*As of 2026, Florida HOAs with 100 or more parcels must maintain a website containing specific records, including contracts for services (like landscaping). Failure to post this, as outlined in Florida Statute § 720.303, is a violation. Residents can demand records in writing, and if not provided, pursue remedies through pre-suit mediation.* (Source: Google AI)
+
 Reports
 -------
 >LCS performance report results, detailing pass/fail status and LCS session date.
