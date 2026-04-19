@@ -26,6 +26,8 @@ Contracts
 2. [2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
 >Right-click link to ***open link in new tab***.
 
+>Contract 2 was signed on 2025.12.22. However, it was not posted to the HOA web site until 2026.4.15.
+
 Reports
 -------
 >LCS performance report results, detailing pass/fail status and LCS session date.
