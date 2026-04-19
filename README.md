@@ -150,6 +150,6 @@ Solutions
 
 >*Florida's House Bill 657 (HB 657) seeks to allow homeowners to dissolve their HOA by petition, requiring 20% support for a vote and two-thirds approval, as discussed on Realtor.com. Although passed by the House, the bill’s future is uncertain, notes this Facebook post, and it must pass the Senate to become law. The legislation aims to address excessive fees and board mismanagement, with a potential July 1, 2026, effective date.*
 
->The challenge with taking any one action is the WPA is already slowly dying - like so many Florida HOAs. Florida HOA homeowners are typically seniors and/or part-time residents, with serious health issues and few to no heirs. And few heirs can afford to maintain a remote Florida HOA residence. Moreover, they can't sell their inherited residence in a real estate market that effectively doesn't exist. The WPA will likely go bankrupt in the next 3 to 5 years, solving the corrupt WPA board/GPS issue altogether.
+>The challenge with taking any one action is the WPA is already slowly dying - like so many Florida HOAs. Florida HOA homeowners are typically seniors and/or part-time residents, with serious health issues and few to no heirs. And few heirs can afford to maintain a remote Florida HOA residence. Moreover, they can't sell their inherited residence in a real estate market that effectively no longer exists. The WPA will likely go bankrupt in the next 3 to 5 years, solving the corrupt WPA board/GPS issue altogether.
 
 >So, what to do? Take action or not, letting fate take its course?
