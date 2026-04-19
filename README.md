@@ -26,7 +26,7 @@ Contracts
 2. [2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
 >Right-click link to ***open link in new tab***.
 
->Contract **2** was signed on 2025.12.22. However, it was not posted to the WPA website until 2026.4.15. On 2026.3.23, GPS was asked, via email, if a new contract existed. GPS gave ***no*** reply to said question. Not until 2026.4.15 was this homeowner made aware of Contract **2**. Questions about Contract **2** were submitted to GPS on 2026.4.16, with no reply to date.
+>Contract **2** was signed on 2025.12.22. However, it was not posted to the WPA website until 2026.4.15. On 2026.3.23, GPS was asked, via email, if a new contract existed. GPS gave ***no*** reply to said question. Not until 2026.4.15 was this homeowner made aware of Contract **2**. Questions about Contract **2** were submitted to GPS on 2026.4.16, with no reply to date. Legal analysis:
 
 >*As of 2026, Florida HOAs with 100 or more parcels must maintain a website containing specific records, including contracts for services (like landscaping). Failure to post this, as outlined in Florida Statute § 720.303, is a violation. Residents can demand records in writing, and if not provided, pursue remedies through pre-suit mediation.* (Source: Google AI)
 
