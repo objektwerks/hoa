@@ -91,7 +91,7 @@ Property Damages
 
 >*While the HOA is responsible for addressing the damage, the homeowner may need to take further steps if the HOA fails to act. This can include sending a formal demand letter for the association to provide documentation of its contracts with vendors, as Florida law requires the HOA to provide this information upon request. If the HOA still does not resolve the issue, the homeowner can make the necessary repairs and seek reimbursement from the HOA. In cases where the HOA is unresponsive, legal action may be necessary, potentially through small claims court or mediation, with thorough documentation of communications and damages being essential for success.* (Source: Google AI)
 
->*In addition to the above info, the following legal opinions also speak to this issue:*
+>In addition to the above info, the following legal opinions also speak to this issue:
 
 1. [Who is Responsible for Landscaper Damage](https://www.galleriarealtors.com/whos-responsible-for-landscaper-damage)
 2. [Real Estate Lawyer on Landscaper Damage](https://www.sun-sentinel.com/2021/05/27/ask-a-real-estate-pro-is-hoa-responsible-for-fixing-deck-damaged-by-landscaper/)
