@@ -1,6 +1,6 @@
 Financial Fraud Report
 ----------------------
->Details financial fraud committed against HOA homeowners by WPA and GPS.
+>Details financial fraud committed against WPA homeowners by the WPA board and GPS.
 
 Homeowners Association (HOA)
 ----------------------------
