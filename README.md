@@ -151,7 +151,7 @@ Analysis
 
 Solutions
 ---------
->WPA homeowners have the following options:
+>Solutions for WPA homeowners include:
 1. Continue with the status quo, allowing the WPA board, GPS and the LCS to defraud the WPA.
 2. Remove the WPA board, fire the LCS and GPS; elect a new board, hire a new LCS and PMC.
 3. Remove the WPA board, fire the LCS and GPS; elect a new board, hire a CPA to manage the WPA. Allow WPA homeowners to hire their own LCS.
