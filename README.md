@@ -34,8 +34,8 @@ Contracts
 
 Cost
 ----
-1. Annual LCS: $116,831.00
-2. Annual LCS per homeowner: $1,298.00
+1. Annual LCS cost: $116,831.00
+2. Annual LCS cost per WPA homeowner: $1,298.00
 
 Reports
 -------
