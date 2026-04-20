@@ -149,6 +149,12 @@ Analysis
 
 >WPA homeowners, by law, are required to pay all scheduled HOA fees, to include embedded LCS fees. Think of it as a legalized form of extortion by the state of Florida, with no guarantees. Sound familiar?
 
+Illegal Activities
+------------------
+
+Unlawful Activities
+-------------------
+
 Options
 -------
 >Options for WPA homeowners include:
