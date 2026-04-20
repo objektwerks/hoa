@@ -34,7 +34,7 @@ Contracts
 
 Cost
 ----
-
+1. Annual Lawn Care Service: $116,831.00
 
 Reports
 -------
