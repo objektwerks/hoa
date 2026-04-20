@@ -116,7 +116,7 @@ Analysis
 1. [Letter](2025.lawn.care.budget.pdf)
 2. [Email](2025.lawn.care.budget.extra.pdf)
 
->Pleas, via said hand-delivered letter and a follow-up email, to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were soundly ignored by the WPA board president and GPS.
+>Pleas, via the above hand-delivered letter and a follow-up email, to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were soundly ignored by the WPA board president and GPS.
 
 >Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the LCS's 91% fail rate.
 
