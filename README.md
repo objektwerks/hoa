@@ -4,7 +4,7 @@ Financial Fraud Report
 
 Homeowners Association (HOA)
 ----------------------------
-* **Winward Patio Association, Inc. (WPA)**
+* **Windward Patio Association, Inc. (WPA)**
 * 3754 Cape Haze Drive, Rotonda West, FL 33947 : (941) 697-9722
 
 Property Management Company (PMC)
@@ -31,6 +31,10 @@ Contracts
 **Legal analysis**:
 
 >*As of 2026, Florida HOAs with 100 or more parcels must maintain a website containing specific records, including contracts for services (like landscaping). Failure to post this, as outlined in Florida Statute § 720.303, is a violation. Residents can demand records in writing, and if not provided, pursue remedies through pre-suit mediation.* (Source: Google AI)
+
+Cost
+----
+
 
 Reports
 -------
