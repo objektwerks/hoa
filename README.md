@@ -149,10 +149,11 @@ Solutions
 ---------
 >WPA homeowners have the following options:
 1. Continue with the status quo, allowing the WPA board, GPS and the LCS to defraud the WPA.
-2. Remove the WPA board and fire LCS and GPS; then elect a new board and hire a new LCS and PMC.
-3. Legally dissolve the WPA (which might prove easier, later this year).
-4. Take the WPA and GPS to court (an expensive option).
-5. Report these crimes to local and state law enforcement entities.
+2. Remove the WPA board, fire the LCS and GPS; elect a new board, hire a new LCS and PMC.
+3. Remove the WPA board, fire the LCS and GPS; elect a new board, hire a CPA to manage the WPA. Allow WPA homeowners to hire their own LCS.
+4. Legally dissolve the WPA (which might prove easier, later this year).
+5. Take the WPA and GPS to court (an expensive option).
+6. Report these crimes to local and state law enforcement entities.
 
 >Florida legislation, allowing for the streamlined dissolution of HOAs, is in the works - but not yet law.
 
