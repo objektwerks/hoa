@@ -115,6 +115,7 @@ Analysis
 
 1. [Letter](2025.lawn.care.budget.pdf)
 2. Email provided upon request.
+>Right-click link to ***open link in new tab***.
 
 >Pleas, via the above hand-delivered letter and a follow-up email, to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were soundly ignored by the WPA board and GPS.
 
