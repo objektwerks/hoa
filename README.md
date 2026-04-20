@@ -151,12 +151,12 @@ Analysis
 
 Illegal Activities
 ------------------
-1. breach of fudiciary duty - misdemeanor
-2. financial fraud - felony
+1. breach of fudiciary duty -> misdemeanor
+2. financial fraud -> felony
 
 Unlawful Activities
 -------------------
-1. material breach of contract
+1. material breach of contract -> nullification of contract
 
 Options
 -------
