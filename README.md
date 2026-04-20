@@ -34,7 +34,8 @@ Contracts
 
 Cost
 ----
-1. Annual Lawn Care Service: $116,831.00
+1. Annual LCS: $116,831.00
+2. Annual LCS per homeowner: $1,298.00
 
 Reports
 -------
