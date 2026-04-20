@@ -156,7 +156,7 @@ Illegal Activities / Penalities
 
 Unlawful Activities / Penalities
 --------------------------------
-1. material breach of contract -> nullification of contract
+1. material breach of contract -> nullification of contract, damages
 
 Options
 -------
