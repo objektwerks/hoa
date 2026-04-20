@@ -101,7 +101,7 @@ Property Damages
 
 >The WPA board and GPS ignored this homeowner's legal invoices, on top of slighting previous requests for relieve from LCS property damages.
 
-Relavent emails available upon request.
+Relavent emails included in Reports [].
 
 Analysis
 --------
