@@ -157,7 +157,7 @@ Solutions
 3. Remove the WPA board, fire the LCS and GPS; elect a new board, hire a CPA to manage the WPA. Allow WPA homeowners to hire their own LCS.
 4. Legally dissolve the WPA (which might prove easier, later this year). See **Legal Analysis** below.
 5. Take the WPA and GPS to court (an arguably expensive option).
-6. Report WPA and GPS illegal activities to local and state law enforcement entities.
+6. Report WPA and GPS illegal activities, to include Juniper's unlawful breaches of contract, to local and state law enforcement entities.
 
 >Florida legislation, allowing for the streamlined dissolution of HOAs, is in the works - but not yet law.
 
