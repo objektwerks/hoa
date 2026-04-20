@@ -1,8 +1,9 @@
 Financial Fraud Report
-----------------------
+======================
 >Details financial fraud committed against WPA homeowners by the WPA board and GPS.
 
-###Homeowners Association (HOA)
+Homeowners Association (HOA)
+----------------------------
 * **Winward Patio Association, Inc. (WPA)**
 * 3754 Cape Haze Drive, Rotonda West, FL 33947 : (941) 697-9722
 
