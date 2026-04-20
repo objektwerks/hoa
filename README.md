@@ -151,6 +151,7 @@ Analysis
 
 Illegal Activities
 ------------------
+1. breach of fudiciary duty - misdemeanor
 
 Unlawful Activities
 -------------------
