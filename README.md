@@ -154,8 +154,8 @@ Illegal Activities / Penalities
 1. breach of fudiciary duty -> misdemeanor
 2. financial fraud -> felony
 
-Unlawful Activities
--------------------
+Unlawful Activities / Penalities
+--------------------------------
 1. material breach of contract -> nullification of contract
 
 Options
