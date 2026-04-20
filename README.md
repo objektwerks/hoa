@@ -152,6 +152,7 @@ Analysis
 Illegal Activities
 ------------------
 1. breach of fudiciary duty - misdemeanor
+2. financial fraud - felony
 
 Unlawful Activities
 -------------------
