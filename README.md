@@ -23,7 +23,7 @@ Lawn Care Service (LCS)
 Contracts
 ---------
 1. [2024 - 2025 LMP Contract](2024-2025-lawn%20care%20service-contract.pdf)
-2. [2026 LCS Contract](2026-lawn%20care%20service-contract.pdf)
+2. [2026 Juniper Contract](2026-lawn%20care%20service-contract.pdf)
 >Right-click link to ***open link in new tab***.
 
 >Contract **2** was signed on 2025.12.22. However, it was not posted to the WPA website until 2026.4.15. On 2026.3.23, GPS was asked, via email, if a new contract existed. GPS gave ***no*** reply to said question. Not until 2026.4.15 was this homeowner made aware of Contract **2**. Questions about Contract **2** were submitted to GPS on 2026.4.16, with no reply to date. Relavent emails available upon request.
