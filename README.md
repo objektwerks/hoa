@@ -166,7 +166,7 @@ Unlawful Activities -> Penalities
 Options
 -------
 >Options for WPA homeowners include:
-1. Maintain the status quo, allowing the WPA board, GPS and Juniper to continue defrauding WPA homeowners.
+1. Maintain the status quo, allowing the WPA board, GPS and Juniper to continue financially defrauding WPA homeowners.
 2. Remove the WPA board, fire Juniper and GPS; elect a new board, hire a new LCS and PMC.
 3. Remove the WPA board, fire Juniper and GPS; elect a new board, hire a CPA to manage the WPA. Allow WPA homeowners to hire their own LCS.
 4. Legally dissolve the WPA (which might prove easier, later this year). See **Legal Analysis** below.
