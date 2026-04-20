@@ -119,7 +119,7 @@ Analysis
 
 >Pleas, via the above hand-delivered letter and a follow-up email, to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were soundly ignored by the WPA board and GPS.
 
->Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the LCS's 91% fail rate.
+>Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the LCS 91% fail rate.
 
 **Legal analysis**:
 
