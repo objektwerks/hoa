@@ -128,7 +128,7 @@ Analysis
 
 >The WPA board is clearly in breach of its fiduciary duty to its fellow WPA homeowners - with GPS a willing partner.
 
->But it gets worse. The WPA board is also ***guilty*** of financially defrauding its fellow WPA homeowners.
+>But it gets worse. The WPA board is also financially defrauding its fellow WPA homeowners.
 
 **Legal analysis**:
 
