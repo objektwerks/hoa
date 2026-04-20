@@ -149,9 +149,9 @@ Analysis
 
 >WPA homeowners, by law, are required to pay all scheduled HOA fees, to include embedded LCS fees. Think of it as a legalized form of extortion by the state of Florida, with no guarantees. Sound familiar?
 
-Solutions
----------
->Solutions for WPA homeowners include:
+Options
+-------
+>Options for WPA homeowners include:
 1. Maintain the status quo, allowing the WPA board, GPS and Juniper to continue defrauding WPA homeowners.
 2. Remove the WPA board, fire the LCS and GPS; elect a new board, hire a new LCS and PMC.
 3. Remove the WPA board, fire the LCS and GPS; elect a new board, hire a CPA to manage the WPA. Allow WPA homeowners to hire their own LCS.
