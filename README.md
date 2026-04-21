@@ -124,6 +124,8 @@ Analysis
 
 >Pleas, via the above hand-delivered letter and follow-up email, to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were soundly ignored by the WPA board and GPS.
 
+It's also worth noting the WPA board and GPS were made aware of the LCS employed illegal aliens.
+
 >Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the LCS 91% ***fail*** rate.
 
 >And it gets worse. The WPA board is also financially defrauding its fellow WPA homeowners.
