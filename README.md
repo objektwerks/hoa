@@ -174,6 +174,6 @@ Options
 
 **Legal Analysis**:
 
->*Florida's House Bill 657 (HB 657) seeks to allow homeowners to dissolve their HOA by petition, requiring 20% support for a vote and two-thirds approval, as discussed on Realtor.com. Although passed by the House, the bill’s future is uncertain, notes this Facebook post, and it must pass the Senate to become law. The legislation aims to address excessive fees and board mismanagement, with a potential July 1, 2026, effective date.* (Source: Google AI)
+>*Florida's HB 657 seeks to allow homeowners to dissolve their HOA by petition, requiring 20% support for a vote and two-thirds approval, as discussed on Realtor.com. Although passed by the House, the bill’s future is uncertain, notes this Facebook post, and it must pass the Senate to become law. The legislation aims to address excessive fees and board mismanagement, with a potential July 1, 2026, effective date.* (Source: Google AI)
 
 >*Florida law enforcement is required to investigate actual criminal activity within a Homeowners' Association (HOA), such as fraud, theft, or embezzlement. However, police do not handle civil disputes or covenant enforcement. Recent laws (e.g., HB 1203 and HB 919) have increased criminal penalties for board members regarding record tampering, forgery, and election fraud, forcing HOAs to comply with law enforcement subpoenas within 5 days. If local law enforcement is unresponsive, you can report fraud to the Florida Attorney General’s office.* (Source: Google AI)
