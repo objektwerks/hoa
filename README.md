@@ -126,11 +126,11 @@ Analysis
 
 >Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the LCS 91% ***fail*** rate.
 
->It's also worth noting the WPA board and GPS, on 2024.11.12, were made aware the LCS employed illegal aliens.
+>It's also worth noting the WPA board and GPS, on 2024.11.12, were notified the LCS employed illegal aliens.
 
 **Legal Analysis**:
 
->*Hiring a lawn care service while knowingly employing undocumented workers carries significant legal risks for a Florida Homeowners Association (HOA) and the vendor, primarily due to Senate Bill 1718 and other state labor laws.* (Source: Google AI)
+>*Hiring a lawn care service while knowingly employing undocumented workers carries significant legal risks for a Florida Homeowners Association (HOA) and the vendor, primarily due to SB 1718 and other state labor laws.* (Source: Google AI)
 
 >And it gets worse. The WPA board is also financially defrauding its fellow WPA homeowners.
 
