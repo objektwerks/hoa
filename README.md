@@ -128,7 +128,7 @@ Analysis
 
 **Legal analysis**:
 
->**Key Penalties and Consequences:**
+>**Breach of Fiduciary Duty Key Penalties and Consequences:**
 * **Personal Liability:** In cases of willful misconduct, gross negligence, or self-dealing, members can be held personally responsible for damages caused to the association.
 * **Removal from Office:** Members who violate their fiduciary duties, particularly through self-dealing or accepting kickbacks, can be removed, with severe offenses potentially requiring removal.
 * **Criminal Charges:** Knowingly accepting kickbacks, stealing, or misappropriating funds is a felony in Florida, according to.
