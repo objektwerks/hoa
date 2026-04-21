@@ -28,7 +28,7 @@ Contracts
 
 >Contract **2** was signed on 2025.12.22. However, it was not posted to the WPA website until 2026.4.15. On 2026.3.23, GPS was asked, via email, if a new contract existed. GPS gave ***no*** reply to said question. Not until 2026.4.15 was this homeowner made aware of Contract **2**. Questions about Contract **2** were submitted to GPS on 2026.4.16, with no reply to date. Emails available upon request.
 
-**Legal analysis**:
+**Legal Analysis**:
 
 >*As of 2026, Florida HOAs with 100 or more parcels must maintain a website containing specific records, including contracts for services (like landscaping). Failure to post this, as outlined in Florida Statute § 720.303, is a violation. Residents can demand records in writing, and if not provided, pursue remedies through pre-suit mediation.* (Source: Google AI)
 
@@ -94,7 +94,7 @@ Property Damages
 5. 2025.10.17 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.10.17-1).
 >Invoices available upon request.
 
-**Legal analysis**:
+**Legal Analysis**:
 
 >*In Florida, if an HOA's landscaping crew causes damage to a homeowner's property, the responsibility for reimbursement generally falls on the HOA, not the individual homeowner, even if the damage was caused by a contractor hired by the HOA. The HOA shares responsibility because it is in "privity" with the landscaper through their contract. The homeowner should document the damage with clear photos and notify the HOA in writing. The HOA is then obligated to arrange for the landscaper to fix the issue. If the landscaper refuses to take responsibility, the HOA must proceed with the repairs at its own expense and can later seek reimbursement from the contractor.*
 
@@ -112,7 +112,7 @@ Analysis
 --------
 >An HOA board, by law, has a fiduciary duty to its homeowners.
 
-**Legal analysis**:
+**Legal Analysis**:
 
 >*Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, removal from office, and potentially criminal charges for fraud or self-dealing. While Florida law provides qualified immunity for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or engage in criminal acts.* (Source: Google AI)
 
@@ -128,7 +128,7 @@ Analysis
 
 >And it gets worse. The WPA board is also financially defrauding its fellow WPA homeowners.
 
-**Legal analysis**:
+**Legal Analysis**:
 
 >*In Florida, financial fraud involving a vendor contract in a homeowners' association (HOA) can occur through kickbacks, billing schemes, or undisclosed conflicts of interest. These fraudulent acts are often accompanied by a breach of the vendor contract and a breach of the HOA board members' fiduciary duty to the community.*
 
@@ -164,9 +164,9 @@ Options
 3. Remove the WPA board, fire Juniper and GPS; elect a new board, hire a CPA to manage the WPA. Allow WPA homeowners to hire their own LCS.
 4. Legally dissolve the WPA. Florida legislation, allowing for the streamlined dissolution of HOAs, is in the works - but not yet law. See **Legal Analysis** below.
 5. Take the WPA and GPS to court - an arguably expensive option.
-6. Report WPA and GPS illegal activities to local and state law enforcement entities, which are legally obligated to investigate such activities.
+6. Report WPA and GPS illegal activities to local and state law enforcement entities, which are legally obligated to investigate such activities. See **Legal Analysis** below.
 
-**Legal analysis**:
+**Legal Analysis**:
 
 >*Florida's House Bill 657 (HB 657) seeks to allow homeowners to dissolve their HOA by petition, requiring 20% support for a vote and two-thirds approval, as discussed on Realtor.com. Although passed by the House, the bill’s future is uncertain, notes this Facebook post, and it must pass the Senate to become law. The legislation aims to address excessive fees and board mismanagement, with a potential July 1, 2026, effective date.*
 
