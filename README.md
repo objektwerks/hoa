@@ -159,8 +159,8 @@ Illegal Activities and Penalities
 1. breach of fudiciary duty -> misdemeanor, jail time, fine
 2. financial fraud -> felony, jail time, fine
 
-Unlawful Activities -> Penalities
----------------------------------
+Unlawful Activities and Penalities
+----------------------------------
 1. material breach of contract -> nullification of contract, damages
 
 HOA Civil and Criminal Violations
