@@ -34,6 +34,7 @@ Contracts
 
 Cost
 ----
+>The WPA contains 108 properties.
 1. Annual LCS cost: $116,831.00
 2. Annual LCS cost per WPA homeowner: $1,298.00
 
