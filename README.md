@@ -164,8 +164,10 @@ Options
 3. Remove the WPA board, fire Juniper and GPS; elect a new board, hire a CPA to manage the WPA. Allow WPA homeowners to hire their own LCS.
 4. Legally dissolve the WPA. Florida legislation, allowing for the streamlined dissolution of HOAs, is in the works - but not yet law. See **Legal Analysis** below.
 5. Take the WPA and GPS to court - an arguably expensive option.
-6. Report WPA and GPS illegal activities to local and state law enforcement entities, who are legally obligated to investigate such activities.
+6. Report WPA and GPS illegal activities to local and state law enforcement entities, which are legally obligated to investigate such activities.
 
 **Legal analysis**:
 
 >*Florida's House Bill 657 (HB 657) seeks to allow homeowners to dissolve their HOA by petition, requiring 20% support for a vote and two-thirds approval, as discussed on Realtor.com. Although passed by the House, the bill’s future is uncertain, notes this Facebook post, and it must pass the Senate to become law. The legislation aims to address excessive fees and board mismanagement, with a potential July 1, 2026, effective date.*
+
+>*Florida law enforcement is required to investigate actual criminal activity within a Homeowners' Association (HOA), such as fraud, theft, or embezzlement. However, police do not handle civil disputes or covenant enforcement. Recent laws (e.g., HB 1203 and HB 919) have increased criminal penalties for board members regarding record tampering, forgery, and election fraud, forcingHOAs to comply with law enforcement subpoenas within 5 days.*
