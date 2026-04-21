@@ -119,7 +119,7 @@ Analysis
 >Since 2024/Q1 the WPA board has knowingly been in breach of its fiduciary duty as it relates to the **Contracts** section. The WPA board and GPS were notified in writing of this breach at a WPA budget meeting on 2024.11.12. See:
 
 1. [Letter](2025.lawn.care.budget.pdf)
-2. Email provided upon request.
+2. Email available upon request.
 >Right-click link to ***open link in new tab***.
 
 >Pleas, via the above hand-delivered letter and a follow-up email, to correct the unsatisfactory lawn care service, principally by implementing a system of accountability, were soundly ignored by the WPA board and GPS.
