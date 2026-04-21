@@ -82,7 +82,7 @@ Reports
 
 Property Damages
 ----------------
->The LCS routinely damages WPA homeowner property - in particular, driveways and shrubs.
+>Juniper routinely damages WPA homeowner property - in particular, driveways and shrubs.
 
 >Reported incidents:
 1. 2024.3.24 - Driveway damage, repaired by LMP on 2024.3.26
