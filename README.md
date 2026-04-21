@@ -116,7 +116,7 @@ Analysis
 
 >*Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, removal from office, and potentially criminal charges for fraud or self-dealing. While Florida law provides qualified immunity for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or engage in criminal acts.* (Source: Google AI)
 
->Since 2024/Q1 the WPA board has knowingly been in breach of its fiduciary duty as it relates to the **Contracts** section. The WPA board and GPS were formally notified in writing of the LCS ongoing material breaches of contract at a WPA budget meeting on 2024.11.12. See:
+>Since 2024/Q1 the WPA board has knowingly been in breach of its fiduciary duty as it relates to the **Contracts** section. The WPA board and GPS were formally notified in writing of the LCS unsatisfactory service at a WPA budget meeting on 2024.11.12. See:
 
 1. [Letter](2025.lawn.care.budget.pdf)
 2. Email available upon request.
