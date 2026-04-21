@@ -96,7 +96,7 @@ Property Damages
 
 **Legal Analysis**:
 
->*In Florida, if an HOA's landscaping crew causes damage to a homeowner's property, the responsibility for reimbursement generally falls on the HOA, not the individual homeowner, even if the damage was caused by a contractor hired by the HOA. The HOA shares responsibility because it is in "privity" with the landscaper through their contract. The homeowner should document the damage with clear photos and notify the HOA in writing. The HOA is then obligated to arrange for the landscaper to fix the issue. If the landscaper refuses to take responsibility, the HOA must proceed with the repairs at its own expense and can later seek reimbursement from the contractor.*
+>*In Florida, if an HOA's landscaping crew causes damage to a homeowner's property, the responsibility for reimbursement generally falls on the HOA, not the individual homeowner, even if the damage was caused by a contractor hired by the HOA. The HOA shares responsibility because it is in "privity" with the landscaper through their contract. The homeowner should document the damage with clear photos and notify the HOA in writing. The HOA is then obligated to arrange for the landscaper to fix the issue. If the landscaper refuses to take responsibility, the HOA must proceed with the repairs at its own expense and can later seek reimbursement from the contractor.* (Source: Google AI)
 
 >*While the HOA is responsible for addressing the damage, the homeowner may need to take further steps if the HOA fails to act. This can include sending a formal demand letter for the association to provide documentation of its contracts with vendors, as Florida law requires the HOA to provide this information upon request. If the HOA still does not resolve the issue, the homeowner can make the necessary repairs and seek reimbursement from the HOA. In cases where the HOA is unresponsive, legal action may be necessary, potentially through small claims court or mediation, with thorough documentation of communications and damages being essential for success.* (Source: Google AI)
 
@@ -130,7 +130,7 @@ Analysis
 
 **Legal Analysis**:
 
->*In Florida, financial fraud involving a vendor contract in a homeowners' association (HOA) can occur through kickbacks, billing schemes, or undisclosed conflicts of interest. These fraudulent acts are often accompanied by a breach of the vendor contract and a breach of the HOA board members' fiduciary duty to the community.*
+>*In Florida, financial fraud involving a vendor contract in a homeowners' association (HOA) can occur through kickbacks, billing schemes, or undisclosed conflicts of interest. These fraudulent acts are often accompanied by a breach of the vendor contract and a breach of the HOA board members' fiduciary duty to the community.* (Source: Google AI)
 
 **Types of Fraud Involving Vendors:**
 * **Vendor Kickbacks:** A corrupt board member or manager accepts a bribe from a vendor in exchange for awarding them a contract. The vendor then inflates the cost of the contract, splitting the excess profits with the board member. Recent Florida law has made kickbacks related to fines a third-degree felony.
@@ -168,6 +168,6 @@ Options
 
 **Legal Analysis**:
 
->*Florida's House Bill 657 (HB 657) seeks to allow homeowners to dissolve their HOA by petition, requiring 20% support for a vote and two-thirds approval, as discussed on Realtor.com. Although passed by the House, the bill’s future is uncertain, notes this Facebook post, and it must pass the Senate to become law. The legislation aims to address excessive fees and board mismanagement, with a potential July 1, 2026, effective date.*
+>*Florida's House Bill 657 (HB 657) seeks to allow homeowners to dissolve their HOA by petition, requiring 20% support for a vote and two-thirds approval, as discussed on Realtor.com. Although passed by the House, the bill’s future is uncertain, notes this Facebook post, and it must pass the Senate to become law. The legislation aims to address excessive fees and board mismanagement, with a potential July 1, 2026, effective date.* (Source: Google AI)
 
->*Florida law enforcement is required to investigate actual criminal activity within a Homeowners' Association (HOA), such as fraud, theft, or embezzlement. However, police do not handle civil disputes or covenant enforcement. Recent laws (e.g., HB 1203 and HB 919) have increased criminal penalties for board members regarding record tampering, forgery, and election fraud, forcingHOAs to comply with law enforcement subpoenas within 5 days.*
+>*Florida law enforcement is required to investigate actual criminal activity within a Homeowners' Association (HOA), such as fraud, theft, or embezzlement. However, police do not handle civil disputes or covenant enforcement. Recent laws (e.g., HB 1203 and HB 919) have increased criminal penalties for board members regarding record tampering, forgery, and election fraud, forcingHOAs to comply with law enforcement subpoenas within 5 days.* (Source: Google AI)
