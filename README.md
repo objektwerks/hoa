@@ -165,7 +165,7 @@ Unlawful Activities -> Penalities
 
 HOA Civil/Criminal Violations
 -----------------------------
->*Florida HOA board violations of Chapter 720 can be both civil and criminal, depending on the action. While minor disputes are civil, recent legislation has made fraudulent activities—like election tampering, theft, and records destruction—felonies or misdemeanors. Criminal violations trigger mandatory removal from office, while financial negligence often results in civil liability.*
+>*Florida HOA board violations of Chapter 720 can be both civil and criminal, depending on the action. While minor disputes are civil, recent legislation has made fraudulent activities—like election tampering, theft, and records destruction—felonies or misdemeanors. Criminal violations trigger mandatory removal from office, while financial negligence often results in civil liability.* (Source: Google AI)
 
 Options
 -------
