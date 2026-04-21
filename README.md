@@ -78,7 +78,7 @@ Reports
 * Pass Rate: 9%
 * Fail Rate: 91%
 
->Detailed reports, with photos, are available upon request.
+>Detailed reports, with photos, available upon request.
 
 Property Damages
 ----------------
