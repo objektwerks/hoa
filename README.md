@@ -132,6 +132,8 @@ Analysis
 
 >*Hiring a lawn care service while knowingly employing undocumented workers carries significant legal risks for a Florida Homeowners Association (HOA) and the vendor, primarily due to Senate Bill 1718 and other state labor laws.*
 
+>*Civil Penalties for HOAs: Under Florida Statute § 448.09, it is unlawful to knowingly employ, hire, or refer an unauthorized alien for private or public employment. For first violations, employers (including those hiring through contracts) can face fines and 1-year probation.*
+
 >And it gets worse. The WPA board is also financially defrauding its fellow WPA homeowners.
 
 **Legal Analysis**:
