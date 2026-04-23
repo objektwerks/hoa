@@ -34,7 +34,7 @@ Contracts
 
 Cost
 ----
->The WPA contains 108 properties, with 85 homeowners 23 vacant lot owners.
+>The WPA contains 108 properties, with 85 homeowners and 23 vacant lot owners.
 1. Annual LCS cost: $116,831.00
 2. Annual LCS cost per WPA homeowner: $1,081.77
 >It's not yet clear if empty property owners pay the quarterly fee of $515 that homeowners pay. Awaiting a reply from GPS (2026.4.21). Emails available upon request.
