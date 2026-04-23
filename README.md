@@ -32,11 +32,15 @@ Contracts
 
 >*As of 2026, Florida HOAs with 100 or more parcels must maintain a website containing specific records, including contracts for services (like landscaping). Failure to post this, as outlined in Florida Statute § 720.303, is a violation. Residents can demand records in writing, and if not provided, pursue remedies through pre-suit mediation.* (Source: Google AI)
 
+85 owners assessed at $2060
+13 Vacant lot owners assessed $420 for expenses minus tree trimming, water, lawn and irrigation maintenance
+8 Non-Patio owners pay $672 annual for Gray Water service
+
 Cost
 ----
->The WPA contains 108 properties, with 85 homeowners and 23 vacant lot owners.
+>The WPA contains 98 properties, with 85 homeowners and 13 vacant lot owners.
 
->Homewoners pay an annual assessment of $2060, while vacant log owners pay $237.39.
+>So 85 homewoners pay an annual assessment of $2060, while 13 vacant log owners pay $420 and 8 non-WPA members pay $672.
 1. Annual LCS cost: $116,831.00
 2. Annual LCS cost per homeowner: $1,374.48
 >Emails available upon request.
