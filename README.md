@@ -24,9 +24,9 @@ Contracts
 ---------
 1. 2024 - 2025 LMP Contract
 2. 2026 Juniper Contract
->Contracts available upon request.
+>Contracts available in evidence package.
 
->Contract **2** was signed on 2025.12.22. However, it was not posted to the WPA website until 2026.4.15. On 2026.3.23, GPS was asked, via email, if a new contract existed. GPS gave ***no*** reply to said question. Not until 2026.4.15 was this homeowner made aware of Contract **2**. Questions about Contract **2** were submitted to GPS on 2026.4.16, with no reply to date. Emails available upon request.
+>Contract **2** was signed on 2025.12.22. However, it was not posted to the WPA website until 2026.4.15. On 2026.3.23, GPS was asked, via email, if a new contract existed. GPS gave ***no*** reply to said question. Not until 2026.4.15 was this homeowner made aware of Contract **2**. Questions about Contract **2** were submitted to GPS on 2026.4.16, with no reply to date. Emails available in evidence package.
 
 **Legal Analysis**:
 
@@ -44,7 +44,7 @@ Cost
 1. 66% to LCS @ $1,374.48
 2. 33% to WPA and GPS @ $685.52
 
->Emails available upon request.
+>Emails available in evidence package.
 
 Reports
 -------
@@ -88,7 +88,7 @@ Reports
 * Pass Rate: 9%
 * Fail Rate: 91%
 
->Detailed reports, with photos, available upon request.
+>Detailed reports, with photos, available in evidence package.
 
 Property Damages
 ----------------
@@ -100,7 +100,7 @@ Property Damages
 3. 2025.4.14 - Driveway damage, repaired by homeowner.
 4. 2025.7.29 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.7.29-1).
 5. 2025.10.17 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.10.17-1).
->Invoices available upon request.
+>Invoices available in evidence package.
 
 **Legal Analysis**:
 
@@ -114,7 +114,7 @@ Property Damages
 2. [Real Estate Lawyer on Landscaper Damage](https://www.sun-sentinel.com/2021/05/27/ask-a-real-estate-pro-is-hoa-responsible-for-fixing-deck-damaged-by-landscaper/)
 >Right-click link to ***open link in new tab***.
 
->The WPA board and GPS ignored this homeowner's legal invoices. Moreover, the LCS continued to damage this homeowner's driveway. Emails available upon request.
+>The WPA board and GPS ignored this homeowner's legal invoices. Moreover, the LCS continued to damage this homeowner's driveway. Emails available in evidence package.
 
 Analysis
 --------
@@ -128,7 +128,7 @@ Analysis
 
 1. 2024 LCS Budget Letter
 2. 2024 LCS Budget Email
->Letter and email available upon request.
+>Letter and email available in evidence package.
 
 >A plea, via the above hand-delivered letter and follow-up email, to correct the unsatisfactory LCS, by implementing a system of accountability, was ignored by the WPA board and GPS.
 
