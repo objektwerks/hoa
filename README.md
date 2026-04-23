@@ -121,9 +121,9 @@ Analysis
 
 >Since 2024/Q1 the WPA board has knowingly been in breach of its fiduciary duty as it relates to the **Contracts** section. The WPA board and GPS was formally notified, in writing, of the unsatisfactory LCS at a WPA budget meeting on 2024.11.12. See:
 
-1. [Letter](2025.lawn.care.budget.pdf)
-2. Email available upon request.
->Right-click link to ***open link in new tab***.
+1. 2024 LCS Budget Letter
+2. 2024 LCS Budget Email
+>Letter and email available upon request.
 
 >A plea, via the above hand-delivered letter and follow-up email, to correct the unsatisfactory LCS, by implementing a system of accountability, was ignored by the WPA board and GPS.
 
