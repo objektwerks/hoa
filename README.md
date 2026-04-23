@@ -39,7 +39,7 @@ Cost
 >So 85 homewoners pay an annual assessment of $2060, while 13 vacant log owners pay $420 and 8 non-WPA members pay $672.
 1. Annual LCS cost: $116,831
 2. Annual LCS cost per homeowner: $1,374.48
-> Emails available upon request.
+>The homeowner annual assessment breaks down to: 66% to LCS and 33% to WPA and GPS. Emails available upon request.
 
 Reports
 -------
