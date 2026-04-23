@@ -38,10 +38,10 @@ Cost
 1. 85 homewoners @ $2060
 2. 13 vacant log owners @ $420
 3. 8 non-WPA members @ $672 (for gray water)
->LCS breakdown is:
+>LCS breakdown:
 1. Annual LCS cost: $116,831
 2. Annual LCS cost per homeowner: $1,374.48
->The homeowner $2060 annual assessment breakdown is:
+>Homeowner $2060 annual assessment breakdown:
 1. 66% to LCS @ $1,374.48
 2. 33% to WPA and GPS @ $685.52
 
