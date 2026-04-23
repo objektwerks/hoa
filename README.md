@@ -188,4 +188,4 @@ Options
 
 Evidence Package
 ----------------
->A single USB flash drive, containing all emails and documents, available upon request and based on need-to-know.
+>A single USB flash drive, containing all relavent emails and documents, available upon request and based on need-to-know.
