@@ -35,8 +35,10 @@ Contracts
 Cost
 ----
 >The WPA contains 98 properties, composed of 85 homeowners and 13 vacant lot owners.
-
->So 85 homewoners pay an annual assessment of $2060, while 13 vacant log owners pay $420 and 8 non-WPA members pay $672.
+1. 85 homewoners pay an annual assessment of $2060
+2. 13 vacant log owners pay $420
+3. 8 non-WPA members pay $672
+>LCS breakdown is:
 1. Annual LCS cost: $116,831
 2. Annual LCS cost per homeowner: $1,374.48
 >The homeowner $2060 annual assessment breakdown is:
