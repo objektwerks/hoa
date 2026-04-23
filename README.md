@@ -32,10 +32,6 @@ Contracts
 
 >*As of 2026, Florida HOAs with 100 or more parcels must maintain a website containing specific records, including contracts for services (like landscaping). Failure to post this, as outlined in Florida Statute § 720.303, is a violation. Residents can demand records in writing, and if not provided, pursue remedies through pre-suit mediation.* (Source: Google AI)
 
-85 owners assessed at $2060
-13 Vacant lot owners assessed $420 for expenses minus tree trimming, water, lawn and irrigation maintenance
-8 Non-Patio owners pay $672 annual for Gray Water service
-
 Cost
 ----
 >The WPA contains 98 properties, with 85 homeowners and 13 vacant lot owners.
