@@ -188,4 +188,4 @@ Options
 
 Evidence Package
 ----------------
->A USB flash drive, containing all relavent emails and documents, available based on need-to-know.
+>A USB flash drive, containing all relavent documents, emails and photos, available based on need-to-know.
