@@ -36,7 +36,7 @@ Cost
 ----
 >The WPA contains 98 properties, composed of 85 homeowners and 13 vacant lot owners, with an annual assessment of:
 1. 85 homewoners @ $2060
-2. 13 vacant log owners @ $420
+2. 13 vacant lot owners @ $420
 3. 8 non-WPA members @ $672 (for gray water)
 >LCS breakdown:
 1. Annual LCS cost: $116,831
