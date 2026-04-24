@@ -44,7 +44,7 @@ Cost
 1. 66% to LCS @ $1,374.48
 2. 33% to WPA and GPS @ $685.52
 
->Emails available in evidence package.
+>The above numbers were provided, with a few inconsistencies, by GPS. Emails available in evidence package.
 
 Reports
 -------
