@@ -25,6 +25,7 @@ Services
 1. mowing
 2. edging
 3. trimming
+4. pruning
 Contracts
 ---------
 1. 2024 - 2025 LMP Contract
