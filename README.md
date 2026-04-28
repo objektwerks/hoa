@@ -20,15 +20,6 @@ Lawn Care Service (LCS)
 * 4415 Metro Parkway, Suite 300, Fort Myers, FL 33916 : (239) 561-5980
 >Juniper acquired LMP in 2024.
 
-Services
---------
-1. mowing - mowing yards and vacant properties
-2. edging - edging hard and soft curbing
-3. trimming - trimming of yard artifacts and some edging artifacts
-4. pruning - pruning of shrubs and trees
-5. fertilizing - ???
-6. pesticides - ???
-
 Contracts
 ---------
 1. 2024 - 2025 LMP Contract
@@ -54,6 +45,15 @@ Cost
 2. 33% to WPA and GPS @ $685.52
 
 >The above numbers were provided, with a few inconsistencies, by GPS. Emails available in evidence package.
+
+Services
+--------
+1. mowing - mowing yards and vacant properties
+2. edging - edging hard and soft curbing
+3. trimming - trimming of yard artifacts and some edging artifacts
+4. pruning - pruning of shrubs and trees
+5. fertilizing - ???
+6. pesticides - ???
 
 Reports
 -------
