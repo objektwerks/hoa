@@ -26,7 +26,8 @@ Services
 2. edging - edging hard and soft curbing
 3. trimming - trimming of yard artifacts and some edging artifacts
 4. pruning - pruning of shrubs and trees
-5. fertilizing
+5. fertilizing - ???
+6. 
 
 Contracts
 ---------
