@@ -24,7 +24,7 @@ Services
 --------
 1. mowing - mowing yards and vacant properties
 2. edging - edging hard and soft curbing
-3. trimming
+3. trimming - trimming of yard artifacts and some edging artifacts
 4. pruning
 5. fertilizing
 
