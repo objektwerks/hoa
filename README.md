@@ -19,7 +19,7 @@ Lawn Care Service (LCS)
 * **Juniper Landscaping**
 * 4415 Metro Parkway, Suite 300, Fort Myers, FL 33916 : (239) 561-5980
 >Juniper acquired LMP in 2024.
-
+'
 Services
 --------
 1. mowing
