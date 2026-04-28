@@ -22,7 +22,8 @@ Lawn Care Service (LCS)
 
 Services
 --------
-
+1. mowing
+2. 
 Contracts
 ---------
 1. 2024 - 2025 LMP Contract
