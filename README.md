@@ -59,7 +59,7 @@ Services Xtra
 -------------
 >Weighted LCS services:
 1. fertilizing - 50% - done 4 times a year
-2. pesticides - 50%
+2. pesticides - 50% - done 4 times a year
 
 Reports
 -------
