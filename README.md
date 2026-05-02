@@ -1,6 +1,6 @@
 Financial Fraud Report
 ======================
->This report details financial fraud, involving a lawn care service, committed against WPA homeowners by the WPA board and its property management company, GPS. See below for details.
+>This report details financial fraud, involving a lawn care service, committed against WPA homeowners by the WPA board and its property management company, GPS.
 
 Homeowners Association (HOA)
 ----------------------------
