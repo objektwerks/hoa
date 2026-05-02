@@ -57,6 +57,7 @@ Services
 
 Services Xtra
 -------------
+>Weighted LCS services:
 1. fertilizing - 50%
 2. pesticides - 50%
 
