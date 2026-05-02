@@ -48,13 +48,13 @@ Cost
 
 Services
 --------
-1. mowing - mowing yards and vacant properties
-2. edging - edging hard and soft curbing
-3. trimming - trimming of yard artifacts and some edging artifacts
-4. pruning - pruning of shrubs and trees
-5. blowing - blowing of landscaping debris (typically back into the yards)
-6. fertilizing - ???
-7. pesticides - ???
+1. mowing - mowing yards and vacant properties - 25%
+2. edging - edging hard and soft curbing - 10%
+3. trimming - trimming of yard artifacts and some edging artifacts - 20%
+4. pruning - pruning of shrubs and trees - 10%
+5. blowing - blowing of landscaping debris (typically back into the yards) - 8%
+6. fertilizing - 2%
+7. pesticides - 2%
 
 Reports
 -------
