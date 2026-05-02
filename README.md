@@ -53,8 +53,11 @@ Services
 3. trimming - trimming of yard artifacts and some edging artifacts - 20%
 4. pruning - pruning of shrubs and trees - 10%
 5. blowing - blowing of landscaping debris (typically back into the yards) - 8%
-6. fertilizing - 2%
-7. pesticides - 2%
+
+Services Xtra
+-------------
+1. fertilizing - 50%
+2. pesticides - 50%
 
 Reports
 -------
