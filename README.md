@@ -55,8 +55,8 @@ Services
 4. 10% : blowing - blowing of landscaping debris (typically back into the yards) - 10%
 5. 10% : pruning - pruning of shrubs
 
-Services Xtra
--------------
+Periodical Services
+-------------------
 >Weighted LCS services:
 1. fertilizing - 50% - done 4 times a year
 2. pesticides - 50% - done 4 times a year
