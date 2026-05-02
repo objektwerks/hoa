@@ -48,11 +48,11 @@ Cost
 
 Services
 --------
-1. mowing - mowing yards and vacant properties - 50%
+1. mowing - mowing yards and vacant properties - 40%
 2. edging - edging hard and soft curbing - 30%
-3. trimming - trimming of yard artifacts and some edging artifacts - 20%
+3. trimming - trimming of yard artifacts and some edging artifacts - 10%
 4. pruning - pruning of shrubs and trees - 10%
-5. blowing - blowing of landscaping debris (typically back into the yards) - 8%
+5. blowing - blowing of landscaping debris (typically back into the yards) - 10%
 
 Services Xtra
 -------------
