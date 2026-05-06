@@ -50,7 +50,7 @@ Services
 --------
 >Weighted LCS services:
 1. 30% : mowing - mowing yards and vacant properties
-2. 20% : pruning - pruning of shrubs
+2. 20% : pruning - pruning of shrubs and the like
 2. 20% : edging - edging hard and soft curbing
 4. 20% : trimming - trimming of yard artifacts and some edging artifacts
 5. 8%  : blowing - blowing of landscaping debris (typically back into the yards) - 10%
