@@ -99,7 +99,6 @@ Reports
 
 * AAnnual LCS cost: $116,831.00
 * Annual LCS cost per homeowner: $1,374.48
-* Median LCS ratio: 15%
 
 * Pass Rate: 9%
 * Fail Rate: 91%
