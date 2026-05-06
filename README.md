@@ -104,7 +104,7 @@ Reports
 * Pass Rate: 9%
 * Fail Rate: 91%
 
-* Fail Amount per Homeowner: (1,374.48 * .91) * .14 = **$175.10**
+* Fail Amount per Homeowner: (1,374.48 * .91) * .15 = **$175.10**
 
 >Detailed reports, with photos, available in evidence package.
 
