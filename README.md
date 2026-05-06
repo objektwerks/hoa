@@ -97,6 +97,7 @@ Reports
 34. Fail : 2026.4.21
 35. Fail : 2026.4.28
 
+* Annual LCS cost: (85 * 175.10) = $14,883.5
 * Annual LCS cost per home owner: $1,374.48
 * Average LCS percentage: 14%
 
@@ -104,7 +105,6 @@ Reports
 * Fail Rate: 91%
 
 * Fail Amount per Unit: (1,374.48 * .91) * .14 = **$175.10**
-* Fail Total: (85 * 175.10) = $14,883.5
 
 >Detailed reports, with photos, available in evidence package.
 
