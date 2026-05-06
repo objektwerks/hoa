@@ -99,6 +99,7 @@ Reports
 
 * Pass Rate: 9%
 * Fail Rate: 91%
+* Cost Rate: (1,374.48 * .91) * .14 = 
 
 >Detailed reports, with photos, available in evidence package.
 
