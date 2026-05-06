@@ -57,6 +57,8 @@ Services
 7. 5%  : pesticides - scheduled 4 times a year
 >Median LCS ratio : 15%
 
+>TODO Fail Amount per Homeowner: (1,374.48 * .91) * .15 = **$187.62**
+
 Reports
 -------
 >LCS performance report results, detailing pass/fail status and LCS session date.
@@ -102,8 +104,6 @@ Reports
 
 * Pass Rate: 9%
 * Fail Rate: 91%
-
-* Fail Amount per Homeowner: (1,374.48 * .91) * .15 = **$187.62**
 
 >Detailed reports, with photos, available in evidence package.
 
