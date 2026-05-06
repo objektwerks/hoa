@@ -52,14 +52,10 @@ Services
 1. 50% : mowing - mowing yards and vacant properties
 2. 20% : edging - edging hard and soft curbing
 3. 10% : trimming - trimming of yard artifacts and some edging artifacts
-4. 10% : blowing - blowing of landscaping debris (typically back into the yards) - 10%
 5. 10% : pruning - pruning of shrubs
-
-Periodical Services
--------------------
->Weighted LCS services:
-1. fertilizing - 50% - done 4 times a year
-2. pesticides - 50% - done 4 times a year
+4. 8%  : blowing - blowing of landscaping debris (typically back into the yards) - 10%
+6. 1%  : fertilizing - done 4 times a year
+7. 1%  : pesticides - done 4 times a year
 
 Reports
 -------
