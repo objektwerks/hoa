@@ -97,7 +97,7 @@ Reports
 34. Fail : 2026.4.21
 35. Fail : 2026.4.28
 
-* Average LCS percentage : 14%
+* Average LCS percentage: 14%
 * Pass Rate: 9%
 * Fail Rate: 91%
 
