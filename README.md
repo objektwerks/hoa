@@ -55,7 +55,7 @@ Services
 5. 10% : blowing - blowing of landscaping debris (typically back into the yards)
 6. 5%  : fertilizing - scheduled 4 times a year
 7. 5%  : pesticides - scheduled 4 times a year
->Average weighted LCS percentage : 14%
+>Average LCS percentage : 14%
 
 Reports
 -------
@@ -96,6 +96,8 @@ Reports
 33. Fail : 2026.4.14
 34. Fail : 2026.4.21
 35. Fail : 2026.4.28
+
+* Average LCS percentage : 14%
 
 * Pass Rate: 9%
 * Fail Rate: 91%
