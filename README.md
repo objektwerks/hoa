@@ -54,8 +54,8 @@ Services
 2. 20% : edging - edging hard and soft curbing
 4. 20% : trimming - trimming of yard artifacts and some edging artifacts
 5. 8%  : blowing - blowing of landscaping debris (typically back into the yards)
-6. 1%  : fertilizing - done 4 times a year
-7. 1%  : pesticides - done 4 times a year
+6. 1%  : fertilizing - scheduled 4 times a year
+7. 1%  : pesticides - scheduled 4 times a year
 
 Reports
 -------
