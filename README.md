@@ -57,6 +57,8 @@ Services
 7. 5%  : pesticides - scheduled 4 times a year
 >Average LCS ratio : 14%
 
+>Median LCS ration : 15%
+
 Reports
 -------
 >LCS performance report results, detailing pass/fail status and LCS session date.
