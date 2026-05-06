@@ -43,7 +43,6 @@ Cost
 >Homeowner $2060 annual assessment breakdown:
 1. 66% to LCS @ $1,374.48
 2. 33% to WPA and GPS @ $685.52
-
 >The above numbers were provided, with a few inconsistencies, by GPS. Emails available in evidence package.
 
 Services
@@ -63,7 +62,7 @@ Reports
 
 1. Fail : 2025.5.29
 2. Fail : 2025.6.5
-3. Fail : 2025.6.11
+3. Fail : 2025.6.11``
 4. Fail : 2025.6.25
 5. Fail : 2025.6.30
 6. Fail : 2025.7.9
