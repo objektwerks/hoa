@@ -55,9 +55,7 @@ Services
 5. 10% : blowing - blowing of landscaping debris (typically back into the yards)
 6. 5%  : fertilizing - scheduled 4 times a year
 7. 5%  : pesticides - scheduled 4 times a year
->Average LCS ratio : 14%
-
->Median LCS ration : 15%
+>Median LCS ratio : 15%
 
 Reports
 -------
