@@ -55,6 +55,7 @@ Services
 5. 10% : blowing - blowing of landscaping debris (typically back into the yards)
 6. 5%  : fertilizing - scheduled 4 times a year
 7. 5%  : pesticides - scheduled 4 times a year
+>Average weight : 14.29
 
 Reports
 -------
