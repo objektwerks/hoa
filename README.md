@@ -55,7 +55,7 @@ Services
 5. 10% : blowing - blowing of landscaping debris (typically back into the yards)
 6. 5%  : fertilizing - scheduled 4 times a year
 7. 5%  : pesticides - scheduled 4 times a year
->Average LCS average ratio : 14%
+>Average LCS ratio : 14%
 
 Reports
 -------
@@ -99,7 +99,7 @@ Reports
 
 * AAnnual LCS cost: $116,831.00
 * Annual LCS cost per homeowner: $1,374.48
-* Average LCS percentage: 14%
+* Average LCS ratio: 14%
 
 * Pass Rate: 9%
 * Fail Rate: 91%
