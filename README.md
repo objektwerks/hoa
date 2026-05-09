@@ -47,7 +47,7 @@ Cost
 
 Services
 --------
->LCS ratios:
+>LCS ratios, services and definitions:
 1. 30% : mowing - mowing yards and vacant properties
 2. 20% : pruning - pruning of shrubs and the like
 3. 20% : edging - edging hard and soft curbing
