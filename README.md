@@ -117,7 +117,7 @@ Property Damages
 4. 2025.7.29 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.7.29-1).
 5. 2025.10.17 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.10.17-1).
 6. 2026.5.5 - Driveway damage, repaired by homeowner.
-7. 2026.5.7 - Driveway damage, reported to WPA, GPS and  Charlotte County police (case # 2605-004810).
+7. 2026.5.7 - Driveway damage, filed complaint with Charlotte County police (case # 2605-004810).
 >Invoices available in evidence package.
 
 **Legal Analysis**:
