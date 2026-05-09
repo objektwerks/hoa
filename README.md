@@ -210,11 +210,11 @@ Evidence Package
 
 Juniper Reviews
 ---------------
->*Based on numerous customer reports as of May 2026, Juniper Landscaping in Fort Myers has severe issues with service quality, including killing plants with over-spraying, damaging property, and failing to address customer concerns, leading to an extremely poor reputation among residents and HOAs.
+>Based on numerous customer reports as of May 2026, Juniper Landscaping in Fort Myers has severe issues with service quality, including killing plants with over-spraying, damaging property, and failing to address customer concerns, leading to an extremely poor reputation among residents and HOAs.
 * Significant Damages & Negligence: Complaints include damaging property with equipment, such as ruining hurricane-impact doors, breaking sprinkler systems, and driving over irrigation downspouts.
 * Poor Lawn Maintenance: Reports indicate dying grass, high weed infestation, and failure to clean up after services.
 * Irresponsible Chemical Application: Multiple, recent reports allege that the company kills plants, shrubs, and flowers by misapplying, or over-applying, weed killer.
 * No Accountability/Communication: Customers report being ignored by management, and complaints filed through their app are often closed without resolution.
 * HOA Issues: Several HOAs have terminated or were advised to fire them due to poor performance.
 
-Customers are frequently describing them as the "worst" company and warn to avoid them.* (Source: Google AI)
+Customers are frequently describing them as the "worst" company and warn to avoid them. (Source: Google AI)
