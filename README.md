@@ -215,5 +215,5 @@ Significant Damages & Negligence: Complaints include damaging property with equi
 Poor Lawn Maintenance: Reports indicate dying grass, high weed infestation, and failure to clean up after services.
 Irresponsible Chemical Application: Multiple, recent reports allege that the company kills plants, shrubs, and flowers by misapplying, or over-applying, weed killer.
 No Accountability/Communication: Customers report being ignored by management, and complaints filed through their app are often closed without resolution.
-HOA Issues: Several HOAs have terminated or were advised to fire them due to poor performance. [1, 2, 3, 4, 5]
+HOA Issues: Several HOAs have terminated or were advised to fire them due to poor performance.
 Customers are frequently describing them as the "worst" company and warn to avoid them.* (Source: Google AI)
