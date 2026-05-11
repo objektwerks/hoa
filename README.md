@@ -204,10 +204,6 @@ Options
 
 >*Florida law enforcement is required to investigate actual criminal activity within a Homeowners' Association (HOA), such as fraud, theft, or embezzlement. However, police do not handle civil disputes or covenant enforcement. Recent laws (e.g., HB 1203 and HB 919) have increased criminal penalties for board members regarding record tampering, forgery, and election fraud, forcing HOAs to comply with law enforcement subpoenas within 5 days. If local law enforcement is unresponsive, you can report fraud to the Florida Attorney General’s office.* (Source: Google AI)
 
-Evidence Package
-----------------
->A USB flash drive, containing all relavent documents, emails and photos, available based on need-to-know.
-
 Juniper Reviews
 ---------------
 >Based on numerous customer reports as of May 2026, Juniper Landscaping in Fort Myers has severe issues with service quality, including killing plants with over-spraying, damaging property, and failing to address customer concerns, leading to an extremely poor reputation among residents and HOAs.
@@ -220,3 +216,7 @@ Juniper Reviews
 Customers are frequently describing them as the ***worst*** company and warn to avoid them. (Source: Google AI)
 
 >**[Better Business Bureau** Juniper Reviews](https://www.bbb.org/us/fl/fort-myers/profile/landscape-contractors/juniper-landscaping-of-florida-llc-0653-90188732/complaints)
+
+Evidence Package
+----------------
+>A USB flash drive, containing all relavent documents, emails and photos, available based on need-to-know.
