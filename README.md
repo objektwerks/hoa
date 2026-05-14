@@ -152,7 +152,7 @@ Analysis
 
 >A plea, via the above hand-delivered letter and follow-up email, to correct the unsatisfactory LCS, by implementing a system of accountability, was ignored by the WPA board and GPS.
 
->Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the LCS 91% ***fail*** rate.
+>Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the LCS 92% ***fail*** rate.
 
 >It's also worth noting the WPA board and GPS, on 2024.11.12, were notified the LCS employed illegal aliens - a common fact known to WPA homeowners for years.
 
