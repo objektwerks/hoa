@@ -22,7 +22,7 @@ Lawn Care Service (LCS)
 
 Contracts
 ---------
-1. 2024 - 2025 LMP Contract
+* 2024 - 2025 LMP Contract
 2. 2026 Juniper Contract
 >Contracts available in evidence package.
 
