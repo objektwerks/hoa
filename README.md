@@ -20,6 +20,19 @@ Lawn Care Service (LCS)
 * 4415 Metro Parkway, Suite 300, Fort Myers, FL 33916 : (239) 561-5980
 >Juniper acquired LMP in 2024.
 
+Juniper Reviews
+---------------
+>Based on numerous customer reports as of May 2026, Juniper Landscaping in Fort Myers has severe issues with service quality, including killing plants with over-spraying, damaging property, and failing to address customer concerns, leading to an extremely poor reputation among residents and HOAs.
+* Significant Damages & Negligence: Complaints include damaging property with equipment, such as ruining hurricane-impact doors, breaking sprinkler systems, and driving over irrigation downspouts.
+* Poor Lawn Maintenance: Reports indicate dying grass, high weed infestation, and failure to clean up after services.
+* Irresponsible Chemical Application: Multiple, recent reports allege that the company kills plants, shrubs, and flowers by misapplying, or over-applying, weed killer.
+* No Accountability/Communication: Customers report being ignored by management, and complaints filed through their app are often closed without resolution.
+* HOA Issues: Several HOAs have terminated or were advised to fire them due to poor performance.
+
+Customers are frequently describing them as the ***worst*** company and warn to avoid them. (Source: Google AI)
+
+>[Better Business Bureau** Juniper Reviews](https://www.bbb.org/us/fl/fort-myers/profile/landscape-contractors/juniper-landscaping-of-florida-llc-0653-90188732/complaints)
+
 Contracts
 ---------
 1. 2024 - 2025 LMP Contract
@@ -209,19 +222,6 @@ Options
 >*Florida's HB 657 seeks to allow homeowners to dissolve their HOA by petition, requiring 20% support for a vote and two-thirds approval, as discussed on Realtor.com. Although passed by the House, the bill’s future is uncertain, notes this Facebook post, and it must pass the Senate to become law. The legislation aims to address excessive fees and board mismanagement, with a potential July 1, 2026, effective date.* (Source: Google AI)
 
 >*Florida law enforcement is required to investigate actual criminal activity within a Homeowners' Association (HOA), such as fraud, theft, or embezzlement. However, police do not handle civil disputes or covenant enforcement. Recent laws (e.g., HB 1203 and HB 919) have increased criminal penalties for board members regarding record tampering, forgery, and election fraud, forcing HOAs to comply with law enforcement subpoenas within 5 days. If local law enforcement is unresponsive, you can report fraud to the Florida Attorney General’s office.* (Source: Google AI)
-
-Juniper Reviews
----------------
->Based on numerous customer reports as of May 2026, Juniper Landscaping in Fort Myers has severe issues with service quality, including killing plants with over-spraying, damaging property, and failing to address customer concerns, leading to an extremely poor reputation among residents and HOAs.
-* Significant Damages & Negligence: Complaints include damaging property with equipment, such as ruining hurricane-impact doors, breaking sprinkler systems, and driving over irrigation downspouts.
-* Poor Lawn Maintenance: Reports indicate dying grass, high weed infestation, and failure to clean up after services.
-* Irresponsible Chemical Application: Multiple, recent reports allege that the company kills plants, shrubs, and flowers by misapplying, or over-applying, weed killer.
-* No Accountability/Communication: Customers report being ignored by management, and complaints filed through their app are often closed without resolution.
-* HOA Issues: Several HOAs have terminated or were advised to fire them due to poor performance.
-
-Customers are frequently describing them as the ***worst*** company and warn to avoid them. (Source: Google AI)
-
->[Better Business Bureau** Juniper Reviews](https://www.bbb.org/us/fl/fort-myers/profile/landscape-contractors/juniper-landscaping-of-florida-llc-0653-90188732/complaints)
 
 Evidence Package
 ----------------
