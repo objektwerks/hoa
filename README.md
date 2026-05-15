@@ -225,4 +225,4 @@ Options
 
 Evidence Package
 ----------------
->A USB flash drive, containing all relavent documents, emails and photos, available based on need-to-know.
+>A USB flash drive, containing contracts, emails, photos and reports, available based on need-to-know.
