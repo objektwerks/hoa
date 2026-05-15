@@ -117,6 +117,8 @@ Reports
 36. Fail : 2026.5.5
 37. Fail : 2026.5.12
 
+>Detailed reports, with photos, available in evidence package.
+
 Report Metrics
 --------------
 * Annual LCS cost: $116,831.00
@@ -124,8 +126,6 @@ Report Metrics
 
 * Pass Rate: 8%
 * Fail Rate: 92%
-
->Detailed reports, with photos, available in evidence package.
 
 Property Damages
 ----------------
