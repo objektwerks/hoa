@@ -183,7 +183,7 @@ Analysis
 
 Illegal Activities and Penalities
 ---------------------------------
-1. breach of fudiciary duty -> misdemeanor, fine, jail time
+1. breach of fudiciary duty -> misdemeanor with possible fine and jail time
 2. financial fraud -> felony, fine, jail time
 
 Unlawful Activities and Penalities
