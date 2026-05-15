@@ -35,7 +35,7 @@ Customers are frequently describing them as the ***worst*** company and warn to 
 
 Contracts
 ---------
-* 2024 - 2025 LMP Contract
+* 2024-2025 LMP Contract
 * 2026 Juniper Contract
 >Contracts available in evidence package.
 
