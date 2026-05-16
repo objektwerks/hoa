@@ -28,8 +28,7 @@ Juniper Reviews
 * Irresponsible Chemical Application: Multiple, recent reports allege that the company kills plants, shrubs, and flowers by misapplying, or over-applying, weed killer.
 * No Accountability/Communication: Customers report being ignored by management, and complaints filed through their app are often closed without resolution.
 * HOA Issues: Several HOAs have terminated or were advised to fire them due to poor performance.
-
-Customers are frequently describing them as the ***worst*** company and warn to avoid them. (Source: Google AI)
+>Customers are frequently describing Juniper as the ***worst*** company and warn to avoid them. (Source: Google AI)
 
 >[Better Business Bureau** Juniper Reviews](https://www.bbb.org/us/fl/fort-myers/profile/landscape-contractors/juniper-landscaping-of-florida-llc-0653-90188732/complaints)
 >Right-click link to ***open link in new tab***.
