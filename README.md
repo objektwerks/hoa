@@ -32,6 +32,7 @@ Juniper Reviews
 Customers are frequently describing them as the ***worst*** company and warn to avoid them. (Source: Google AI)
 
 >[Better Business Bureau** Juniper Reviews](https://www.bbb.org/us/fl/fort-myers/profile/landscape-contractors/juniper-landscaping-of-florida-llc-0653-90188732/complaints)
+>Right-click link to ***open link in new tab***.
 
 Contracts
 ---------
