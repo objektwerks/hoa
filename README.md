@@ -69,8 +69,8 @@ Services
 2. 20% : pruning - pruning of shrubs and the like
 3. 20% : edging - edging hard and soft curbing
 4. 10% : trimming - trimming of culverts and yard artifacts
-5. 1%  : blowing - blowing of landscaping debris
-6. 17% : irrigation - monthly and just-in-time maintenance of irrigation system
+5. 3%  : blowing - blowing of landscaping debris
+6. 15% : irrigation - monthly and just-in-time maintenance of irrigation system
 7. 1%  : fertilizing - scheduled 4 times a year
 8. 1%  : pesticides - scheduled 4 times a year
 >Median LCS Weighted Value: 15%
