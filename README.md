@@ -191,6 +191,10 @@ Analysis
 
 >WPA homeowners are legally required to pay all scheduled HOA fees, to include embedded LCS fees, effectively amounting to a legalized form of extortion.
 
+HOA Civil and Criminal Violations
+---------------------------------
+>*Florida HOA board violations of Chapter 720 can be both civil and criminal, depending on the action. While minor disputes are civil, recent legislation has made fraudulent activities—like election tampering, theft, and records destruction—felonies or misdemeanors. Criminal violations trigger mandatory removal from office, while financial negligence often results in civil liability.* (Source: Google AI)
+
 Illegal Activities and Penalities
 ---------------------------------
 1. breach of fudiciary duty -> misdemeanor with possible fine and jail time
@@ -199,10 +203,6 @@ Illegal Activities and Penalities
 Unlawful Activities and Penalities
 ----------------------------------
 1. material breach of contract -> nullification of contract, damages
-
-HOA Civil and Criminal Violations
----------------------------------
->*Florida HOA board violations of Chapter 720 can be both civil and criminal, depending on the action. While minor disputes are civil, recent legislation has made fraudulent activities—like election tampering, theft, and records destruction—felonies or misdemeanors. Criminal violations trigger mandatory removal from office, while financial negligence often results in civil liability.* (Source: Google AI)
 
 Options
 -------
