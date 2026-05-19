@@ -120,7 +120,7 @@ Reports
 39. TODO
 
 * Annual Pass Rate: 8%
-* Fail Rate: 92%
+* Annual Fail Rate: 92%
 
 * TODO (homeowner annual cost * annual fail rate) * Median LCS Weighted Value
 
