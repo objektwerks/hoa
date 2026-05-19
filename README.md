@@ -122,7 +122,8 @@ Reports
 * Annual LCS Pass Rate: 8%
 * Annual LCS Fail Rate: 92%
 
-* TODO: (Homeowner Annual LCS Cost * Annual LCS Fail Rate) * Median LCS Weighted Value
+* (Homeowner Annual LCS Cost * Annual LCS Fail Rate) * Median LCS Weighted Value = Homeowner Annual LCS Negative Cost
+* TODO
 
 >Detailed reports, with photos, available in evidence package.
 
