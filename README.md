@@ -122,6 +122,8 @@ Reports
 * Pass Rate: 8%
 * Fail Rate: 92%
 
+* TODO (homeowner annual cost * annual fail rate) * Median LCS Weighted Value
+
 >Detailed reports, with photos, available in evidence package.
 
 Property Damages
