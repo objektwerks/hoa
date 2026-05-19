@@ -66,10 +66,10 @@ Services
 --------
 >LCS weighted value, service and definition:
 1. 30% : mowing - mowing yards and vacant properties
-2. 20% : pruning - pruning of shrubs and trees
-3. 20% : edging - edging hard and soft curbing
-4. 10% : trimming - trimming of culverts and yard artifacts
-5. 3%  : blowing - blowing of landscaping debris
+2. 20% : edging - edging hard and soft curbing
+3. 10% : trimming - trimming of culverts and yard artifacts
+4. 3%  : blowing - blowing of landscaping debris
+5. 20% : pruning - pruning of shrubs and trees
 6. 15% : irrigation - monthly and just-in-time maintenance of irrigation system
 7. 1%  : fertilizing - scheduled 4 times a year
 8. 1%  : pesticides - scheduled 4 times a year
