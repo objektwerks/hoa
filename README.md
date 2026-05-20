@@ -116,7 +116,7 @@ Reports
 35. Fail : 2026.4.28
 36. Fail : 2026.5.5
 37. Fail : 2026.5.12
-38. TODO
+38. Fail : 2026.5.19
 39. TODO
 
 * Annual LCS Pass Rate: 8%
