@@ -127,7 +127,7 @@ Reports
 
 * Homeowner Annual LCS Material Breach Cost * Total Homeowners = Annual LCS Material Breach Cost
 * $202.32 * 85 = **$17,197.20**
->In other words, **85** WPA homeowners are being ***financially defrauded*** of: **$17,197.20** in ***estimated*** LCS costs for contractual LCS services not rendered on an annual basis. The current LCS vendor, Juniper, has been under contract since January 2024.
+>In other words, **85** WPA homeowners are being ***financially defrauded*** of: **$17,197.20** in ***estimated*** LCS material breach costs for contractual LCS services not rendered on an annual basis. The current LCS vendor, Juniper, has been under contract since January 2024.
 
 >Detailed reports, with photos, available in evidence package.
 
