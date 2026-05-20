@@ -50,7 +50,7 @@ Contracts
 Cost
 ----
 >The WPA contains 98 properties, composed of 85 homeowners and 13 vacant lot owners, with an annual assessment of:
-1. 85 homewoners @ $2060
+1. 85 homeowners @ $2060
 2. 13 vacant lot owners @ $420
 >LCS breakdown:
 1. Annual LCS cost: $116,831
