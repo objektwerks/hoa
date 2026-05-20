@@ -127,6 +127,7 @@ Reports
 
 * Homeowner Annual LCS Material Breach Cost * Total Homeowners = Annual LCS Material Breach Cost
 * $202.32 * 85 = $17,197.20
+>In other words, 85 WPA homeowners, at a minimum, are being financially defraued in the amount of: **$17,197.20**
 
 >Detailed reports, with photos, available in evidence package.
 
