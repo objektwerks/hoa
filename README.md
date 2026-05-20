@@ -214,8 +214,8 @@ Unlawful Activities and Penalities
 ----------------------------------
 1. material breach of contract -> nullification of contract, damages
 
-Options
--------
+Solutions
+---------
 >Options for WPA homeowners include:
 1. Maintain the status quo, allowing the WPA board, GPS and Juniper to continue financially defrauding WPA homeowners.
 2. Remove the WPA board, fire Juniper and GPS; elect a new board, hire a new LCS and PMC.
