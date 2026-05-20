@@ -125,6 +125,8 @@ Reports
 * (Homeowner Annual LCS Cost * Annual LCS Fail Rate) * Median LCS Weighted Value = Homeowner Annual LCS Negative Cost
 * ($1,374.48 * .92) * .16 = $202.32
 
+* Annual LCS Negative Cost: $202.32 * 98 Homeowners = 
+
 >Detailed reports, with photos, available in evidence package.
 
 Property Damages
