@@ -126,7 +126,7 @@ Reports
 * ($1,374.48 * .92) * .16 = $202.32
 
 * Homeowner Annual LCS Material Breach Cost * Total Homeowners = Annual LCS Material Breach Cost
-* $202.32 * 85 = $19,827.70
+* $202.32 * 85 = $17,197.20
 
 >Detailed reports, with photos, available in evidence package.
 
