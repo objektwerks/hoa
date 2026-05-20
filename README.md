@@ -123,7 +123,7 @@ Reports
 * Annual LCS Fail Rate: 92%
 
 * (Homeowner Annual LCS Cost * Annual LCS Fail Rate) * Median LCS Weighted Value = Homeowner Annual LCS Negative Cost
-* TODO
+* ($1,374.48 * .92) * .16 = 
 
 >Detailed reports, with photos, available in evidence package.
 
