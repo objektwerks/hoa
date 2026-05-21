@@ -122,6 +122,8 @@ Reports
 * Annual LCS Pass Rate: 8%
 * Annual LCS Fail Rate: 92%
 
+Fraud
+-----
 * (Homeowner Annual LCS Cost * Annual LCS Fail Rate) * Median LCS Weighted Value = Homeowner Annual LCS Material Breach Cost
 * ($1,374.48 * .92) * .16 = **$202.32**
 
