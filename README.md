@@ -120,7 +120,7 @@ Reports
 39. TODO
 
 * Annual LCS Pass Rate: **8%**
-* Annual LCS Fail Rate: 92%
+* Annual LCS Fail Rate: **92%**
 >Detailed reports, with photos, available in evidence package.
 
 Fraud
