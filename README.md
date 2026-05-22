@@ -76,8 +76,8 @@ LCS Services
 8. 1%  : pesticides - scheduled 4 times a year
 >Median LCS Weighted Value: **15.5%** (rounded to **16%**)
 
-Reports
--------
+LCS Reports
+-----------
 >LCS performance reports, detailing (1) pass/fail and (2) session date. TODO: weighted values ???
 1. Fail : 2025.5.29
 2. Fail : 2025.6.5
