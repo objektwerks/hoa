@@ -149,7 +149,7 @@ Property Damages
 6. 2026.5.5 - Driveway damage, repaired by homeowner.
 7. 2026.5.7 - Driveway damage, repaired by homeowner, complaint filed with Charlotte County police (case # 2605-004810), who chose to treat the case as a civil offense not a criminal offense of vandalism. Out of 85 homes, only this homeowner's driveway was damaged.
 8. 2026.5.19 - Driveway damage, repaired by homeowner.
->Invoices available in evidence package.
+>The WPA board and GPS ignored this homeowner's legal invoices. Moreover, the LCS continues to damage this homeowner's driveway.
 
 **Legal Analysis**:
 
@@ -157,9 +157,7 @@ Property Damages
 
 >*While the HOA is responsible for addressing the damage, the homeowner may need to take further steps if the HOA fails to act. This can include sending a formal demand letter for the association to provide documentation of its contracts with vendors, as Florida law requires the HOA to provide this information upon request. If the HOA still does not resolve the issue, the homeowner can make the necessary repairs and seek reimbursement from the HOA. In cases where the HOA is unresponsive, legal action may be necessary, potentially through small claims court or mediation, with thorough documentation of communications and damages being essential for success.* (Source: Google AI)
 
->The WPA board and GPS ignored this homeowner's legal invoices. Moreover, the LCS continues to damage this homeowner's driveway.
-
->Emails available in evidence package.
+>Invoices and emails available in evidence package.
 
 Analysis
 --------
