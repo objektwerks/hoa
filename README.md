@@ -159,7 +159,7 @@ Financial Fraud
 
 Analysis
 --------
->**1. The WPA board is in ***breach of its fiduciary duty*** to WPA homeowners**.
+>**1. The WPA board is in constant ***breach of its fiduciary duty*** to WPA homeowners**.
 
 **Legal Analysis**:
 
