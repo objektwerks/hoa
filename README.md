@@ -30,9 +30,6 @@ Juniper Reviews
 * **HOA Issues**: Several HOAs have terminated or were advised to fire them due to poor performance.
 >Customers are frequently describing Juniper as the ***worst*** company and warn to avoid them. (Source: Google AI)
 
->[Better Business Bureau Juniper Reviews](https://www.bbb.org/us/fl/fort-myers/profile/landscape-contractors/juniper-landscaping-of-florida-llc-0653-90188732/complaints)
->Right-click link to ***open link in new tab***.
-
 Contracts
 ---------
 * 2024-2025 LMP Contract
