@@ -82,7 +82,6 @@ Services
 Reports
 -------
 >LCS performance report results, detailing pass/fail status and LCS session date.
-
 1. Fail : 2025.5.29
 2. Fail : 2025.6.5
 3. Fail : 2025.6.11
