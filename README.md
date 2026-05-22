@@ -81,7 +81,7 @@ Services
 
 Reports
 -------
->LCS performance report results, detailing (1) pass/fail and (2) session date. TODO: weighted values ???
+>LCS performance reports, detailing (1) pass/fail and (2) session date. TODO: weighted values ???
 1. Fail : 2025.5.29
 2. Fail : 2025.6.5
 3. Fail : 2025.6.11
