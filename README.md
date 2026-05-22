@@ -172,7 +172,7 @@ Property Damages
 
 Analysis
 --------
->An HOA board, by law, has a fiduciary duty to its homeowners.
+>The WPA board is in breach of its fiduciary duty to WPA homeowners.
 
 **Legal Analysis**:
 
