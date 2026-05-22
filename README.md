@@ -235,4 +235,4 @@ Solutions
 
 Evidence Package
 ----------------
->A USB flash drive, containing contracts, emails, photos and reports, available on a need-to-know basis.
+>A USB flash drive containing contracts, emails, photos and reports.
