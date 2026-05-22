@@ -172,7 +172,7 @@ Property Damages
 
 Analysis
 --------
->**1. The WPA board is in breach of its fiduciary duty to WPA homeowners**.
+>**1. The WPA board is in ***breach of its fiduciary duty*** to WPA homeowners**.
 
 **Legal Analysis**:
 
@@ -194,7 +194,7 @@ Analysis
 
 >*Hiring a lawn care service while knowingly employing undocumented workers carries significant legal risks for a Florida Homeowners Association (HOA) and the vendor, primarily due to SB 1718 (effective 2023.7.1) and other state labor laws.* (Source: Google AI)
 
->**The WPA board is ***financially defrauding*** WPA homeowners**.
+>**2. The WPA board is ***financially defrauding*** WPA homeowners**.
 
 **Legal Analysis**:
 
