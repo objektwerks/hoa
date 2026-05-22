@@ -226,7 +226,7 @@ Solutions
 2. Remove the WPA board, fire Juniper and GPS; elect a new board, hire a new LCS and PMC.
 3. Remove the WPA board, fire Juniper and GPS; elect a new board, hire a CPA to administrate the WPA and require WPA homeowners to hire their own LCS.
 4. Legally dissolve the WPA.
-5. Take the WPA and GPS to court - an expensive option.
+5. Take the WPA and GPS to court.
 6. Report WPA and GPS illegal activities to local and state law enforcement entities, which are legally obligated to investigate illegal HOA activities. See **Legal Analysis** below.
 
 **Legal Analysis**:
