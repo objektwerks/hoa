@@ -192,8 +192,8 @@ The WPA board is in ***breach of its fiduciary duty*** to WPA homeowners**.
 
 >*Hiring a lawn care service while knowingly employing undocumented workers carries significant legal risks for a Florida Homeowners Association (HOA) and the vendor, primarily due to SB 1718 (effective 2023.7.1) and other state labor laws.* (Source: Google AI)
 
->**2. The WPA board is ***financially defrauding*** WPA homeowners**.
-
+2. The WPA board is ***financially defrauding*** WPA homeowners.
+----------------------------------------------------------------
 **Legal Analysis**:
 
 >*In Florida, financial fraud involving a vendor contract in a homeowners' association (HOA) can occur through kickbacks, billing schemes, or undisclosed conflicts of interest. These fraudulent acts are often accompanied by a breach of the vendor contract and a breach of the HOA board members' fiduciary duty to the community.* (Source: Google AI)
