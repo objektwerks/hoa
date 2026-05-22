@@ -160,7 +160,6 @@ Property Damages
 >In addition to the above info, the following legal opinions also address this issue:
 
 1. [Who is Responsible for Landscaper Damage](https://www.galleriarealtors.com/whos-responsible-for-landscaper-damage)
-2. [Real Estate Lawyer on Landscaper Damage](https://www.sun-sentinel.com/2021/05/27/ask-a-real-estate-pro-is-hoa-responsible-for-fixing-deck-damaged-by-landscaper/)
 >Right-click link to ***open link in new tab***.
 
 >The WPA board and GPS ignored this homeowner's legal invoices. Moreover, the LCS continues to damage this homeowner's driveway.
