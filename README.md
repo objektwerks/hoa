@@ -76,6 +76,27 @@ LCS Services
 8. 1%  : pesticides - scheduled 4 times a year
 >Median LCS Weighted Value: **15.5%** (rounded to **16%**)
 
+LCS Property Damage
+-------------------
+>The LCS routinely damages WPA homeowner property - in particular, driveways and shrubs.
+
+>Reported property damage incidents:
+1. 2024.3.24 - Driveway damage, repaired by LMP on 2024.3.26.
+2. 2024.5.19 - Driveway damage, repaired by homeowner.
+3. 2025.4.14 - Driveway damage, repaired by homeowner.
+4. 2025.7.29 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.7.29-1).
+5. 2025.10.17 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.10.17-1).
+6. 2026.5.5 - Driveway damage, repaired by homeowner.
+7. 2026.5.7 - Driveway damage, repaired by homeowner, complaint filed with Charlotte County police (case # 2605-004810), who chose to treat the case as a civil offense not a criminal offense of vandalism. Out of 85 homes, only this homeowner's driveway was damaged.
+8. 2026.5.19 - Driveway damage, repaired by homeowner.
+>The WPA board and GPS ignored this homeowner's legal invoices. Moreover, the LCS continues to damage this homeowner's driveway.
+
+**Legal Analysis**:
+
+>*In Florida, if an HOA's landscaping crew causes damage to a homeowner's property, the responsibility for reimbursement generally falls on the HOA, not the individual homeowner, even if the damage was caused by a contractor hired by the HOA. The HOA shares responsibility because it is in "privity" with the landscaper through their contract. The homeowner should document the damage with clear photos and notify the HOA in writing. The HOA is then obligated to arrange for the landscaper to fix the issue. If the landscaper refuses to take responsibility, the HOA must proceed with the repairs at its own expense and can later seek reimbursement from the contractor.* (Source: Google AI)
+
+>Emails and invoices available in evidence package.
+
 LCS Reports
 -----------
 >LCS ***'performance'*** reports, detailing (1) pass/fail and (2) session date. TODO: weighted values ???
@@ -135,27 +156,6 @@ Financial Fraud
 * Annual LCS Material Breach Cost * Juniper Contract Duration in Years = To Date LCS Material Breach Cost
 * $17,197.20 * 2.5 = **$42,993.00**
 >In other words, **85** WPA homeowners are being ***financially defrauded*** of: **$17,197.20** in ***estimated*** LCS material breach costs for contractual LCS services not rendered on an annual basis. The current LCS vendor, Juniper, has been under contract with the WPA since January 2024. To date, the estimated amount of ***financial fraud*** is: $42,993.
-
-Property Damage
----------------
->The LCS routinely damages WPA homeowner property - in particular, driveways and shrubs.
-
->Reported property damage incidents:
-1. 2024.3.24 - Driveway damage, repaired by LMP on 2024.3.26.
-2. 2024.5.19 - Driveway damage, repaired by homeowner.
-3. 2025.4.14 - Driveway damage, repaired by homeowner.
-4. 2025.7.29 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.7.29-1).
-5. 2025.10.17 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.10.17-1).
-6. 2026.5.5 - Driveway damage, repaired by homeowner.
-7. 2026.5.7 - Driveway damage, repaired by homeowner, complaint filed with Charlotte County police (case # 2605-004810), who chose to treat the case as a civil offense not a criminal offense of vandalism. Out of 85 homes, only this homeowner's driveway was damaged.
-8. 2026.5.19 - Driveway damage, repaired by homeowner.
->The WPA board and GPS ignored this homeowner's legal invoices. Moreover, the LCS continues to damage this homeowner's driveway.
-
-**Legal Analysis**:
-
->*In Florida, if an HOA's landscaping crew causes damage to a homeowner's property, the responsibility for reimbursement generally falls on the HOA, not the individual homeowner, even if the damage was caused by a contractor hired by the HOA. The HOA shares responsibility because it is in "privity" with the landscaper through their contract. The homeowner should document the damage with clear photos and notify the HOA in writing. The HOA is then obligated to arrange for the landscaper to fix the issue. If the landscaper refuses to take responsibility, the HOA must proceed with the repairs at its own expense and can later seek reimbursement from the contractor.* (Source: Google AI)
-
->Emails and invoices available in evidence package.
 
 Analysis
 --------
