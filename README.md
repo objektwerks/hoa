@@ -31,7 +31,7 @@ LCS Review
 >Customers are frequently describing Juniper as the ***worst*** company and warn to avoid them. (Source: Google AI)
 
 LCS Contracts
----------
+-------------
 * 2024-2025 LMP Contract
 * 2026 Juniper Contract
 >Contracts available in evidence package.
