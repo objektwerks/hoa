@@ -172,7 +172,7 @@ Property Damages
 
 Analysis
 --------
->The WPA board is in breach of its fiduciary duty to WPA homeowners.
+>**The WPA board is in breach of its fiduciary duty to WPA homeowners**.
 
 **Legal Analysis**:
 
