@@ -68,7 +68,7 @@ Cost
 
 Services
 --------
->LCS weighted value, service and definition:
+>LCS (1) weighted value, (2) service and (3) definition:
 1. 30% : mowing - mowing yards and vacant properties
 2. 20% : edging - edging hard and soft curbing
 3. 10% : trimming - trimming of culverts and yard artifacts
