@@ -77,7 +77,7 @@ Services
 6. 15% : irrigation - monthly and just-in-time maintenance of irrigation system
 7. 1%  : fertilizing - scheduled 4 times a year
 8. 1%  : pesticides - scheduled 4 times a year
->Median LCS Weighted Value: 15.5% (rounded to 16%)
+>Median LCS Weighted Value: **15.5%** (rounded to **16%**)
 
 Reports
 -------
