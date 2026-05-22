@@ -184,7 +184,7 @@ Analysis
 2. 2024 LCS Budget Email
 >Statement and email available in evidence package.
 
->A plea, via the above hand-delivered letter and follow-up email, to correct the unsatisfactory LCS, by implementing a system of accountability, was ignored by the WPA board and GPS.
+>A plea, via the above hand-delivered letter and follow-up email, to correct the unsatisfactory LCS, by implementing a LCS system of accountability, was ignored by the WPA board and GPS.
 
 >Hence, the results of the **Reports** section, which details the WPA board's unending breach of fiduciary duty over the past year, evidenced by the LCS 92% ***fail*** rate.
 
