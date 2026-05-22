@@ -31,7 +31,7 @@ LCS Review
 >Customers are frequently describing Juniper as the ***worst*** company and warn to avoid them. (Source: Google AI)
 
 LCS Contracts
--------------
+---------
 * 2024-2025 LMP Contract
 * 2026 Juniper Contract
 >Contracts available in evidence package.
@@ -48,8 +48,8 @@ LCS Contracts
 
 >**Note:** The WPA, with 98 parcels, falls 2 shy of the 100 parcel requirement. Yet the WPA is a sub-HOA of a larger master HOA, CAPE HAZE WINDWARD POA, INC. Hence the website requirement.
 
-Cost
-----
+LCS Cost
+--------
 >The WPA contains 98 properties, composed of 85 homeowners and 13 vacant lot owners, with an annual assessment of:
 1. 85 homeowners @ $2060
 2. 13 vacant lot owners @ $420
