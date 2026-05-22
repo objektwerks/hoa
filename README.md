@@ -145,7 +145,7 @@ Property Damages
 >The LCS routinely damages WPA homeowner property - in particular, driveways and shrubs.
 
 >Reported property damage incidents:
-1. 2024.3.24 - Driveway damage, repaired by LMP on 2024.3.26
+1. 2024.3.24 - Driveway damage, repaired by LMP on 2024.3.26.
 2. 2024.5.19 - Driveway damage, repaired by homeowner.
 3. 2025.4.14 - Driveway damage, repaired by homeowner.
 4. 2025.7.29 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.7.29-1).
