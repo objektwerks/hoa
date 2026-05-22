@@ -170,8 +170,8 @@ Property Damages
 
 >Emails available in evidence package.
 
-The WPA board is in ***breach of its fiduciary duty*** to WPA homeowners**.
----------------------------------------------------------------------------
+The WPA board is in ***breach of its fiduciary duty*** to WPA homeowners.
+-------------------------------------------------------------------------
 **Legal Analysis**:
 
 >*Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, removal from office, and ***potentially criminal charges for fraud*** or self-dealing. While Florida law provides qualified immunity for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or ***engage in criminal acts***.* (Source: Google AI)
