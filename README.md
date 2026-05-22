@@ -120,7 +120,7 @@ Reports
 36. Fail : 2026.5.5
 37. Fail : 2026.5.12
 38. Fail : 2026.5.19
-39. TODO
+39. Fail : 2026.5.26
 
 * Annual LCS Pass Rate: **8%**
 * Annual LCS Fail Rate: **92%**
