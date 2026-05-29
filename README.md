@@ -51,7 +51,7 @@ LCS Contracts
 >**Note:** The WPA, with 98 parcels, falls 2 shy of the 100 parcel requirement. Yet the WPA is a sub-HOA of a larger master HOA, CAPE HAZE WINDWARD POA, INC. Hence the website requirement.
 
 >*Under modern contract law, a contract is an objective, legally binding exchange of promises, strictly governed by clear rules and statutes — ***not*** public opinion, subjective intentions, or a ***popularity contest***.*
-(Source: Google AI)
+>(Source: Google AI)
 
 LCS Cost
 --------
