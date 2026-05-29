@@ -40,6 +40,9 @@ LCS Contracts
 
 >Questions about anomolies in the 2026 contract were submitted to GPS on 2026.4.16, with no answers to date. As of 2026.5.15, GPS maintains it is waiting for clarification from Juniper on 2026 contract anomolies. As a signatory on the 2026 contract, how can GPS not understand said contract?
 
+>The WPA board and GPS routinely cite the purported lack to WPA homowner complaints as a sign that Juniper is doing a
+a good job.
+
 >Emails available in evidence package.
 
 **Legal Analysis**:
