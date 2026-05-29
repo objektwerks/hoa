@@ -29,6 +29,7 @@ LCS Review
 * **No Accountability/Communication**: Customers report being ignored by management, and complaints filed through their app are often closed without resolution.
 * **HOA Issues**: Several HOAs have terminated or were advised to fire them due to poor performance.
 >Customers are frequently describing Juniper as the ***worst*** company and warn to avoid them.
+
 >(Source: Google AI)
 
 LCS Contracts
