@@ -44,7 +44,7 @@ LCS Contracts
 
 >Emails available in evidence package.
 
-**Legal Analysis**:
+**Legal Analysis:**
 
 >*As of 2026, Florida HOAs with 100 or more parcels must maintain a website containing specific records, including contracts for services (like landscaping). Failure to post this, as outlined in Florida Statute § 720.303, is a violation. Residents can demand records in writing, and if not provided, pursue remedies through pre-suit mediation.* (Source: Google AI)
 
@@ -96,7 +96,7 @@ LCS Property Damage
 8. 2026.5.19 - Driveway damage, repaired by homeowner.
 >The WPA board and GPS ignored this homeowner's legal invoices. Moreover, the LCS continues to damage this homeowner's driveway.
 
-**Legal Analysis**:
+**Legal Analysis:**
 
 >*In Florida, if an HOA's landscaping crew causes damage to a homeowner's property, the responsibility for reimbursement generally falls on the HOA, not the individual homeowner, even if the damage was caused by a contractor hired by the HOA. The HOA shares responsibility because it is in "privity" with the landscaper through their contract. The homeowner should document the damage with clear photos and notify the HOA in writing. The HOA is then obligated to arrange for the landscaper to fix the issue. If the landscaper refuses to take responsibility, the HOA must proceed with the repairs at its own expense and can later seek reimbursement from the contractor.* (Source: Google AI)
 
@@ -167,7 +167,7 @@ Analysis
 --------
 >**1. The WPA board is in constant ***breach of its fiduciary duty*** to WPA homeowners**.
 
-**Legal Analysis**:
+**Legal Analysis:**
 
 >*Florida HOA board members breaching fiduciary duty face serious penalties, including personal liability for financial losses, removal from office, and ***potentially criminal charges for fraud*** or self-dealing. While Florida law provides qualified immunity for good-faith decisions, this protection is lost if directors act in bad faith, with reckless disregard, or ***engage in criminal acts***.* (Source: Google AI)
 
@@ -182,13 +182,13 @@ Analysis
 
 >It's also worth noting the WPA board and GPS, on 2024.11.12, were notified the LCS employed illegal aliens - a common fact known to WPA homeowners for years.
 
-**Legal Analysis**:
+**Legal Analysis:**
 
 >*Hiring a lawn care service while knowingly employing undocumented workers carries significant legal risks for a Florida Homeowners Association (HOA) and the vendor, primarily due to SB 1718 (effective 2023.7.1) and other state labor laws.* (Source: Google AI)
 
 >**2. The WPA board is constantly ***financially defrauding*** WPA homeowners**.
 
-**Legal Analysis**:
+**Legal Analysis:**
 
 >*In Florida, financial fraud involving a vendor contract in a homeowners' association (HOA) can occur through kickbacks, billing schemes, or undisclosed conflicts of interest. These fraudulent acts are often accompanied by a breach of the vendor contract and a breach of the HOA board members' fiduciary duty to the community.* (Source: Google AI)
 
@@ -213,7 +213,7 @@ Solutions
 5. Take the WPA and GPS to court.
 6. Report WPA and GPS illegal activities to local and/or state law enforcement entities, which are legally obligated to investigate illegal HOA activities.
 
-**Legal Analysis**:
+**Legal Analysis:**
 
 >*Florida law enforcement is required to investigate actual criminal activity within a HOA, such as fraud, theft, or embezzlement. However, police do not handle civil disputes or covenant enforcement. Recent laws (e.g., HB 1203 and HB 919) have increased criminal penalties for board members regarding record tampering, forgery, and election fraud, forcing HOAs to comply with law enforcement subpoenas within 5 days. If local law enforcement is unresponsive, you can report fraud to the Florida Attorney General’s office.* (Source: Google AI)
 
