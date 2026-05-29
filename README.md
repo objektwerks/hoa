@@ -98,7 +98,8 @@ LCS Property Damage
 
 **Legal Analysis:**
 
->*In Florida, if an HOA's landscaping crew causes damage to a homeowner's property, the responsibility for reimbursement generally falls on the HOA, not the individual homeowner, even if the damage was caused by a contractor hired by the HOA. The HOA shares responsibility because it is in "privity" with the landscaper through their contract. The homeowner should document the damage with clear photos and notify the HOA in writing. The HOA is then obligated to arrange for the landscaper to fix the issue. If the landscaper refuses to take responsibility, the HOA must proceed with the repairs at its own expense and can later seek reimbursement from the contractor.* (Source: Google AI)
+>*In Florida, if an HOA's landscaping crew causes damage to a homeowner's property, the responsibility for reimbursement generally falls on the HOA, not the individual homeowner, even if the damage was caused by a contractor hired by the HOA. The HOA shares responsibility because it is in "privity" with the landscaper through their contract. The homeowner should document the damage with clear photos and notify the HOA in writing. The HOA is then obligated to arrange for the landscaper to fix the issue. If the landscaper refuses to take responsibility, the HOA must proceed with the repairs at its own expense and can later seek reimbursement from the contractor.*
+>(Source: Google AI)
 
 >Emails and invoices available in evidence package.
 
