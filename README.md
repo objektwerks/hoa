@@ -246,6 +246,7 @@ AI
 >Moreover, AI is non-deterministic - meaning a question to AI can, over time, yield different answers.
 
 >AI is used in this report to present a current 2026.5 snapshot of different topics in a cogent manner.
-As with lawyers, law is a matter of interpretation. See:
+
+>As with lawyers, law is a matter of interpretation. To wit:
 
 >*The law is fundamentally a matter of interpretation. Because words are inherently imperfect tools, judges, lawyers, and legal scholars rely on distinct legal philosophies to determine what the text actually means in practice.*
