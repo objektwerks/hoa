@@ -241,7 +241,7 @@ AI
 --
 >AI, as sentient software built by humans, ***does not exist***. Period.
 
->AI is built by humans for humans; principally to control the thoughts and actions of humans.
+>AI is built by humans for humans; principally to ***control*** the thoughts and actions of humans.
 
 >Moreover, AI is non-deterministic - meaning a question to AI can, over time, yield different answers.
 
