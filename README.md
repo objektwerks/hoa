@@ -44,12 +44,12 @@ LCS Contracts
 
 **Legal Analysis**:
 
->*Under modern contract law, a contract is an objective, legally binding exchange of promises, strictly governed by clear rules and statutes — ***not*** public opinion, subjective intentions, or a ***popularity contest***.*
-(Source: Google AI)
-
 >*As of 2026, Florida HOAs with 100 or more parcels must maintain a website containing specific records, including contracts for services (like landscaping). Failure to post this, as outlined in Florida Statute § 720.303, is a violation. Residents can demand records in writing, and if not provided, pursue remedies through pre-suit mediation.* (Source: Google AI)
 
 >**Note:** The WPA, with 98 parcels, falls 2 shy of the 100 parcel requirement. Yet the WPA is a sub-HOA of a larger master HOA, CAPE HAZE WINDWARD POA, INC. Hence the website requirement.
+
+>*Under modern contract law, a contract is an objective, legally binding exchange of promises, strictly governed by clear rules and statutes — ***not*** public opinion, subjective intentions, or a ***popularity contest***.*
+(Source: Google AI)
 
 LCS Cost
 --------
