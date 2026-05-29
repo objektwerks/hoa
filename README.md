@@ -230,6 +230,7 @@ Solutions
 **Legal Analysis:**
 
 >*Florida law enforcement is required to investigate actual criminal activity within a HOA, such as fraud, theft, or embezzlement. However, police do not handle civil disputes or covenant enforcement. Recent laws (e.g., HB 1203 and HB 919) have increased criminal penalties for board members regarding record tampering, forgery, and election fraud, forcing HOAs to comply with law enforcement subpoenas within 5 days. If local law enforcement is unresponsive, you can report fraud to the Florida Attorney General’s office.*
+
 >(Source: Google AI)
 
 Evidence Package
