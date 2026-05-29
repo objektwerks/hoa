@@ -247,7 +247,7 @@ AI
 
 >AI is used in this report to present a current 2026.5 snapshot of different topics in a cogent manner.
 
->AI legal opinion, as in any court of law, is a matter of interpretation. To wit:
+>AI legal opinion, as in any court of law, is a matter of interpretation.
 
 **Legal Analysis:**
 
