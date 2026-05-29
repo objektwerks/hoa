@@ -243,7 +243,7 @@ AI
 
 >AI is built by humans for humans; principally to ***control*** the thoughts and actions of humans.
 
->Moreover, AI is non-deterministic - meaning a question to AI can, over time, yield different answers.
+>AI is non-deterministic - meaning a question to AI can, over time, yield different answers.
 
 >AI is used in this report to present a current 2026.5 snapshot of different topics in a cogent manner.
 
