@@ -144,7 +144,7 @@ LCS Reports
 37. Fail : 2026.5.12
 38. Fail : 2026.5.19
 39. Fail : 2026.5.26
->**Note:** All original LCS performance reports were emails; later transformed into PDF documents.
+>**Note:** All original LCS ***performance*** reports were emails; later transformed into PDF documents.
 
 * Annual LCS Pass Rate: **8%**
 * Annual LCS Fail Rate: **92%**
