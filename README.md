@@ -239,7 +239,8 @@ Evidence Package
 
 AI
 --
->AI, as ***sentient*** software built by humans or any non-human entity, ***does not exist***. ***Period***.
+>AI, as ***sentient*** software built by humans, ***does not exist***. ***Period***. Sentient software
+does not exist. ***Period***.
 
 >AI is built by humans for humans; principally to ***control*** the thoughts and actions of humans.
 
