@@ -202,6 +202,7 @@ Analysis
 **Legal Analysis:**
 
 >*In Florida, financial fraud involving a vendor contract in a homeowners' association (HOA) can occur through kickbacks, billing schemes, or undisclosed conflicts of interest. These fraudulent acts are often accompanied by a breach of the vendor contract and a breach of the HOA board members' fiduciary duty to the community.*
+
 >(Source: Google AI)
 
 > **Types of Financial Fraud Involving Vendors:**
