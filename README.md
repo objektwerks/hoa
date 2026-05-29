@@ -184,7 +184,8 @@ Analysis
 
 **Legal Analysis:**
 
->*Hiring a lawn care service while knowingly employing undocumented workers carries significant legal risks for a Florida Homeowners Association (HOA) and the vendor, primarily due to SB 1718 (effective 2023.7.1) and other state labor laws.* (Source: Google AI)
+>*Hiring a lawn care service while knowingly employing undocumented workers carries significant legal risks for a Florida Homeowners Association (HOA) and the vendor, primarily due to SB 1718 (effective 2023.7.1) and other state labor laws.*
+>(Source: Google AI)
 
 >**2. The WPA board is constantly ***financially defrauding*** WPA homeowners**.
 
