@@ -236,22 +236,3 @@ Solutions
 Evidence Package
 ----------------
 >A USB flash drive containing contracts, emails, photos and reports. Available upon request.
-
-AI
---
->AI, as ***sentient*** software built by humans, ***does not exist***. ***Period***.
-
->AI is built by humans for humans; principally to ***control*** the thoughts and actions of humans.
-
->AI is non-deterministic - meaning a question to AI can, over time, yield different answers; because the
-underlying ***language model*** changes over time.
-
->AI is used in this report to present a current 2026.5 snapshot of different topics in a cogent manner.
-
->AI legal opinion, as in any court of law, is a matter of interpretation.
-
-**Legal Analysis:**
-
->*The law is fundamentally a matter of interpretation. Because words are inherently imperfect tools, judges, lawyers, and legal scholars rely on distinct legal philosophies to determine what the text actually means in practice.*
-
->(Source: Google AI)
