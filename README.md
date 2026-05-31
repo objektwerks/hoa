@@ -145,7 +145,7 @@ LCS Reports
 29. Fail : 2026.3.18 : 30% + issues with GPS work orders; edging and culverts resolved,( unstructured reporting period )
 30. Fail : 2026.3.24 : 0% + community mowing, edging and trimming ( unstructured reporting period )
 31. Fail : 2026.3.31 : 50% + community mowing and edging
-32. Fail : 2026.4.9 : 50% + community mowing and edging
+32. Fail : 2026.4.9 : 50% + community mowing and edging; contract frequency on pruning undefined
 33. Fail : 2026.4.14
 34. Fail : 2026.4.21
 35. Fail : 2026.4.28
