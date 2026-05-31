@@ -150,7 +150,7 @@ LCS Reports
 34. Fail : 2026.4.21 : 70% + WPA mowing, edging, pruning; contract pruning frequency still undefined
 35. Fail : 2026.4.28 : 43% + WPA edging, pruning; contract pruning frequency still undefined
 36. Fail : 2026.5.5 : 53% + property damage, WPA edging, trimming, pruning; contract pruning frequency still undefined
-37. Fail : 2026.5.12
+37. Fail : 2026.5.12 : 20% + WPA edging, pruning, trimming; contract pruning frequency still undefined
 38. Fail : 2026.5.19
 39. Fail : 2026.5.26
 
