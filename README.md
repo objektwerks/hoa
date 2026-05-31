@@ -162,7 +162,9 @@ LCS Reports
 
 Financial Fraud
 ---------------
->The following calculations are based on the above 39 LCS reports, detailing material breeches of contract with the WPA and its homeowners. It is a rough estimate based on the **Median LCS Weighted Value** of **16%**. The true ***financial fraud*** rate is likely much higher; but would require a detailed report for each of the 85 homeowners. As it relates to this homeowner, the ***average weighted value*** is roughly ***25%*** and a ***median weighted value*** of ***35%***.
+>The following calculations are based on the above 39 LCS reports, detailing material breeches of contract with the WPA and its homeowners. It is a rough estimate based on the **Median LCS Weighted Value** of **16%**. The true ***financial fraud*** rate is likely much higher; but would require a detailed report for each of the 85 homeowners.
+
+>As it relates to this homeowner, the ***average weighted value*** is roughly ***25%***, with a ***median weighted value*** of ***35%***.
 * (Homeowner Annual LCS Cost * Annual LCS Fail Rate) * Median LCS Weighted Value = Homeowner Annual LCS Material Breach Cost
 * ($1,374.48 * .92) * .16 = **$202.32**
 
