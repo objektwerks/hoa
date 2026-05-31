@@ -86,7 +86,7 @@ LCS Services
 8. 1%  : pesticides - scheduled 4 times a year
 >Median LCS Weighted Value: **15.5%** (rounded to **16%**)
 
->**Note:**Several reports, detailed below, use the **trimming** in lieu of the correct term, **pruning**.
+>**Note:**Several reports, detailed below, mistakenly use the **trimming** in lieu of the correct term, **pruning**.
 
 LCS Property Damage
 -------------------
