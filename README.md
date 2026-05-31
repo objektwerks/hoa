@@ -217,7 +217,7 @@ Analysis
 
 >(Source: Google AI)
 
->The **Overbilling or Non-performance** section is key. Because it's been well established the LCS has been in ***material breach*** of contract 92% of the time over the past year with the knowledge and consent of the WPA board and GPS. Hence the charge of: ***The WPA board is financially defrauding the WPA homeowners***.
+>The **Overbilling or Non-performance** section is key. Because it's been well established the LCS has been in ***material breach*** of contract 92% of the time over the past year with the knowledge and consent of the WPA board and GPS. Hence the charge of: ***The WPA board is financially defrauding WPA homeowners***.
 
 >**Note**: WPA homeowners are legally required to pay all scheduled HOA fees, to include embedded LCS fees - in spite of a continuing partial rendering of contractually obligated lawn care services.
 
