@@ -86,6 +86,8 @@ LCS Services
 8. 1%  : pesticides - scheduled 4 times a year
 >Median LCS Weighted Value: **15.5%** (rounded to **16%**)
 
+>**Note:**Several reports, detailed below, use the **trimming** in lieu of the correct term, **pruning**.
+
 LCS Property Damage
 -------------------
 >The LCS routinely damages WPA homeowner property - in particular, driveways and shrubs.
@@ -114,7 +116,7 @@ LCS Reports
 >LCS ***performance*** reports, detailing (1) pass/fail and (2) session date and (3) this homeowner's weighted value
 1. Fail : 2025.5.29 : 20% + property damage
 2. Fail : 2025.6.5 : 20%
-3. Fail : 2025.6.11
+3. Fail : 2025.6.11 : 50%
 4. Fail : 2025.6.25
 5. Fail : 2025.6.30
 6. Fail : 2025.7.9
