@@ -152,7 +152,7 @@ LCS Reports
 36. Fail : 2026.5.5 : 53% + property damage, WPA edging, trimming, pruning; contract pruning frequency undefined
 37. Fail : 2026.5.12 : 20% + WPA edging, pruning, trimming; contract pruning frequency undefined
 38. Fail : 2026.5.19 : 20% + property damage, WPA edging, pruning, trimming; contract pruning frequency undefined
-39. Fail : 2026.5.26 : 20%
+39. Fail : 2026.5.26 : 20% + community edging; contract pruning frequency undefined
 
 * Annual LCS Pass Rate: **8%**
 * Annual LCS Fail Rate: **92%**
