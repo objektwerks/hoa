@@ -127,7 +127,7 @@ LCS Reports
 11. Fail : 2025.8.13 : 0% + WPA trimming, mowing
 12. Fail : 2025.8.20 : 20% + WPA edging, mowing
 13. Fail : 2025.8.29 : 30% + WPA mowing, edging, trimming due to heavy rains
-14. Fail : 2025.9.3 : 20%
+14. Fail : 2025.9.3 : 20% + WPA pruning ( no photos )
 15. Fail : 2025.9.9 : 20% + WPA mowing, trimming due to heavy rains
 16. Fail : 2025.9.16 : 40% + WPA pruning ( part 2 mislabeled as 2025.8.16 )
 17. Fail : 2025.9.23 : 20% + property damage, WPA edging
