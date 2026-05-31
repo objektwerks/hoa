@@ -155,13 +155,15 @@ LCS Reports
 39. Fail : 2026.5.26 : 20% : community edging; contract pruning frequency undefined
 
 * Annual This Homeowner's Average LCS Weighted Value ( 976 / 39 ): **25%**
+* Annual This Homeowner's Median LCS Weighted Value ( 0 - 70 ): **35%**
+
 * Annual LCS Pass Rate: **8%**
 * Annual LCS Fail Rate: **92%**
 >Detailed reports, with photos, available in evidence package.
 
 Financial Fraud
 ---------------
->The following calculations are based on the above 39 LCS reports, detailing material breeches of contract with the WPA and its homeowners. It is a rough estimate based on the **Median LCS Weighted Value** of **16%**. The true ***financial fraud*** rate is likely much higher; but would require a detailed report for each of the 85 homeowners. As it relates to this homeowner, the ***average weighted value*** is roughly ***25%***.
+>The following calculations are based on the above 39 LCS reports, detailing material breeches of contract with the WPA and its homeowners. It is a rough estimate based on the **Median LCS Weighted Value** of **16%**. The true ***financial fraud*** rate is likely much higher; but would require a detailed report for each of the 85 homeowners. As it relates to this homeowner, the ***average weighted value*** is roughly ***25%*** and a ***median weighted value*** of ***35%***.
 * (Homeowner Annual LCS Cost * Annual LCS Fail Rate) * Median LCS Weighted Value = Homeowner Annual LCS Material Breach Cost
 * ($1,374.48 * .92) * .16 = **$202.32**
 
