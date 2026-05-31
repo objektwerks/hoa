@@ -140,7 +140,7 @@ LCS Reports
 24. Fail : 2025.11.17 : 0% + community edging
 25. Fail : 2025.11.18 - 2026.2.5  : 20% + community edging and pruning ( unstructured reporting period )
 26. Fail : 2026.2.10 : 20% + community edging
-27. Fail : 2026.2.24
+27. Fail : 2026.2.24 : 20% + community edging
 28. Fail : 2026.3.10
 29. Fail : 2026.3.18-24
 30. Fail : 2026.3.24
