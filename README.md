@@ -118,12 +118,12 @@ LCS Reports
 2. Fail : 2025.6.5 : 20%
 3. Fail : 2025.6.11 : 50%
 4. Fail : 2025.6.25 : 20%
-5. Fail : 2025.6.30 : 20% : property damage
+5. Fail : 2025.6.30 : 20% + property damage
 6. Fail : 2025.7.9 : 20%
-7. Fail : 2025.7.14 : 40% : property damage, community trimming and mowing
-8. Pass : 2025.7.23 : 10% : community failed on trimming
+7. Fail : 2025.7.14 : 40% + property damage, community trimming and mowing
+8. Pass : 2025.7.23 : 10% + community failed on trimming
 9. **Pass** : 2025.7.29 : 0%
-10. Fail : 2025.8.6
+10. Fail : 2025.8.6 : 30% + community trimming
 11. Fail : 2025.8.13
 12. Fail : 2025.8.20
 13. Fail : 2025.8.29
