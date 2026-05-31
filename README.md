@@ -120,7 +120,7 @@ LCS Reports
 4. Fail : 2025.6.25 : 20%
 5. Fail : 2025.6.30 : 20% : property damage
 6. Fail : 2025.7.9 : 20%
-7. Fail : 2025.7.14
+7. Fail : 2025.7.14 : 0% : property damage
 8. Fail : 2025.7.23
 9. **Pass** : 2025.7.29 : 0%
 10. Fail : 2025.8.6
