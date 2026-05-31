@@ -125,7 +125,7 @@ LCS Reports
 9. **Pass** : 2025.7.29 : 0%
 10. Fail : 2025.8.6 : 30% + community trimming and mowing
 11. Fail : 2025.8.13 : 0% + community trimming and mowing
-12. Fail : 2025.8.20
+12. Fail : 2025.8.20 : 20% + community edging and mowing
 13. Fail : 2025.8.29
 14. Fail : 2025.9.3
 15. Fail : 2025.9.9
