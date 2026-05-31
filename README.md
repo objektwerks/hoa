@@ -1,4 +1,4 @@
-HOA Financial Fraud Report
+WPA Financial Fraud Report
 ==========================
 >This report details financial fraud, involving a lawn care service, committed against Windward Patio Association (WPA) homeowners by the WPA board and its property management company, Grande Property Services (GPS).
 
