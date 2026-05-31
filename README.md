@@ -142,7 +142,7 @@ LCS Reports
 26. Fail : 2026.2.10 : 20% + community edging
 27. Fail : 2026.2.24 : 20% + community edging
 28. Fail : 2026.3.10 : 30% + community edging and trimming
-29. Fail : 2026.3.18-24
+29. Fail : 2026.3.18
 30. Fail : 2026.3.24
 31. Fail : 2026.3.31
 32. Fail : 2026.4.9
