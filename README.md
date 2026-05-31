@@ -119,7 +119,7 @@ LCS Reports
 3. Fail : 2025.6.11 : 50%
 4. Fail : 2025.6.25 : 20%
 5. Fail : 2025.6.30 : 30% + property damage, WPA pruning, trimming
-6. Fail : 2025.7.9 : 20%
+6. Fail : 2025.7.9 : 30% + WPA pruning, trimming
 7. Fail : 2025.7.14 : 40% + property damage, WPA trimming, mowing
 8. Fail : 2025.7.23 : 0% + WPA mowing, trimming
 9. **Pass** : 2025.7.29 : 0%
