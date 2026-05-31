@@ -113,8 +113,8 @@ LCS Property Damage
 
 LCS Reports
 -----------
->LCS ***performance*** reports, detailing (1) pass/fail and (2) session date and (3) this homeowner's weighted value
-1. Fail : 2025.5.29 : 20% + property damage
+>LCS ***performance*** reports, detailing (1) pass/fail; (2) date; (3) this homeowner's weighted value; (4) details
+1. Fail : 2025.5.29 : 20% : property damage
 2. Fail : 2025.6.5 : 20%
 3. Fail : 2025.6.11 : 50%
 4. Fail : 2025.6.25 : 20%
