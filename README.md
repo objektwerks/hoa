@@ -137,7 +137,7 @@ LCS Reports
 21. Fail : 2025.10.21 : 20%
 22. **Pass** : 2025.10.28 : 0%
 23. **Pass** : 2025.11.3 : 0% + community pruning of plant/tree tops needs to be addressed
-24. Fail : 2025.11.17
+24. Fail : 2025.11.17 : 0% + community edging
 25. Fail : 2025.11.18 - 2026.2.5 ( unstructured reporting )
 26. Fail : 2026.2.10
 27. Fail : 2026.2.24
