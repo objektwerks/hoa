@@ -145,13 +145,13 @@ LCS Reports
 29. Fail : 2026.3.18 : 30% + issues with GPS work orders; edging, culverts resolved,( unstructured reporting period )
 30. Fail : 2026.3.24 : 0% + WPA mowing, edging, trimming ( unstructured reporting period )
 31. Fail : 2026.3.31 : 50% + WPA mowing, edging
-32. Fail : 2026.4.9 : 50% + WPA mowing, edging; contract pruning frequency still undefined
-33. Fail : 2026.4.14 : 50% + WPA mowing, edging; contract pruning frequency still undefined
-34. Fail : 2026.4.21 : 70% + WPA mowing, edging, pruning; contract pruning frequency still undefined
-35. Fail : 2026.4.28 : 43% + WPA edging, pruning; contract pruning frequency still undefined
-36. Fail : 2026.5.5 : 53% + property damage, WPA edging, trimming, pruning; contract pruning frequency still undefined
-37. Fail : 2026.5.12 : 20% + WPA edging, pruning, trimming; contract pruning frequency still undefined
-38. Fail : 2026.5.19
+32. Fail : 2026.4.9 : 50% + WPA mowing, edging; contract pruning frequency undefined
+33. Fail : 2026.4.14 : 50% + WPA mowing, edging; contract pruning frequency undefined
+34. Fail : 2026.4.21 : 70% + WPA mowing, edging, pruning; contract pruning frequency undefined
+35. Fail : 2026.4.28 : 43% + WPA edging, pruning; contract pruning frequency undefined
+36. Fail : 2026.5.5 : 53% + property damage, WPA edging, trimming, pruning; contract pruning frequency undefined
+37. Fail : 2026.5.12 : 20% + WPA edging, pruning, trimming; contract pruning frequency undefined
+38. Fail : 2026.5.19 : 20% + property damage, WPA edging, pruning, trimming; contract pruning frequency undefined
 39. Fail : 2026.5.26
 
 * Annual LCS Pass Rate: **8%**
