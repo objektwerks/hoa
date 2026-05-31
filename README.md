@@ -154,7 +154,7 @@ LCS Reports
 38. Fail : 2026.5.19 : 20% : property damage, WPA edging, pruning, trimming; contract pruning frequency undefined
 39. Fail : 2026.5.26 : 20% : community edging; contract pruning frequency undefined
 
-* Annual This Homeowner's Weighted Value ( 976 / 39 ): **25%**
+* Annual This Homeowner's LCS Weighted Value ( 976 / 39 ): **25%**
 * Annual LCS Pass Rate: **8%**
 * Annual LCS Fail Rate: **92%**
 >Detailed reports, with photos, available in evidence package.
