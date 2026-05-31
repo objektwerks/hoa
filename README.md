@@ -120,36 +120,36 @@ LCS Reports
 4. Fail : 2025.6.25 : 20%
 5. Fail : 2025.6.30 : 20% + property damage
 6. Fail : 2025.7.9 : 20%
-7. Fail : 2025.7.14 : 40% + property damage, community trimming and mowing
-8. Fail : 2025.7.23 : 0% + community mowing and trimming
+7. Fail : 2025.7.14 : 40% + property damage, community trimming, mowing
+8. Fail : 2025.7.23 : 0% + community mowing, trimming
 9. **Pass** : 2025.7.29 : 0%
-10. Fail : 2025.8.6 : 30% + community trimming and mowing
-11. Fail : 2025.8.13 : 0% + community trimming and mowing
-12. Fail : 2025.8.20 : 20% + community edging and mowing
-13. Fail : 2025.8.29 : 30% + community mowing, edging and trimming due to heavy rains
+10. Fail : 2025.8.6 : 30% + community trimming, mowing
+11. Fail : 2025.8.13 : 0% + community trimming, mowing
+12. Fail : 2025.8.20 : 20% + community edging, mowing
+13. Fail : 2025.8.29 : 30% + community mowing, edging, trimming due to heavy rains
 14. Fail : 2025.9.3 : 20%
-15. Fail : 2025.9.9 : 20% + community mowing and trimming due to heavy rains
+15. Fail : 2025.9.9 : 20% + community mowing, trimming due to heavy rains
 16. Fail : 2025.9.16 : 40% + community pruning ( part 2 mislabeled as 2025.8.16 )
 17. Fail : 2025.9.23 : 20% + property damage, community edging
 18. Fail : 2025.9.30 : 0% + community edging
-19. Fail : 2025.10.7 : 50% + property damage, community mowing and edging ( report mislabed 2025.9.7 )
-20. Fail : 2025.10.14 : 20% + property damage, community edging and pruning
+19. Fail : 2025.10.7 : 50% + property damage, community mowing, edging ( report mislabed 2025.9.7 )
+20. Fail : 2025.10.14 : 20% + property damage, community edging, pruning
 21. Fail : 2025.10.21 : 20%
 22. **Pass** : 2025.10.28 : 0%
 23. **Pass** : 2025.11.3 : 0% + community pruning of plant/tree tops needs to be addressed
 24. Fail : 2025.11.17 : 0% + community edging
-25. Fail : 2025.11.18 - 2026.2.5  : 20% + community edging and pruning ( unstructured reporting period )
+25. Fail : 2025.11.18 - 2026.2.5  : 20% + community edging, pruning ( unstructured reporting period )
 26. Fail : 2026.2.10 : 20% + community edging
 27. Fail : 2026.2.24 : 20% + community edging
-28. Fail : 2026.3.10 : 30% + community edging and trimming
-29. Fail : 2026.3.18 : 30% + issues with GPS work orders; edging and culverts resolved,( unstructured reporting period )
-30. Fail : 2026.3.24 : 0% + community mowing, edging and trimming ( unstructured reporting period )
-31. Fail : 2026.3.31 : 50% + community mowing and edging
-32. Fail : 2026.4.9 : 50% + community mowing and edging; contract pruning frequency still undefined
-33. Fail : 2026.4.14 : 50% + community mowing and edging; contract pruning frequency still undefined
-34. Fail : 2026.4.21 : 70% + community mowing, edging and pruning; contract pruning frequency still undefined
-35. Fail : 2026.4.28 : 43% + community edging and pruning; contract pruning frequency still undefined
-36. Fail : 2026.5.5
+28. Fail : 2026.3.10 : 30% + community edging, trimming
+29. Fail : 2026.3.18 : 30% + issues with GPS work orders; edging, culverts resolved,( unstructured reporting period )
+30. Fail : 2026.3.24 : 0% + community mowing, edging, trimming ( unstructured reporting period )
+31. Fail : 2026.3.31 : 50% + community mowing, edging
+32. Fail : 2026.4.9 : 50% + community mowing, edging; contract pruning frequency still undefined
+33. Fail : 2026.4.14 : 50% + community mowing, edging; contract pruning frequency still undefined
+34. Fail : 2026.4.21 : 70% + community mowing, edging, pruning; contract pruning frequency still undefined
+35. Fail : 2026.4.28 : 43% + community edging, pruning; contract pruning frequency still undefined
+36. Fail : 2026.5.5 : 53% + property damage, community edging, trimming, pruning; contract pruning frequency still undefined
 37. Fail : 2026.5.12
 38. Fail : 2026.5.19
 39. Fail : 2026.5.26
