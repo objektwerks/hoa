@@ -132,7 +132,7 @@ LCS Reports
 16. Fail : 2025.9.16 : 40% + community pruning ( part 2 mislabeled as 2025.8.16 )
 17. Fail : 2025.9.23 : 20% + property damage, community edging
 18. Fail : 2025.9.30 : 0% + community edging
-19. Fail : 2025.10.7 : 50% + property damage, community mowing and edging (report mislabed 2025.9.7)
+19. Fail : 2025.10.7 : 50% + property damage, community mowing and edging ( report mislabed 2025.9.7 )
 20. Fail : 2025.10.14 : 20% + property damage, community edging and pruning
 21. Fail : 2025.10.21 : 20%
 22. **Pass** : 2025.10.28 : 0%
@@ -143,7 +143,7 @@ LCS Reports
 27. Fail : 2026.2.24 : 20% + community edging
 28. Fail : 2026.3.10 : 30% + community edging and trimming
 29. Fail : 2026.3.18
-30. Fail : 2026.3.24
+30. Fail : 2026.3.24 : 0% + community mowing, edging and trimming ( unstructured reporting period )
 31. Fail : 2026.3.31
 32. Fail : 2026.4.9
 33. Fail : 2026.4.14
