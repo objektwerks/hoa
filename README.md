@@ -156,7 +156,6 @@ LCS Reports
 
 * Annual This Homeowner's Average LCS Weighted Value ( 986 / 39 ): **25%**
 * Annual This Homeowner's Median LCS Weighted Value ( 0 - 70 ): **35%**
-
 * Annual LCS Pass Rate: **8%**
 * Annual LCS Fail Rate: **92%**
 >Detailed reports, with photos, available in evidence package.
