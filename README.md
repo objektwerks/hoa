@@ -118,41 +118,41 @@ LCS Reports
 2. Fail : 2025.6.5 : 20%
 3. Fail : 2025.6.11 : 50%
 4. Fail : 2025.6.25 : 20%
-5. Fail : 2025.6.30 : 30% + property damage, WPA pruning, trimming
-6. Fail : 2025.7.9 : 30% + WPA pruning, trimming
-7. Fail : 2025.7.14 : 40% + property damage, WPA trimming, mowing
-8. Fail : 2025.7.23 : 0% + WPA mowing, trimming
+5. Fail : 2025.6.30 : 30% : property damage, WPA pruning, trimming
+6. Fail : 2025.7.9 : 30% : WPA pruning, trimming
+7. Fail : 2025.7.14 : 40% : property damage, WPA trimming, mowing
+8. Fail : 2025.7.23 : 0% : WPA mowing, trimming
 9. **Pass** : 2025.7.29 : 0%
-10. Fail : 2025.8.6 : 30% + WPA trimming, mowing
-11. Fail : 2025.8.13 : 0% + WPA trimming, mowing
-12. Fail : 2025.8.20 : 20% + WPA edging, mowing
-13. Fail : 2025.8.29 : 30% + WPA mowing, edging, trimming due to heavy rains
-14. Fail : 2025.9.3 : 20% + WPA pruning ( no photos )
-15. Fail : 2025.9.9 : 20% + WPA mowing, trimming due to heavy rains
-16. Fail : 2025.9.16 : 40% + WPA pruning ( part 2 mislabeled as 2025.8.16 )
-17. Fail : 2025.9.23 : 20% + property damage, WPA edging
-18. Fail : 2025.9.30 : 0% + WPA edging
-19. Fail : 2025.10.7 : 50% + property damage, WPA mowing, edging ( report mislabed 2025.9.7 )
-20. Fail : 2025.10.14 : 20% + property damage, WPA edging, pruning
+10. Fail : 2025.8.6 : 30% : WPA trimming, mowing
+11. Fail : 2025.8.13 : 0% : WPA trimming, mowing
+12. Fail : 2025.8.20 : 20% : WPA edging, mowing
+13. Fail : 2025.8.29 : 30% : WPA mowing, edging, trimming due to heavy rains
+14. Fail : 2025.9.3 : 20% : WPA pruning ( no photos )
+15. Fail : 2025.9.9 : 20% : WPA mowing, trimming due to heavy rains
+16. Fail : 2025.9.16 : 40% : WPA pruning ( part 2 mislabeled as 2025.8.16 )
+17. Fail : 2025.9.23 : 20% : property damage, WPA edging
+18. Fail : 2025.9.30 : 0% : WPA edging
+19. Fail : 2025.10.7 : 50% : property damage, WPA mowing, edging ( report mislabed 2025.9.7 )
+20. Fail : 2025.10.14 : 20% : property damage, WPA edging, pruning
 21. Fail : 2025.10.21 : 20%
 22. **Pass** : 2025.10.28 : 0%
-23. **Pass** : 2025.11.3 : 0% + WPA pruning of plant/tree tops needs to be addressed
-24. Fail : 2025.11.17 : 0% + WPA edging
-25. Fail : 2025.11.18 - 2026.2.5  : 20% + WPA edging, pruning ( unstructured reporting period )
-26. Fail : 2026.2.10 : 20% + WPA edging
-27. Fail : 2026.2.24 : 20% + WPA edging
-28. Fail : 2026.3.10 : 30% + WPA edging, trimming
-29. Fail : 2026.3.18 : 30% + issues with GPS work orders; edging, culverts resolved,( unstructured reporting period )
-30. Fail : 2026.3.24 : 0% + WPA mowing, edging, trimming ( unstructured reporting period )
-31. Fail : 2026.3.31 : 50% + WPA mowing, edging
-32. Fail : 2026.4.9 : 50% + WPA mowing, edging; contract pruning frequency undefined
-33. Fail : 2026.4.14 : 50% + WPA mowing, edging; contract pruning frequency undefined
-34. Fail : 2026.4.21 : 70% + WPA mowing, edging, pruning; contract pruning frequency undefined
-35. Fail : 2026.4.28 : 43% + WPA edging, pruning; contract pruning frequency undefined
-36. Fail : 2026.5.5 : 53% + property damage, WPA edging, trimming, pruning; contract pruning frequency undefined
-37. Fail : 2026.5.12 : 20% + WPA edging, pruning, trimming; contract pruning frequency undefined
-38. Fail : 2026.5.19 : 20% + property damage, WPA edging, pruning, trimming; contract pruning frequency undefined
-39. Fail : 2026.5.26 : 20% + community edging; contract pruning frequency undefined
+23. **Pass** : 2025.11.3 : 0% : WPA pruning of plant/tree tops needs to be addressed
+24. Fail : 2025.11.17 : 0% : WPA edging
+25. Fail : 2025.11.18 - 2026.2.5  : 20% : WPA edging, pruning ( unstructured reporting period )
+26. Fail : 2026.2.10 : 20% : WPA edging
+27. Fail : 2026.2.24 : 20% : WPA edging
+28. Fail : 2026.3.10 : 30% : WPA edging, trimming
+29. Fail : 2026.3.18 : 30% : issues with GPS work orders; edging, culverts resolved,( unstructured reporting period )
+30. Fail : 2026.3.24 : 0% : WPA mowing, edging, trimming ( unstructured reporting period )
+31. Fail : 2026.3.31 : 50% : WPA mowing, edging
+32. Fail : 2026.4.9 : 50% : WPA mowing, edging; contract pruning frequency undefined
+33. Fail : 2026.4.14 : 50% : WPA mowing, edging; contract pruning frequency undefined
+34. Fail : 2026.4.21 : 70% : WPA mowing, edging, pruning; contract pruning frequency undefined
+35. Fail : 2026.4.28 : 43% : WPA edging, pruning; contract pruning frequency undefined
+36. Fail : 2026.5.5 : 53% : property damage, WPA edging, trimming, pruning; contract pruning frequency undefined
+37. Fail : 2026.5.12 : 20% : WPA edging, pruning, trimming; contract pruning frequency undefined
+38. Fail : 2026.5.19 : 20% : property damage, WPA edging, pruning, trimming; contract pruning frequency undefined
+39. Fail : 2026.5.26 : 20% : community edging; contract pruning frequency undefined
 
 * Annual LCS Pass Rate: **8%**
 * Annual LCS Fail Rate: **92%**
