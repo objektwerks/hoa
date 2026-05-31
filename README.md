@@ -129,7 +129,7 @@ LCS Reports
 13. Fail : 2025.8.29 : 30% + community mowing, edging and trimming due to heavy rains
 14. Fail : 2025.9.3 : 20%
 15. Fail : 2025.9.9 : 20% + community mowing and trimming due to heavy rains
-16. Fail : 2025.9.16 ( part 2 mislabeled as 2025.8.16 )
+16. Fail : 2025.9.16 : 40% + community pruning ( part 2 mislabeled as 2025.8.16 )
 17. Fail : 2025.9.23
 18. Fail : 2025.9.30
 19. Fail : 2025.10.7
