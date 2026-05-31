@@ -116,7 +116,7 @@ LCS Reports
 >LCS ***performance*** reports, detailing (1) pass/fail; (2) date; (3) this homeowner's weighted value; (4) details
 1. Fail : 2025.5.29 : 20% : property damage
 2. Fail : 2025.6.5 : 20% : WPA pruning
-3. Fail : 2025.6.11 : 50% : LCS does not have a trimmer role
+3. Fail : 2025.6.11 : 60% : LCS does not have a trimmer role
 4. Fail : 2025.6.25 : 20%
 5. Fail : 2025.6.30 : 30% : property damage, WPA pruning, trimming
 6. Fail : 2025.7.9 : 30% : WPA pruning, trimming
@@ -154,7 +154,7 @@ LCS Reports
 38. Fail : 2026.5.19 : 20% : property damage, WPA edging, pruning, trimming; contract pruning frequency undefined
 39. Fail : 2026.5.26 : 20% : WPA edging; contract pruning frequency undefined
 
-* Annual This Homeowner's Average LCS Weighted Value ( 976 / 39 ): **25%**
+* Annual This Homeowner's Average LCS Weighted Value ( 986 / 39 ): **25%**
 * Annual This Homeowner's Median LCS Weighted Value ( 0 - 70 ): **35%**
 
 * Annual LCS Pass Rate: **8%**
