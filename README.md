@@ -117,7 +117,7 @@ LCS Reports
 1. Fail : 2025.5.29 : 20% + property damage
 2. Fail : 2025.6.5 : 20%
 3. Fail : 2025.6.11 : 50%
-4. Fail : 2025.6.25
+4. Fail : 2025.6.25 : 20%
 5. Fail : 2025.6.30
 6. Fail : 2025.7.9
 7. Fail : 2025.7.14
