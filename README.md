@@ -117,7 +117,7 @@ LCS Reports
 1. Fail : 2025.5.29 : 20% : property damage
 2. Fail : 2025.6.5 : 20% : WPA pruning
 3. Fail : 2025.6.11 : 60% : LCS does not have a trimmer role
-4. Fail : 2025.6.25 : 20%
+4. Fail : 2025.6.25 : 20% : WPA pruning
 5. Fail : 2025.6.30 : 30% : property damage, WPA pruning, trimming
 6. Fail : 2025.7.9 : 30% : WPA pruning, trimming
 7. Fail : 2025.7.14 : 40% : property damage, WPA trimming, mowing
