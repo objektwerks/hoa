@@ -179,7 +179,7 @@ Financial Fraud
 * $17,197.20 * 2.5 = **$42,993.00**
 * $26,871.05 * 2.5 = **$67,177.63**
 * $37,619.30 * 2.5 = **$94,048.25**
->In other words, **85** WPA homeowners are being ***financially defrauded*** of: **$17,197.20** in ***estimated*** LCS material breach costs for contractual LCS services not rendered on an annual basis. The current LCS vendor, Juniper, has been under contract with the WPA since January 2024. To date, the estimated amount of ***financial fraud*** falls within a range of: **$42,993 to $94,048.25**.
+>In other words, **85** WPA homeowners are being ***financially defrauded*** of: **$17,197.20** in ***estimated*** LCS material breach costs for contractual LCS services not rendered on an annual basis. The current LCS vendor, Juniper, has been under contract with the WPA since January 2024. To date, the ***estimated*** amount of ***financial fraud*** falls within a ***range*** of: **$42,993 to $94,048.25**.
 
 Analysis
 --------
