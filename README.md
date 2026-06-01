@@ -168,7 +168,7 @@ Financial Fraud
 * (Homeowner Annual LCS Cost * Annual LCS Fail Rate) * Median LCS Weighted Value = Homeowner Annual LCS Material Breach Cost
 * ($1,374.48 * .92) * .16 = **$202.32**
 * ($1,374.48 * .92) * .25 = **$316.13**
-* ($1,374.48 * .92) * .35 = **$202.32**
+* ($1,374.48 * .92) * .35 = **$442.58**
 
 * Homeowner Annual LCS Material Breach Cost * Total Homeowners = Annual LCS Material Breach Cost
 * $202.32 * 85 = **$17,197.20**
