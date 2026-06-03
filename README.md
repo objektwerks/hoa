@@ -172,7 +172,7 @@ Financial Fraud
 
 * Homeowner Annual LCS Material Breach Cost * Total Homeowners = Annual LCS Material Breach Cost
 * $202.32 * 85 = **$17,197.20**
-* $316.13 * 85 = **$26,871.05**
+* $316.13 * 85 = **$26,871.05** ( using this homeowner's LCS material breach cost )
 * $442.58 * 85 = **$37,619.30**
 
 * Annual LCS Material Breach Cost * Juniper Contract Duration in Years = To Date LCS Material Breach Cost
