@@ -90,7 +90,7 @@ LCS Services
 
 LCS Property Damage
 -------------------
->The LCS routinely damages WPA homeowner property - in particular, driveways, plants, shrubs and trees. WPA homeowners often post signs in Spanish, asking the LCS to not prune or spray plants, shrubs and trees. This practice does not always work with the LCS, resulting in costly damage to said artifacts.
+>The LCS routinely damages WPA homeowner property - in particular, driveways, plants, shrubs and trees. WPA homeowners often post signs in Spanish, asking the LCS to not prune or spray plants, shrubs and trees. This practice does not always work with the LCS, resulting in costly damage to said artifacts. And a few WPA homeowners bar the LCS from their property to do their own landscaping.
 
 >Reported property damage incidents inflicted upon this homeowner:
 1. 2024.3.24 - Driveway damage, repaired by LMP on 2024.3.26.
