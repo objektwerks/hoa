@@ -92,7 +92,7 @@ LCS Property Damage
 -------------------
 >The LCS routinely damages WPA homeowner property - in particular, driveways, plants, shrubs and trees.
 
->Reported property damage incidents:
+>Reported property damage incidents inflicted upon this homeowner:
 1. 2024.3.24 - Driveway damage, repaired by LMP on 2024.3.26.
 2. 2024.5.29 - Driveway damage, repaired by homeowner.
 3. 2025.4.14 - Driveway damage, repaired by homeowner.
