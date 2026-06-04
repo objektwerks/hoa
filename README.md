@@ -142,7 +142,7 @@ LCS Reports
 26. Fail : 2026.2.10 : 20% : WPA edging
 27. Fail : 2026.2.24 : 20% : WPA edging
 28. Fail : 2026.3.10 : 30% : WPA edging, trimming
-29. Fail : 2026.3.18 : 30% : issues with GPS work orders; edging, culverts resolved,( unstructured reporting period )
+29. Fail : 2026.3.18 : 30% : issues with GPS work orders; edging, culverts resolved ( unstructured reporting period )
 30. Fail : 2026.3.24 : 0% : WPA mowing, edging, trimming ( unstructured reporting period )
 31. Fail : 2026.3.31 : 50% : WPA mowing, edging
 32. Fail : 2026.4.9 : 50% : WPA mowing, edging; contract pruning frequency undefined
