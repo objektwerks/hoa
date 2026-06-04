@@ -246,4 +246,4 @@ Solutions
 
 Evidence Package
 ----------------
->A USB flash drive containing contracts, emails, invoices, photos and reports. Available upon request.
+>A USB flash drive containing contracts, emails, invoices, notes, photos and reports. Available upon request.
