@@ -90,7 +90,7 @@ LCS Services
 
 LCS Property Damage
 -------------------
->The LCS routinely damages WPA homeowner property - in particular, driveways and shrubs.
+>The LCS routinely damages WPA homeowner property - in particular, driveways, plants, shrubs and trees.
 
 >Reported property damage incidents:
 1. 2024.3.24 - Driveway damage, repaired by LMP on 2024.3.26.
