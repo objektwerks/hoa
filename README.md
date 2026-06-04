@@ -40,7 +40,7 @@ LCS Contracts
 
 >The 2026 contract was signed on 2025.12.22. However, it was not posted to the WPA website until 2026.4.15. On 2026.3.23, GPS was asked, via email, if a new contract existed. GPS gave a ***no*** reply to said question. Not until 2026.4.15 was this homeowner made aware of the 2026 contract.
 
->Questions about anomolies in the 2026 contract were submitted to GPS on 2026.4.16, with no answers to date. As of 2026.5.15, GPS maintains it is waiting for clarification from Juniper on 2026 contract anomolies. As a signatory on the 2026 contract, how can GPS not understand said contract?
+>Questions about anomolies in the 2026 contract were submitted to GPS on 2026.4.16, with no answers to date. As of 2026.5.15, GPS maintains it is waiting for clarification from Juniper on 2026 contract anomolies. As a signatory on the 2026 contract, how can GPS not understand the details of said contract?
 
 >The WPA board and GPS have cited the purported lack of WPA homeowner complaints as a sign that Juniper is doing a good job. Despite several homeower complaints, with some homeowners even joining the WPA board and failing to correct issues with Juniper, the WPA board and GPS treat WPA homeowner complaints as some kind of ***popularity contest***.
 
