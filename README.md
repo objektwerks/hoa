@@ -80,7 +80,7 @@ LCS Services
 2. 20% : edging - edging hard and soft curbing
 3. 10% : trimming - trimming of culverts and yard artifacts
 4. 3%  : blowing - clearing of landscaping debris on driveways and walkways
-5. 20% : pruning - pruning of shrubs and trees
+5. 20% : pruning - pruning of shrubs and trees ( frequency not detailed in 2026 contract )
 6. 15% : irrigation - monthly and just-in-time maintenance of irrigation system
 7. 1%  : fertilizing - scheduled 4 times a year
 8. 1%  : pesticides - scheduled 4 times a year
