@@ -191,7 +191,7 @@ Analysis
 
 >(Source: Google AI)
 
->Since 2024/Q1 the WPA board has knowingly been in breach of its fiduciary duty as it relates to the **Contracts** section. The WPA board and GPS was formally notified, in writing, of the unsatisfactory LCS at a WPA budget meeting on 2024.11.12. See:
+>Since 2024/Q1 the WPA board has knowingly been in breach of its fiduciary duty as it relates to the **Contracts** section. The WPA board and GPS were formally notified, in writing, of the unsatisfactory LCS at a WPA budget meeting on 2024.11.12. See:
 1. 2024 LCS Budget Statement
 2. 2024 LCS Budget Email
 >Statement and email available in evidence package.
