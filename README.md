@@ -99,7 +99,7 @@ LCS Property Damage
 4. 2025.7.29 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.7.29-1).
 5. 2025.10.17 - Driveway damage, repaired by homeowner. Invoiced GPS (invoice.2025.10.17-1).
 6. 2026.5.5 - Driveway damage, repaired by homeowner.
-7. 2026.5.7 - Driveway damage, repaired by homeowner, complaint filed with Charlotte County police (case # 2605-004810), who chose to treat the case as a civil offense not a criminal offense of vandalism. Out of 85 homes, only this homeowner's driveway was damaged.
+7. 2026.5.7 - Driveway damage, repaired by homeowner, complaint filed with Charlotte County police (case number: 2605-004810), who chose to treat the case as a civil offense not a criminal offense of vandalism. Out of 85 homes, only this homeowner's driveway was damaged.
 8. 2026.5.19 - Driveway damage, repaired by homeowner.
 >The WPA board and GPS ignored this homeowner's legal invoices. Moreover, the LCS continues to damage this homeowner's driveway.
 
