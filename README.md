@@ -247,3 +247,7 @@ Solutions
 Evidence Package
 ----------------
 >A USB flash drive containing contracts, emails, invoices, notes, photos and reports. Available upon request.
+
+Log
+---
+1. 2026.6.5 9:30AM - Attempted to present this report to the Englewood Sheriff's office. Asked to speak with a detective; but was presented with a deputy. While the deputy understood HOA fundamentals, he was unable to grasp the nuance of the above paragraph: ***The **Overbilling or Non-performance** section is key. Because it's ...***.
