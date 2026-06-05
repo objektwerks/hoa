@@ -256,4 +256,4 @@ Action
 Action Outcomes
 ---------------
 1. 2026-6-5,9:30AM - Attempted to present this report and supporting material to the Englewood Sheriff's office. Asked to speak with a detective; but was presented with a deputy. While the deputy understood HOA fundamentals, he was unable or unwilling to grasp the nuance of the above section: **2. The WPA board is constantly ***financially defrauding*** WPA homeowners**. Local law enforcement appears to have a standard policy of viewing several criminal offenses as civil offenses, likely due to perceived civil liability risks. Case number: **2606-002834**
-2. 2026-6-5,12:40PM - An officer from the Charlotte County Economic Crimes Unit explained even though this case of ***financial fraud*** rises to the level of a ***felony***, it's still a ***civil*** offense that must be resolved in a court of law.
+2. 2026-6-5,12:40PM - An officer from the Charlotte County Economic Crimes Unit explained even though this case of ***financial fraud*** may rise to the level of a ***felony***, it's still a ***civil*** offense that must be resolved in a court of law.
