@@ -260,6 +260,7 @@ Action
 3. Email Miami Police Real Estate Fraud Squad for its opinion on this report.
 4. File report with the Local State Attorney's Office in Punta Gorda.
 5. File report with Florida Attorney General in Tallahassee.
+6. File a complaint on GPS CAM with Florida Department of Business and Professional Regulation (DBPR).
 
 Action Outcomes
 ---------------
