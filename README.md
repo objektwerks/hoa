@@ -258,6 +258,7 @@ Action
 1. File this report and supporting material with Englewood Sheriff's office.
 2. File this report and supporting material with Charlotte County Economic Crimes Unit.
 3. Call or email Miami Police Real Estate Fraud Squad for its opinion.
+4. File this report with the Local State Attorney's Office.
 
 Action Outcomes
 ---------------
