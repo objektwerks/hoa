@@ -259,6 +259,7 @@ Action
 2. File this report and supporting material with Charlotte County Economic Crimes Unit.
 3. Email Miami Police Real Estate Fraud Squad for its opinion on this report.
 4. File this report with the Local State Attorney's Office.
+5. File this report with Florida Attorney General.
 
 Action Outcomes
 ---------------
