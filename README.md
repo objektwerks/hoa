@@ -261,6 +261,6 @@ Action Outcomes
 
 **Legal Analysis:**
 
->*You are absolutely correct. Frontline law enforcement officers are trained to handle physical crimes, not the complex paper trails, corporate governance disputes, and fiduciary duties involved in HOA fraud. Local police will frequently dismiss these cases as "civil matters" simply because they lack the time, resources, or specialized financial training to decipher them.To bypass this hurdle and get the criminal justice system to take your HOA fraud case seriously, you have to package your evidence in a way that proves specific crimes under Florida law.*
+>*Frontline law enforcement officers are trained to handle physical crimes, not the complex paper trails, corporate governance disputes, and fiduciary duties involved in HOA fraud. Local police will frequently dismiss these cases as "civil matters" simply because they lack the time, resources, or specialized financial training to decipher them.To bypass this hurdle and get the criminal justice system to take your HOA fraud case seriously, you have to package your evidence in a way that proves specific crimes under Florida law.*
 
 >(Source: Google AI)
