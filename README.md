@@ -228,6 +228,11 @@ Analysis
 
 >**Note**: WPA homeowners are legally required to pay all scheduled HOA fees, to include embedded LCS fees - in spite of a continuing partial rendering of contractually obligated lawn care services.
 
+>*Under Florida laws (including Florida Statutes Chapter 720 and Chapter 812), financial crimes and corruption carry strict penalties:*
+1. **Third-Degree Felony:** Applies to fraud, embezzlement, or kickbacks involving between $750 and $20,000. This is punishable by up to 5 years in prison and a $5,000 fine.
+2. **Second-Degree Felony:** Applies to fraud involving between $20,000 and $50,000. This is punishable by up to 15 years in prison and a $10,000 fine.
+3. **First-Degree Felony:** Applies to organized fraud or theft of $50,000 or more. This carries penalties of up to 30 years in prison and a $10,000 fine.
+
 Solutions
 ---------
 >Solutions for WPA homeowners include:
