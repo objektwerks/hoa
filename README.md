@@ -255,11 +255,11 @@ Evidence Package
 
 Action
 ------
-1. File this report and supporting material with Englewood Sheriff's office.
-2. File this report and supporting material with Charlotte County Economic Crimes Unit.
+1. File report and supporting material with Englewood Sheriff's office.
+2. File report and supporting material with Charlotte County Economic Crimes Unit.
 3. Email Miami Police Real Estate Fraud Squad for its opinion on this report.
-4. File this report with the Local State Attorney's Office in Punta Gorda.
-5. File this report with Florida Attorney General.
+4. File report with the Local State Attorney's Office in Punta Gorda.
+5. File report with Florida Attorney General.
 
 Action Outcomes
 ---------------
