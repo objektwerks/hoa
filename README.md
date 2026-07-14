@@ -259,7 +259,6 @@ Action
 2. Filed report and supporting material with Charlotte County Economic Crimes Unit.
 3. Filed report with the Local State Attorney's Office in Punta Gorda.
 4. File report with Florida Attorney General in Tallahassee.
-5. File a complaint on GPS CAM with Florida Department of Business and Professional Regulation (DBPR).
 
 Action Outcomes
 ---------------
