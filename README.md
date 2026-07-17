@@ -273,6 +273,6 @@ Action Outcomes
 
 >(Source: Google AI)
 
->*When local police and district courts ignore your HOA financial fraud report, it is usually because they view the dispute as a ***civil matter*** rather than a ***criminal*** one. To compel an investigation or legal action, you must elevate your evidence to agencies with jurisdiction over financial crimes or licensed professionals.*
+>*When local police and district courts ignore your HOA financial fraud report, it is usually because they view the dispute as a ***civil*** matter rather than a ***criminal*** one. To compel an investigation or legal action, you must elevate your evidence to agencies with jurisdiction over financial crimes or licensed professionals.*
 
 >(Source: Google AI)
