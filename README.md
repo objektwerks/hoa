@@ -272,3 +272,7 @@ Action Outcomes
 >*Frontline law enforcement officers are trained to handle physical crimes, not the complex paper trails, corporate governance disputes, and fiduciary duties involved in HOA fraud. Local police will frequently dismiss these cases as "civil matters" simply because they lack the time, resources, or specialized financial training to decipher them.*
 
 >(Source: Google AI)
+
+>*When local police and district courts ignore your HOA financial fraud report, it is usually because they view the dispute as a ***civil matter*** rather than a ***criminal*** one. To compel an investigation or legal action, you must elevate your evidence to agencies with jurisdiction over financial crimes or licensed professionals.*
+
+>(Source: Google AI)
