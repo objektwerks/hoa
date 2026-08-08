@@ -153,7 +153,7 @@ LCS Reports
 37. Fail : 2026.5.12 : 20% : WPA edging, pruning, trimming; contract pruning frequency undefined
 38. Fail : 2026.5.19 : 20% : property damage, WPA edging, pruning, trimming; contract pruning frequency undefined
 39. Fail : 2026.5.26 : 20% : WPA edging; contract pruning frequency undefined
-40. Fail : To date, the LCS continues to fail, to inclued property damage. Micro-management of each LCS crew is absolutely required to meet minimum LCS contractual obligations.
+40. Fail : To date, the LCS continues to fail, to inclued property damage. Micro-management of each LCS crew, per LCS session, is required.
 
 * Annual This Homeowner's Average LCS Weighted Value ( 986 / 39 ): **25%**
 * Annual This Homeowner's Median LCS Weighted Value ( 0 - 70 ): **35%**
