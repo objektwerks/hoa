@@ -254,7 +254,9 @@ Evidence Package
 ----------------
 >A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request.
 
->Provide me (objektwerks@runbox.com) with a 2GB+ FAT32 USB 2.0/3.0 compliant flash drive.
+>Contact me @ objektwerks@runbox.com for an evidence appointment.
+
+>Then provide me with a 2GB+ FAT32 USB 2.0/3.0 compliant flash drive.
 
 Action
 ------
