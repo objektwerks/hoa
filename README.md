@@ -252,7 +252,7 @@ Solutions
 
 Evidence Package
 ----------------
->A USB flash drive containing contracts, emails, invoices, notes, photos and reports. Available upon request.
+>A USB flash drive containing contracts, emails, invoices, notes, photos and reports. Available upon request. Simply provide a 2GB plus FAT32 compliant flash drive.
 
 Action
 ------
