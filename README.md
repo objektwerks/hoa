@@ -260,6 +260,7 @@ Action
 2. Filed report and supporting material with Charlotte County Economic Crimes Unit.
 3. Filed report with the Local State Attorney's Office in Punta Gorda.
 4. Filed report with Florida Attorney General in Tallahassee.
+5. Filed report with Florida Representative, Danny Nix Jr.
 
 Action Outcomes
 ---------------
