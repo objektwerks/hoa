@@ -252,7 +252,7 @@ Solutions
 
 Evidence Package
 ----------------
->A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request. Simply provide me with a 2GB plus FAT32 USB 2.0/3.0 compliant flash drive.
+>A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request. Simply provide me (objektwerks@runbox.com) with a 2GB+ FAT32 USB 2.0/3.0 compliant flash drive.
 
 Action
 ------
