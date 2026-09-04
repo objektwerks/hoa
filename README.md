@@ -264,6 +264,7 @@ Action Outcomes
 2. 2026-6-5,12:40PM - An officer from the Charlotte County Economic Crimes Unit explained even though this case of ***financial fraud*** may rise to the level of a ***felony***, it's still a ***civil*** offense that must be resolved in a court of law.
 3. 2026-6-15,8:43AM - Local State Attorney's Office in Punta Gorda received my report via certified mail (Tracking: 9589 0710 5270 3575 8454 62, Receipt: 9590 9402 9932 5335 2338 03). No response to date.
 4. 2026-7-27,8:50AM - Florida Attorney General received my report via certified mail (Tracking: 9589 0710 5270 3575 8482 34, Receipt: 9590 9402 0142 6110 8448 89). No response to date.
+5. None.
 
 **Legal Analysis:**
 
