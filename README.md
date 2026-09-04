@@ -250,14 +250,6 @@ Solutions
 
 >(Source: Google AI)
 
-Evidence Package
-----------------
->A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request.
-
->Contact me @ objektwerks@runbox.com for an evidence appointment.
-
->Then provide me with a 2GB+ FAT32 USB 2.0/3.0 compliant flash drive.
-
 Action
 ------
 1. Filed report and supporting material with Englewood Sheriff's office.
@@ -282,3 +274,11 @@ Action Outcomes
 >*When local police and district courts ignore your HOA financial fraud report, it is usually because they view the dispute as a ***civil*** matter rather than a ***criminal*** one. To compel an investigation or legal action, you must elevate your evidence to agencies with jurisdiction over financial crimes or licensed professionals.*
 
 >(Source: Google AI)
+
+Evidence Package
+----------------
+>A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request.
+
+>Contact me @ objektwerks@runbox.com for an evidence appointment.
+
+>Then provide me with a 2GB+ FAT32 USB 2.0/3.0 compliant flash drive.
