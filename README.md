@@ -284,4 +284,4 @@ Evidence Package
 ----------------
 >A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request.
 
->Email capehaze@runbox.com for an evidence appointment. At the appointed date and time, provide a 2 GB+ FAT32 USB 2.0/3.0 compliant flash drive. It will require a few hours to create the evidence flash drive.
+>Email ***capehaze@runbox.com*** for an evidence appointment. At the appointed date and time, provide a 2 GB+ FAT32 USB 2.0/3.0 compliant flash drive. It will require a few hours to create the evidence flash drive.
