@@ -290,6 +290,8 @@ Summary
 
 >Alternatively, HOA homeowners must leverage HOA bylaws and the applicable Florida statutes to forceably remove the HOA board and property management concern.
 
+>At least that is how it appears to the writer of this report. Note, I am not a lawyer.
+
 Evidence Package
 ----------------
 >A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request.
