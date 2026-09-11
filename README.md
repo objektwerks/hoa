@@ -284,7 +284,9 @@ Financial mismanagement, budget disputes, or failure to produce records are ofte
 
 Summary
 -------
->Clearly, Florida law enforcement ***will not*** file criminal charges against HOAs involved in criminal activities - in this case, financial fraud. Instead, HOA homeowners are ***required*** to file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law.
+>Clearly, Florida law enforcement ***will not*** file criminal charges against HOAs involved in criminal activities - in this case, financial fraud.
+
+>Instead, HOA homeowners are ***required*** to file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law.
 
 >Alternatively, HOA homeowners must leverage HOA bylaws and the applicable Florida statutes to forceably remove the HOA board and property management concern.
 
