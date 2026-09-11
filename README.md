@@ -276,6 +276,10 @@ Action Outcomes
 
 >(Source: Google AI)
 
+>*The Florida Attorney General's Office often appears to "ignore" or decline action on HOA financial fraud reports because the Attorney General and state administrative agencies have very limited direct regulatory or criminal jurisdiction over private Homeowners Associations.*
+
+>(Source: Google AI)
+
 Summary
 -------
 >TODO!
