@@ -286,7 +286,7 @@ Summary
 -------
 >Clearly, Florida law enforcement ***will not*** even respond to HOA financial fraud complaints, much less investigate such HOA criminal activities.
 
->Instead, HOA homeowners are ***required*** to file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law.
+>Instead, HOA homeowners are ***required*** to file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law as it pertains to HOA financial fraud.
 
 >Alternatively, HOA homeowners must leverage HOA bylaws and the applicable Florida statutes to forceably remove the HOA board and property management concern.
 
