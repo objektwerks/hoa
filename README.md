@@ -290,7 +290,7 @@ Summary
 
 >Alternatively, HOA homeowners must leverage HOA bylaws and the applicable Florida statutes to forceably remove the HOA board and property management concern.
 
->At least that is how it appears to the writer of this report. Note, I am not a lawyer.
+>At least that is how it appears to the author of this report. Note, I am not a lawyer.
 
 Evidence Package
 ----------------
