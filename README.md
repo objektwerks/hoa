@@ -269,7 +269,7 @@ Florida House Bill 657 (2026)
 
 >**Board Accountability:** Prohibits association boards from misusing funds to campaign against termination or unfairly blocking homeowner-requested meetings and records.
 
->Florida is often regarded as the leading HOA fraud state in the country - hence the use of the ***one-house-bill***,or ***pass-and-die***, political strategy employed to defeat HB 657.
+>Florida is often regarded as the leading HOA fraud state in the country - hence the use of the ***one-house-bill***, or ***pass-and-die***, political strategy employed to defeat HB 657.
 
 Action
 ------
