@@ -305,7 +305,7 @@ Action Outcomes
 
 Summary
 -------
->Clearly, Florida law enforcement ***will not*** even respond to HOA financial fraud complaints, much less investigate such criminal HOA activities.
+>Clearly, Florida law enforcement ***will not*** even respond to HOA financial fraud complaints, much less investigate such HOA criminal activities.
 
 >Instead, HOA homeowners ***must*** file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law as it pertains to HOA financial fraud.
 
