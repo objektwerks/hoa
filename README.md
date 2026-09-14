@@ -267,6 +267,8 @@ Florida House Bill 657 (2026)
 
 >**Governing Documents and Rules:** Requires associations to update governing documents with specific state-mandated disclosures and places restrictions on imposing strict, uniform roof material requirements if existing roofs meet standard building criteria.
 
+>**Board Accountability:** Prohibits association boards from misusing funds to campaign against termination or unfairly blocking homeowner-requested meetings and records.
+
 Action
 ------
 1. Filed report and supporting material with Englewood Sheriff's office.
