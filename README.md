@@ -251,6 +251,9 @@ Solutions
 
 >(Source: Google AI)
 
+Florida House Bill 657
+----------------------
+
 Action
 ------
 1. Filed report and supporting material with Englewood Sheriff's office.
