@@ -263,6 +263,10 @@ Florida House Bill 657 (2026)
 
 >**Community Association Court Program:** Authorizes Florida circuit courts to create dedicated court programs specifically handling condo and HOA disputes to reduce costs and delays compared to general civil courts.
 
+>**Removal of Presuit Mediation:** Eliminates the statutory requirement for mandatory presuit mediation, allowing disputes to proceed directly to arbitration or the new community association court system.
+
+
+
 Action
 ------
 1. Filed report and supporting material with Englewood Sheriff's office.
