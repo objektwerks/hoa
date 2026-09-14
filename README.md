@@ -253,11 +253,11 @@ Solutions
 
 Florida House Bill 657 (2026)
 -----------------------------
->House Bill 657 was overwhelming passed by the Florida House, on March 5th, by a vote of 108 to 2. Yet it was allowed to die, on March 13th, in the Senate Rules Committee. HB 657 included:
+>House Bill 657 (HB 657) was overwhelming passed by the Florida House, on March 5th, by a vote of 108 to 2. Yet it was allowed to die, on March 13th, in the Senate Rules Committee. It included:
 
->Florida House Bill 657 (HB 657) is a comprehensive 2026 legislative proposal that creates a structured legal process for homeowners to dissolve a homeowners' association (HOA), streamlines community association dispute resolution, and establishes specialized court programs.
+>**Overview** is a comprehensive 2026 legislative proposal that creates a structured legal process for homeowners to dissolve a homeowners' association (HOA), streamlines community association dispute resolution, and establishes specialized court programs.
 
->HOA Termination Pathway: Establishes a formal statutory process allowing communities to dissolve an HOA. A petition signed by a specified percentage of owners (such as 20%) can trigger a mandatory meeting, requiring a two-thirds supermajority vote of all voting interests to approve a plan of termination.
+>**HOA Termination Pathway:** Establishes a formal statutory process allowing communities to dissolve an HOA. A petition signed by a specified percentage of owners (such as 20%) can trigger a mandatory meeting, requiring a two-thirds supermajority vote of all voting interests to approve a plan of termination.
 
 Action
 ------
