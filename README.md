@@ -251,8 +251,9 @@ Solutions
 
 >(Source: Google AI)
 
-Florida House Bill 657
-----------------------
+Florida House Bill 657 (2026)
+-----------------------------
+>House Bill 657 was overwhelming passed by the Florida House on 
 
 Action
 ------
