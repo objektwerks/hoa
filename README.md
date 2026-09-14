@@ -261,6 +261,8 @@ Florida House Bill 657 (2026)
 
 >**Termination Trustees:** Introduces a designated trustee role responsible for paying lawful debts, winding down operations, and distributing remaining assets fairly to property owners after an HOA dissolves.
 
+>**Community Association Court Program:** Authorizes Florida circuit courts to create dedicated court programs specifically handling condo and HOA disputes to reduce costs and delays compared to general civil courts.
+
 Action
 ------
 1. Filed report and supporting material with Englewood Sheriff's office.
