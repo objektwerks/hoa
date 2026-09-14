@@ -259,6 +259,8 @@ Florida House Bill 657 (2026)
 
 >**HOA Termination Pathway:** Establishes a formal statutory process allowing communities to dissolve an HOA. A petition signed by a specified percentage of owners (such as 20%) can trigger a mandatory meeting, requiring a two-thirds supermajority vote of all voting interests to approve a plan of termination.
 
+>**Termination Trustees:** Introduces a designated trustee role responsible for paying lawful debts, winding down operations, and distributing remaining assets fairly to property owners after an HOA dissolves.
+
 Action
 ------
 1. Filed report and supporting material with Englewood Sheriff's office.
