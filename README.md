@@ -269,6 +269,8 @@ Florida House Bill 657 (2026)
 
 >**Board Accountability:** Prohibits association boards from misusing funds to campaign against termination or unfairly blocking homeowner-requested meetings and records.
 
+>Florida is often reported as number 1 in HOA fraud. And the DOJ recently cited Florida as the 4th most corrupt state.
+
 Action
 ------
 1. Filed report and supporting material with Englewood Sheriff's office.
