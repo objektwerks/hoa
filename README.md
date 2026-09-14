@@ -255,6 +255,8 @@ Florida House Bill 657 (2026)
 -----------------------------
 >House Bill 657 was overwhelming passed by the Florida House on 
 
+>Florida House Bill 657 (HB 657) is a comprehensive 2026 legislative proposal that creates a structured legal process for homeowners to dissolve a homeowners' association (HOA), streamlines community association dispute resolution, and establishes specialized court programs.
+
 Action
 ------
 1. Filed report and supporting material with Englewood Sheriff's office.
