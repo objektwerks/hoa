@@ -313,6 +313,8 @@ Summary
 
 >The above ***actions*** and ***action outcomes*** bear witness to this analysis.
 
+>An HB 657 court system, had HB 657 passed, would have allowed HOA homeowners to pursue criminal charges against an HOA in a hybrind civil-criminal court of law.
+
 Evidence Package
 ----------------
 >A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request.
