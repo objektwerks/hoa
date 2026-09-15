@@ -253,7 +253,7 @@ Solutions
 
 Florida House Bill 657 (2026)
 -----------------------------
->House Bill 657 (HB 657) was overwhelming ***passed*** by the Florida House, on March 5th, by a vote of 108 to 2. Yet it was allowed to ***die***, on March 13th, in the Senate Rules Committee, a strong sign the ***one-house-bill***, or ***pass-and-die***, political strategy was employed. HB 657 included:
+>House Bill 657 (HB 657) was overwhelming ***passed*** by the Florida House, on March 5th, by a vote of 108 to 2. Yet it was allowed to ***die***, on March 13th, in the Senate Rules Committee, a strong sign the classic ***one-house-bill***, or ***pass-and-die***, political strategy was employed. HB 657 included:
 
 >**Overview** is a comprehensive 2026 legislative proposal that creates a structured legal process for homeowners to dissolve a homeowners' association (HOA), streamlines community association dispute resolution, and establishes specialized court programs.
 
