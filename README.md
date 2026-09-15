@@ -313,7 +313,7 @@ Summary
 
 >The above ***actions*** and ***action outcomes*** bear witness to this analysis.
 
->An HB 657 court system, had HB 657 passed, would have allowed HOA homeowners to pursue criminal charges against an HOA in a specialized civil court of law.
+>Yet, as we saw above, a special HB 657 court ***would not*** have the power to criminally prosecute HOA financial fraud.
 
 Evidence Package
 ----------------
