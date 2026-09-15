@@ -317,7 +317,7 @@ Summary
 
 >The above ***actions*** and ***action outcomes*** bear witness to this analysis.
 
->Yet, as we saw above, a special HB 657 court ***would not*** have the power to criminally prosecute HOA financial fraud.
+>Yet, as we saw above, a special HB 657 court ***would not*** appear to have the power to criminally prosecute HOA financial fraud.
 
 >Stil think your vote counts?
 
