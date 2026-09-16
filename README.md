@@ -2,6 +2,8 @@ WPA Financial Fraud Report
 ==========================
 >This report details financial fraud committed by the Windward Patio Association (WPA) board, its property management company, Grande Property Services (GPS) and Juniper Landscaping against WPA homeowners.
 
+>Please, read the license detailed at the end of this document.
+
 Homeowners Association (HOA)
 ----------------------------
 * **Windward Patio Association, Inc. (WPA)**
