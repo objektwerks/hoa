@@ -318,8 +318,6 @@ Summary
 
 >The above ***actions*** and ***action outcomes*** bear witness to this analysis.
 
->Yet, as we saw above, a special HB 657 court ***would not*** appear to have the power to criminally prosecute HOA financial fraud.
-
 Evidence Package
 ----------------
 >A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request and approval.
