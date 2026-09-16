@@ -2,7 +2,10 @@ WPA Financial Fraud Report
 ==========================
 >This report details financial fraud committed by the Windward Patio Association (WPA) board, its property management company, Grande Property Services (GPS) and Juniper Landscaping against WPA homeowners.
 
->Please, read the license detailed at the end of this document.
+License
+-------
+>Definition of the word: **herein** - the entirety of this document and any associated documents.
+>*The information provided herein is for general informational and educational purposes only. All information herein is provided in good faith; however, I make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information herein. Under no circumstance shall I have any liability to you for any loss or damage of any kind incurred as a result of the use of this information or reliance on any information provided herein. Your use of this information and your reliance on any information herein is solely at your own risk.*
 
 Homeowners Association (HOA)
 ----------------------------
@@ -320,8 +323,3 @@ Evidence Package
 >A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request and approval.
 
 >Email ***capehaze@runbox.com*** for an evidence appointment. At the appointed date and time, provide a 2+ GB FAT32 USB 2.0/3.0 compliant flash drive. It will require a few hours to create the evidence flash drive, at which time you will be notified and arrange for a pickup date and time.
-
-License
--------
->Definition of the word: **herein** - the entirety of this document and any associated documents.
->*The information provided herein is for general informational and educational purposes only. All information herein is provided in good faith; however, I make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information herein. Under no circumstance shall I have any liability to you for any loss or damage of any kind incurred as a result of the use of this information or reliance on any information provided herein. Your use of this information and your reliance on any information herein is solely at your own risk.*
