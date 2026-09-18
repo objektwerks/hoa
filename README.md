@@ -318,7 +318,7 @@ Summary
 
 >The above ***actions*** and ***action outcomes*** bear witness to this analysis.
 
->That said, the law appears to be constantly fluid, full of contradictions and open to interpretation - making it nearly impossible for the layperson to defend themselves and/or their property in a court of law.
+>That said, Florida law appears to be constantly fluid, full of contradictions and open to interpretation - making it nearly impossible for the layperson to defend themselves and/or their property in a court of law.
 
 Evidence Package
 ----------------
