@@ -225,7 +225,7 @@ Analysis
 * **Vendor Kickbacks:** A corrupt board member or manager accepts a bribe from a vendor in exchange for awarding them a contract. The vendor then inflates the cost of the contract, splitting the excess profits with the board member. Recent Florida law has made kickbacks related to fines a third-degree felony.
 * **Fictitious or "ghost" Vendors:** An HOA insider creates fake companies and funnels association funds to these entities through fraudulent invoices for services that were never performed.
 * **Conflicts of Interest:** A board member awards a lucrative contract to a company they own or have a financial interest in, without proper disclosure to the rest of the board. Florida law strictly prohibits board members from soliciting or accepting anything of value from vendors for which no consideration has been given.
-* **Overbilling or Non-performance:** A vendor bills the association for more hours or a higher level of work than was actually completed. In other cases, ***a vendor is paid for services that were never rendered***.
+* **overwilling or Non-performance:** A vendor bills the association for more hours or a higher level of work than was actually completed. In other cases, ***a vendor is paid for services that were never rendered***.
 
 >(Source: Google AI)
 
@@ -237,7 +237,7 @@ Analysis
 1. **Third-Degree Felony:** Applies to fraud, embezzlement, or kickbacks involving between $750 and $20,000. This is punishable by up to 5 years in prison and a $5,000 fine.
 2. **Second-Degree Felony:** Applies to fraud involving between $20,000 and $50,000. This is punishable by up to 15 years in prison and a $10,000 fine.
 3. **First-Degree Felony:** Applies to organized fraud or theft of $50,000 or more. This carries penalties of up to 30 years in prison and a $10,000 fine.
->But do these penalites apply in a civil court? Research suggests not. Instead, a prosecutor must file seperate criminal charges. And what are the odds of that occurring?
+>But do these penalties apply in a civil court? Research suggests not. Instead, a prosecutor must file seperate criminal charges. And what are the odds of that occurring?
 
 Solutions
 ---------
