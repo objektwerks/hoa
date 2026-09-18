@@ -303,7 +303,7 @@ Action Outcomes
 
 >*The Florida Attorney General's Office often appears to "ignore" or decline action on HOA financial fraud reports because the Attorney General and state administrative agencies have very limited direct regulatory or criminal jurisdiction over private Homeowners Associations.*
 
->*Financial mismanagement, budget disputes, or failure to produce records are often treated as civil contract disputes between homeowners and the private board, requiring a private civil lawsuit rather than state criminal prosecution—unless explicit, provable criminal grand theft or systemic embezzlement occurs.*
+>*Financial mismanagement, budget disputes, or failure to produce records are often treated as civil contract disputes between homeowners and the private board, requiring a private civil lawsuit rather than state criminal prosecution — unless explicit, provable criminal grand theft or systemic embezzlement occurs.*
 
 >(Source: Google AI)
 
