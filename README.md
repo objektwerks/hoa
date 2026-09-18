@@ -241,7 +241,7 @@ Analysis
 
 The Law
 -------
->As evidenced herein, the law appears to be constantly fluid and full of contradictions - making it nearly impossible for the layperson to defend themselves and/or their property in a court of law.
+>As evidenced herein, the law appears to be constantly fluid, full of contradictions and open to interpretation - making it nearly impossible for the layperson to defend themselves and/or their property in a court of law.
 
 Solutions
 ---------
