@@ -136,7 +136,7 @@ LCS Reports
 16. Fail : 2025.9.16 : 40% : WPA pruning ( part 2 of report mislabeled as 2025.8.16 )
 17. Fail : 2025.9.23 : 20% : property damage, WPA edging
 18. Fail : 2025.9.30 : 0% : WPA edging
-19. Fail : 2025.10.7 : 50% : property damage, WPA mowing, edging ( report mislabed 2025.9.7 )
+19. Fail : 2025.10.7 : 50% : property damage, WPA mowing, edging ( report mislabeled 2025.9.7 )
 20. Fail : 2025.10.14 : 20% : property damage, WPA edging, pruning
 21. Fail : 2025.10.21 : 20%
 22. **Pass** : 2025.10.28 : 0%
