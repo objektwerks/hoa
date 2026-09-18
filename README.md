@@ -317,6 +317,10 @@ Summary
 
 >The above ***actions*** and ***action outcomes*** bear witness to this analysis.
 
+The Law
+-------
+>As evidenced herein, the law is constantly fluid and full of contradictions - making it nearly impossible for the layperson to defend themselves and/or their property in a court of law.
+
 Evidence Package
 ----------------
 >A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request and approval.
