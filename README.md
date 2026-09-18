@@ -320,6 +320,8 @@ Summary
 
 >That said, Florida law appears to be constantly fluid, full of contradictions and open to interpretation - making it nearly impossible for the layperson to defend themselves and/or their property in a court of law.
 
+>In other words, the legal system is a racket - to paraphrase a famous quote by Marine Corp General, Smedley D. Butler.
+
 Evidence Package
 ----------------
 >A USB flash drive containing contracts, emails, invoices, notes, photos and reports, available upon request and approval.
