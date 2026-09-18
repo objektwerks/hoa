@@ -239,6 +239,10 @@ Analysis
 3. **First-Degree Felony:** Applies to organized fraud or theft of $50,000 or more. This carries penalties of up to 30 years in prison and a $10,000 fine.
 >But do these penalites apply in a civil court? Research suggests not. Instead, a prosecutor must file seperate criminal charges. And what are the odds of that occurring?
 
+The Law
+-------
+>As evidenced herein, the law appears to be constantly fluid and full of contradictions - making it nearly impossible for the layperson to defend themselves and/or their property in a court of law.
+
 Solutions
 ---------
 >Solutions for WPA homeowners include:
@@ -317,10 +321,6 @@ Summary
 >Alternatively, HOA homeowners ***must*** leverage HOA bylaws and the applicable Florida statutes to forceably remove an HOA board and property management concern.
 
 >The above ***actions*** and ***action outcomes*** bear witness to this analysis.
-
-The Law
--------
->As evidenced herein, the law is constantly fluid and full of contradictions - making it nearly impossible for the layperson to defend themselves and/or their property in a court of law.
 
 Evidence Package
 ----------------
