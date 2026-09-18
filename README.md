@@ -314,7 +314,7 @@ Summary
 
 >Instead, HOA homeowners ***must*** file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law as it pertains to HOA financial fraud.
 
->Alternatively, HOA homeowners ***must*** leverage HOA bylaws and the applicable Florida statutes to forcibly remove an HOA board and property management concern.
+>Alternatively, HOA homeowners ***must*** leverage HOA bylaws and applicable Florida statutes to forcibly remove an HOA board and property management concern.
 
 >The above ***actions*** and ***action outcomes*** bear witness to this analysis.
 
