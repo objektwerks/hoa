@@ -237,7 +237,7 @@ Analysis
 1. **Third-Degree Felony:** Applies to fraud, embezzlement, or kickbacks involving between $750 and $20,000. This is punishable by up to 5 years in prison and a $5,000 fine.
 2. **Second-Degree Felony:** Applies to fraud involving between $20,000 and $50,000. This is punishable by up to 15 years in prison and a $10,000 fine.
 3. **First-Degree Felony:** Applies to organized fraud or theft of $50,000 or more. This carries penalties of up to 30 years in prison and a $10,000 fine.
->But do these penalites apply in a civil court? Research suggests not. Instead, a prosecutor must file seperate criminal charges.
+>But do these penalites apply in a civil court? Research suggests not. Instead, a prosecutor must file seperate criminal charges. And what are the odds of that occurring?
 
 Solutions
 ---------
