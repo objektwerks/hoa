@@ -316,9 +316,7 @@ Summary
 
 >Alternatively, HOA homeowners ***must*** leverage HOA bylaws and applicable Florida statutes to forcibly remove an HOA board and property management concern.
 
->The above ***actions*** and ***action outcomes*** bear witness to this analysis.
-
->Moreover, Florida law appears to be constantly fluid, full of contradictions and open to interpretation - making it nearly impossible for the layperson to defend themselves and/or their property in or out of a Florida court of law.
+>To the layperson, Florida law appears to be constantly fluid, full of contradictions and open to interpretation.
 
 >In other words, the Florida legal system is a racket - to paraphrase a famous quote by Marine Corp General, Smedley D. Butler (1933, 1935).
 
