@@ -247,7 +247,7 @@ Solutions
 3. Remove the WPA board, fire Juniper and GPS; elect a new board, hire a CPA to administrate the WPA and require WPA homeowners to hire their own LCS.
 4. Remove the WPA board, fire Juniper and GPS; elect a new board, hire a new PMC, and allow homeowners to grow any kind of grass - to include Florida-friendly landscaping.
 5. Legally dissolve the WPA.
-6. Take the WPA and GPS to court.
+6. After mediation, take the WPA and GPS to court.
 7. Report WPA and GPS illegal activities to local and/or state law enforcement entities, which are legally obligated to investigate illegal HOA activities.
 
 **Legal Analysis:**
