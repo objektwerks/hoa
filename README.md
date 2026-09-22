@@ -314,7 +314,7 @@ Summary
 
 >Instead, HOA homeowners ***must*** file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law as it pertains to HOA financial fraud. Note, pre-suit mediation ***is not*** required.
 
->To the HOA homeowner, Florida law appears to be constantly fluid, full of contradictions and open to interpretation.
+>To the HOA homeowner, Florida law appears to be ***constantly*** fluid, full of contradictions and open to interpretation.
 
 >In other words, the Florida legal system is a racket - to paraphrase a famous quote by Marine Corp General, Smedley D. Butler (1933, 1935).
 
