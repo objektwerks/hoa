@@ -314,7 +314,7 @@ Summary
 
 >Instead, HOA homeowners ***must*** file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law as it pertains to HOA financial fraud. Note, pre-suit mediation ***is not*** required.
 
->Alternatively, HOA homeowners ***must*** leverage HOA bylaws and applicable Florida statutes to forcibly remove an HOA board and property management concern.
+>Alternatively, HOA homeowners ***must*** leverage HOA bylaws and applicable Florida statutes to forcibly remove an HOA board and property management company.
 
 >To the layperson, Florida law appears to be constantly fluid, full of contradictions and open to interpretation.
 
