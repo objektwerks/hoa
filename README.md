@@ -320,7 +320,7 @@ Summary
 
 >Moreover, Florida law appears to be constantly fluid, full of contradictions and open to interpretation - making it nearly impossible for the layperson to defend themselves and/or their property in or out of a Florida court of law.
 
->In other words, the Florida legal system is a racket - to paraphrase a famous quote by Marine Corp General, Smedley D. Butler.
+>In other words, the Florida legal system is a racket - to paraphrase a famous quote by Marine Corp General, Smedley D. Butler (1933, 1935).
 
 Evidence Package
 ----------------
