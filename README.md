@@ -316,7 +316,7 @@ Summary
 
 >To the HOA homeowner, Florida law appears to be ***constantly*** fluid, full of contradictions and open to interpretation.
 
->In other words, the Florida legal system is a racket - to paraphrase a famous quote by Marine Corp General, Smedley D. Butler (1933, 1935).
+>In other words, the Florida legal system is a ***racket*** - to paraphrase a famous quote by Marine Corp General, Smedley D. Butler (1933, 1935).
 
 Evidence Package
 ----------------
