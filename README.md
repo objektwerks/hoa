@@ -312,7 +312,7 @@ Summary
 -------
 >Clearly, Florida law enforcement ***will not*** respond to HOA financial fraud complaints.
 
->Instead, HOA homeowners ***must***, first, go thru mediation and then, and only then, can they file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law as it pertains to HOA financial fraud.
+>Instead, HOA homeowners ***must***, first, go thru pre-suit mediation and then, and only then, can they file a civil lawsuit in an effort to force Florida law enforcement to enforce Florida law as it pertains to HOA financial fraud.
 
 >Alternatively, HOA homeowners ***must*** leverage HOA bylaws and applicable Florida statutes to forcibly remove an HOA board and property management concern.
 
