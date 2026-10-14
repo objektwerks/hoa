@@ -249,7 +249,7 @@ Solutions
 5. Legally dissolve the WPA.
 6. File a civil lawsuit against the WPA and GPS. Pre-suit mediation is not required in the case of financial fraud.
 7. Report WPA and GPS illegal activities to local and/or state law enforcement entities, which are legally obligated to investigate illegal HOA activities.
-8. Merge the sub-HOA, WPA, with the master-HOA, Cape Haze Windward POA, Inc.; remove Juniper; remove GPS; and self-manage the newly merged HOA with accounting, legal and general services as required. The newly merged HOA will require all homeowners to manage their own lawn care; as the current master-HOA does today.
+8. Merge the sub-HOA, WPA, with the master-HOA, Cape Haze Windward POA, Inc.; remove Juniper; remove GPS; and self-manage the newly merged HOA with accounting, legal and general services as required. The newly merged HOA will require all homeowners to manage their own lawn care; as the current master-HOA does today. This solution should dramatically lower the new master HOA annual fee.
 
 **Legal Analysis:**
 
