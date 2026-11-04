@@ -283,7 +283,7 @@ Action
 2. Filed report and supporting material with Charlotte County Economic Crimes Unit.
 3. Filed report with the Local State Attorney's Office in Punta Gorda.
 4. Filed report with Florida Attorney General in Tallahassee.
-5. File report with Florida Representative, Danny Nix Jr ( after election on November 3rd ).
+5. File report with Florida Representative, Danny Nix Jr ( 18500 Murdock Circle, Suite B200, Port Charlotte, FL 33948 ).
 
 Action Outcomes
 ---------------
