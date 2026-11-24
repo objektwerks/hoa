@@ -291,7 +291,7 @@ Action Outcomes
 2. 2026-6-5,12:40PM - An officer from the Charlotte County Economic Crimes Unit explained even though this case of ***financial fraud*** may rise to the level of a ***felony***, it's still a ***civil*** offense that must be resolved in a court of law.
 3. 2026-6-15,8:43AM - Local State Attorney's Office in Punta Gorda received my report via certified mail (Tracking: 9589 0710 5270 3575 8454 62, Receipt: 9590 9402 9932 5335 2338 03). ***No response to date***.
 4. 2026-7-27,8:50AM - Florida Attorney General received my report via certified mail (Tracking: 9589 0710 5270 3575 8482 34, Receipt: 9590 9402 0142 6110 8448 89). A canned response email was received on 2026.11.13, which is available in the evidence package. The FL AG suggested above Action targets, 1-3, can handle this case of HOA financial fraud. No wonder Florida is number one in HOA fraud.
-5. 2026-11-17 - Representative Nix Jr. received my report via certified mail (Tracking: 9589 0710 5270 3575 8484 94, Receipt: ). ***No response to date***.
+5. 2026-11-17 - Representative Nix Jr. received my report via certified mail (Tracking: 9589 0710 5270 3575 8484 94, Receipt: Pending). ***No response to date***.
 
 **Legal Analysis:**
 
